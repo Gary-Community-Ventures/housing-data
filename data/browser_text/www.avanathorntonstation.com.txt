@@ -1,0 +1,174 @@
+https://www.avanathorntonstation.com/thornton/avana-thornton-station/conventional
+---PAGETEXT---
+[NOTE: get_page_text only returned homepage marketing carousel content; the floor plan data lives in the main content region of the /conventional page. Captured via accessibility-tree read_page instead, verbatim structure below.]
+
+heading "PRICING + AVAILABILITY"
+
+main "Main content"
+ generic "Our goal is to help you plan your budget with ease. Planning your budget is essential, and we're here..."
+  list
+   listitem ": The monthly rent for the rental home."
+    generic "Base Rent"
+   listitem ": Base Rent plus fixed, mandatory monthly fees."
+    generic "Total Monthly Leasing Price"
+ button "View Floor Plans"
+ button "View Interactive Map"
+ heading "Search Filter"
+ list (filters)
+  listitem: label "Move-in Date"
+  listitem: label "Beds" combobox "Any" options: Any, 1+, 2+, 3
+  listitem: label "Baths" combobox "Any" options: Any, 1+, 2+
+  listitem: button "Filter Floor Plans"
+ heading "1 Bed 6"
+ combobox "1 Bed (6)" options: "1 Bed (6)" (selected), "2 Bed (9)", "3 Bed (3)"
+ tablist: tab "1 Bed", tab "2 Bed", tab "3 Bed"
+
+ list (1 Bed floor plans)
+  listitem
+   link "A1 Classic" href="https://www.avanathorntonstation.com/thornton/avana-thornton-station/floorplans/a1-classic-723195/fp_name/occupancy_type/conventional/"
+   heading "A1 Classic"
+   generic "Beds / Baths" generic "1 / 1"
+   generic "Total Monthly Leasing Price Starting from" generic "$1,445"
+    note: generic "Base Rent:" generic "$1,437+/month"
+   generic "Deposit" generic "$250"
+   generic "Sq. Ft" generic "721"
+   tooltip: "Up to 6-weeks free off base rent" — "Lease today and receive 6 weeks FREE base rent. Move-In by 8/31 and receive an additional $1000 eGif..."
+   button "Available Sep 16, 2026"
+  listitem
+   link "A1 Modern" href="https://www.avanathorntonstation.com/thornton/avana-thornton-station/floorplans/a1-modern-723197/fp_name/occupancy_type/conventional/"
+   heading "A1 Modern"
+   generic "Beds / Baths" generic "1 / 1"
+   generic "Deposit" generic "$250"
+   generic "Sq. Ft" generic "721"
+   button "Get Notified of A1 Modern"
+  listitem
+   link "A1 Modern II" href="https://www.avanathorntonstation.com/thornton/avana-thornton-station/floorplans/a1-modern-ii-778958/fp_name/occupancy_type/conventional/"
+   heading "A1 Modern II"
+   generic "Beds / Baths" generic "1 / 1"
+   generic "Sq. Ft" generic "721"
+   button "Get Notified of A1 Modern II"
+  listitem
+   link "A2 Classic" href="https://www.avanathorntonstation.com/thornton/avana-thornton-station/floorplans/a2-classic-723199/fp_name/occupancy_type/conventional/"
+   heading "A2 Classic"
+   generic "Beds / Baths" generic "1 / 1"
+   generic "Total Monthly Leasing Price Starting from" generic "$1,533"
+    note: generic "Base Rent:" generic "$1,525+/month"
+   generic "Deposit" generic "$250"
+   generic "Sq. Ft" generic "827"
+   button "Available Aug 24, 2026"
+  listitem
+   link "A2 Modern" href="https://www.avanathorntonstation.com/thornton/avana-thornton-station/floorplans/a2-modern-723201/fp_name/occupancy_type/conventional/"
+   heading "A2 Modern"
+   generic "Beds / Baths" generic "1 / 1"
+   generic "Total Monthly Leasing Price Starting from" generic "$1,685"
+    note: generic "Base Rent:" generic "$1,677+/month"
+   generic "Deposit" generic "$250"
+   generic "Sq. Ft" generic "827"
+   button "Only One Left in A2 Modern"
+  listitem
+   link "A2 Modern II" href="https://www.avanathorntonstation.com/thornton/avana-thornton-station/floorplans/a2-modern-ii-778960/fp_name/occupancy_type/conventional/"
+   heading "A2 Modern II"
+   generic "Beds / Baths" generic "1 / 1"
+   generic "Total Monthly Leasing Price Starting from" generic "$1,817"
+   generic "Sq. Ft" generic "827"
+   button "5 Available in A2 Modern II"
+
+ list (2 Bed floor plans)
+  listitem
+   link "B1 Classic" href="https://www.avanathorntonstation.com/thornton/avana-thornton-station/floorplans/b1-classic-723203/fp_name/occupancy_type/conventional/"
+   heading "B1 Classic"
+   generic "Beds / Baths" generic "2 / 1"
+   generic "Deposit" generic "$300"
+   generic "Sq. Ft" generic "1,006"
+   button "Get Notified of B1 Classic"
+  listitem
+   link "B1 Modern" href="https://www.avanathorntonstation.com/thornton/avana-thornton-station/floorplans/b1-modern-723205/fp_name/occupancy_type/conventional/"
+   heading "B1 Modern"
+   generic "Beds / Baths" generic "2 / 1"
+   generic "Deposit" generic "$300"
+   generic "Sq. Ft" generic "1,006"
+   button "Get Notified of B1 Modern"
+  listitem
+   link "B1 Modern II" href="https://www.avanathorntonstation.com/thornton/avana-thornton-station/floorplans/b1-modern-ii-778962/fp_name/occupancy_type/conventional/"
+   heading "B1 Modern II"
+   generic "Beds / Baths" generic "2 / 1"
+   generic "Sq. Ft" generic "1,006"
+   button "Get Notified of B1 Modern II"
+  listitem
+   link "B2 Classic" href="https://www.avanathorntonstation.com/thornton/avana-thornton-station/floorplans/b2-classic-723207/fp_name/occupancy_type/conventional/"
+   heading "B2 Classic"
+   generic "Beds / Baths" generic "2 / 2"
+   generic "Total Monthly Leasing Price Starting from" generic "$1,867"
+    note: generic "Base Rent:" generic "$1,859+/month"
+   generic "Deposit" generic "$300"
+   generic "Sq. Ft" generic "1,171"
+   button "Available Nov 04, 2026"
+  listitem
+   link "B2 Modern" href="https://www.avanathorntonstation.com/thornton/avana-thornton-station/floorplans/b2-modern-723209/fp_name/occupancy_type/conventional/"
+   heading "B2 Modern"
+   generic "Beds / Baths" generic "2 / 2"
+   generic "Total Monthly Leasing Price Starting from" generic "$1,958"
+    note: generic "Base Rent:" generic "$1,950+/month"
+   generic "Deposit" generic "$300"
+   generic "Sq. Ft" generic "1,171"
+   button "2 Available in B2 Modern"
+  listitem
+   link "B2 Modern II" href="https://www.avanathorntonstation.com/thornton/avana-thornton-station/floorplans/b2-modern-ii-778964/fp_name/occupancy_type/conventional/"
+   heading "B2 Modern II"
+   generic "Beds / Baths" generic "2 / 2"
+   generic "Total Monthly Leasing Price Starting from" generic "$2,212"
+   generic "Sq. Ft" generic "1,171"
+   button "2 Available in B2 Modern II"
+  listitem
+   link "B3 Classic" href="https://www.avanathorntonstation.com/thornton/avana-thornton-station/floorplans/b3-classic-723211/fp_name/occupancy_type/conventional/"
+   heading "B3 Classic"
+   generic "Beds / Baths" generic "2 / 2"
+   generic "Total Monthly Leasing Price Starting from" generic "$1,889"
+    note: generic "Base Rent:" generic "$1,881+/month"
+   generic "Deposit" generic "$300"
+   generic "Sq. Ft" generic "1,148"
+   button "Available Sep 07, 2026"
+  listitem
+   link "B3 Modern" href="https://www.avanathorntonstation.com/thornton/avana-thornton-station/floorplans/b3-modern-723213/fp_name/occupancy_type/conventional/"
+   heading "B3 Modern"
+   generic "Beds / Baths" generic "2 / 2"
+   generic "Total Monthly Leasing Price Starting from" generic "$1,876"
+    note: generic "Base Rent:" generic "$1,868+/month"
+   generic "Deposit" generic "$300"
+   generic "Sq. Ft" generic "1,148"
+   button "Available Sep 14, 2026"
+  listitem
+   link "B3 Modern II" href="https://www.avanathorntonstation.com/thornton/avana-thornton-station/floorplans/b3-modern-ii-778966/fp_name/occupancy_type/conventional/"
+   heading "B3 Modern II"
+   generic "Beds / Baths" generic "2 / 2"
+   generic "Sq. Ft" generic "1,148"
+   button "Get Notified of B3 Modern II"
+
+ list (3 Bed floor plans)
+  listitem
+   link "C1 Classic" href="https://www.avanathorntonstation.com/thornton/avana-thornton-station/floorplans/c1-classic-723215/fp_name/occupancy_type/conventional/"
+   heading "C1 Classic"
+   generic "Beds / Baths" generic "3 / 2"
+   generic "Total Monthly Leasing Price Starting from" generic "$2,460"
+    note: generic "Base Rent:" generic "$2,452+/month"
+   generic "Deposit" generic "$350"
+   generic "Sq. Ft" generic "1,358"
+   button "Available Aug 28, 2026"
+  listitem
+   link "C1 Modern" href="https://www.avanathorntonstation.com/thornton/avana-thornton-station/floorplans/c1-modern-723217/fp_name/occupancy_type/conventional/"
+   heading "C1 Modern"
+   generic "Beds / Baths" generic "3 / 2"
+   generic "Deposit" generic "$350"
+   generic "Sq. Ft" generic "1,358"
+   button "Get Notified of C1 Modern"
+  listitem
+   link "C1 Modern II" href="https://www.avanathorntonstation.com/thornton/avana-thornton-station/floorplans/c1-modern-ii-778968/fp_name/occupancy_type/conventional/"
+   heading "C1 Modern II"
+   generic "Beds / Baths" generic "3 / 2"
+   generic "Total Monthly Leasing Price Starting from" generic "$2,936"
+   generic "Sq. Ft" generic "1,358"
+   button "Only One Left in C1 Modern II"
+
+ generic "Interactive Map"
+ generic "Embedded Canva design showing community fee details"
+ generic "*Pricing and availability are subject to change. Rent is based on monthly frequency. Additional fees..."

@@ -1,0 +1,29 @@
+https://www.newgateapthomes.com/wheat-ridge/newgate/conventional/
+---PAGETEXT---
+[NOTE: captured via accessibility-tree read_page; get_page_text returned only homepage marketing carousel.]
+
+heading "Our Floor Plans"
+
+1BR/1BA - 1A | 693 sq. ft | Total Monthly Leasing Price Starting from $1,255 | $750 deposit | 6 Units Available
+ href: https://www.newgateapthomes.com/floorplans/wheat-ridge-CO/newgate/1br1ba-1a-1118417-1/
+
+2BR/2BA - 2A | 1,161 sq. ft | Total Monthly Leasing Price Starting from $1,745 | $750 deposit | 4 Units Available
+ href: https://www.newgateapthomes.com/floorplans/wheat-ridge-CO/newgate/2br2ba-2a-1118418-1/
+
+2BR/2BA - 2B | 1,300 sq. ft | (no price/availability listed)
+ href: https://www.newgateapthomes.com/floorplans/wheat-ridge-CO/newgate/2br2ba-2b-1118419-1/
+
+link "Full Fee Disclosure (opens in a new tab)" href="https://drive.google.com/file/d/1_-_yfhHa2_Q3sqKg3veUMko0SytW83jU/view?usp=sharing"
+generic "Pricing and availability are subject to change. Rent is based on monthly frequency. SQFT listed is ..."
+
+FAQ:
+Q: "How much is rent at Newgate?"
+A: "Rent at Newgate ranges from $1,255.00 to $1,745.00 per month. Pricing varies by floor plan size, bed..."
+Q: "What bedroom options are available at Newgate?"
+A: "Newgate offers 1 bedroom, 2 bedroom apartments across 3 floor plan options."
+Q: "How big are the apartments at Newgate?"
+A: "Apartments at Newgate range from 693 to 1,300 square feet. View individual floor plans for specific ..."
+Q: "Which floor plans are currently available at Newgate?"
+A: "Floor plans currently available at Newgate include: 1BR/1BA - 1A, 2BR/2BA - 2A. Contact our leasing ..."
+Q: "What floor plans are available at Newgate?"
+A: "Newgate offers 3 floor plan options including 1 -bedroom and 2 -bedroom apartments. Browse the listi..."

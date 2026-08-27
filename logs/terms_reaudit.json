@@ -1,0 +1,2122 @@
+[
+ {
+  "site": "dialseniorliving.com",
+  "terms_url": "https://dialseniorliving.com/terms-and-conditions/",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:32.076655+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.brookdale.com",
+  "terms_url": "https://www.brookdale.com:443/en/privacy-policy/terms-of-use.html",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:32.073250+00:00",
+  "automation_mentions": 4
+ },
+ {
+  "site": "www.grantrowlofts.com",
+  "terms_url": "https://www.aircommunities.com/en/terms-of-use.html",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:32.072624+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.bmcinv.com",
+  "terms_url": "https://www.bmcinv.com/terms-of-use",
+  "prior_verdict": "SILENT",
+  "new_verdict": "PROHIBITS",
+  "snippets": [
+   {
+    "stem": "(same sentence)",
+    "term": "scrape",
+    "text": "You are prohibited from using any robot, spider, or other automatic device or manual process to scrape, monitor, mine, retrieve, or copy the Investor Portal or its Content without our prior written permission.",
+    "scope": "site-content"
+   },
+   {
+    "stem": "Acceptable Use",
+    "term": "scrape",
+    "text": "such information. d. No Scraping. You are prohibited from using any robot, spider, or other automatic device or manual process to scrape, monitor, mine, retrieve, or copy the Investor Portal or its Content without our prior written permission. e. No Linking or Framing. You are prohibited from linking or framing any portion of the Investor Portal or",
+    "scope": "site-content"
+   },
+   {
+    "stem": "You are prohibited",
+    "term": "scrape",
+    "text": "from using any robot, spider, or other automatic device or manual process to scrape, monitor, mine, retrieve, or copy the Investor Portal or its Content without our prior written permission. e. No Linking or Framing. You are prohibited from linking or framing any portion of the Investor Portal or",
+    "scope": "site-content"
+   }
+  ],
+  "checked_at": "2026-08-20T22:06:32.074035+00:00",
+  "automation_mentions": 5
+ },
+ {
+  "site": "livethedorsey.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:32.076550+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "parqliving.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:32.073912+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.noviatlowry.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:32.074164+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "vellaterrakinston.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:32.074813+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.lowryparkapartments.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:32.076939+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "liveoverture.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:32.074661+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.sagedenver.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:35.251602+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.lorettoheights.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:35.344066+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "avenidaatcenterra.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:35.237915+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "livemercer.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:35.669183+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "sorellaapartments.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:35.682394+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.thehenrydenver.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:35.454436+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.lakeviewtowers.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:35.734316+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "palominopark.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:36.010761+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "solanacentralpark.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:36.021885+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "ascendatarcadia.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:36.085846+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "lanternstownhomes.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:38.746106+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "broadstonewren.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:38.795150+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.parkatcanyonridge.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:38.786648+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "liveoutlookhorizons.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:38.786941+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.bostonloftsapartments.com",
+  "terms_url": "https://www.aircommunities.com/en/terms-of-use.html",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:38.889358+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "liveatmountaingate.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:38.910021+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "liveathalden.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:42.097169+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "griffisresidential.com",
+  "terms_url": "https://griffisresidential.com/terms-and-conditions/",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:38.962262+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.montevista-apartments.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:39.224948+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "cornerstoneapartments.com",
+  "terms_url": "https://cornerstoneapartments.com/terms-and-conditions/",
+  "prior_verdict": "SILENT",
+  "new_verdict": "PROHIBITS",
+  "snippets": [
+   {
+    "stem": "(same sentence)",
+    "term": "scraping",
+    "text": "You must not conduct any systematic or automated data collection activities (including without limitation scraping, data mining, data extraction and data harvesting) on or in relation to this website without Cornerstone Apartment Services, Inc.\u2019s express written consent.",
+    "scope": "site-content"
+   },
+   {
+    "stem": "you must not",
+    "term": "scraping",
+    "text": "ious computer software. You must not conduct any systematic or automated data collection activities (including without limitation scraping, data mining, data extraction and data harvesting) on or in relation to this website without Cornerstone Apartment Services, Inc.\u2019s express written consent. You must not use this website for any purposes related",
+    "scope": "site-content"
+   },
+   {
+    "stem": "You must not",
+    "term": "scraping",
+    "text": "conduct any systematic or automated data collection activities (including without limitation scraping, data mining, data extraction and data harvesting) on or in relation to this website without Cornerstone Apartment Services, Inc.\u2019s express written consent. You must not use this website for any purposes related",
+    "scope": "site-content"
+   }
+  ],
+  "checked_at": "2026-08-20T22:06:39.253894+00:00",
+  "automation_mentions": 5
+ },
+ {
+  "site": "apartments.cortland.com",
+  "terms_url": "https://cortland.com/terms-and-disclosures/",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:39.248230+00:00",
+  "automation_mentions": 1
+ },
+ {
+  "site": "ryecentralpark.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:43.017343+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.oakstreetstationapts.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:43.164211+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.arvadahouseapartments.com",
+  "terms_url": "https://www.related.com/terms-use",
+  "prior_verdict": "SILENT",
+  "new_verdict": "PROHIBITS",
+  "snippets": [
+   {
+    "stem": "you must not",
+    "term": "scrape",
+    "text": "r malicious code designed to attack, damage, divert, take over, disable, overburden, or otherwise impair the Services. Attempt to scrape or collect any personal or private information from the Services or from other users of the Services. Resell the Services, in whole or in part, or any content residing or displayed within or through the Services.",
+    "scope": "site-content"
+   }
+  ],
+  "checked_at": "2026-08-20T22:06:41.920721+00:00",
+  "automation_mentions": 1
+ },
+ {
+  "site": "broadstonesr.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:41.893101+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "dorianliving.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:41.962600+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "ambleatfirstcreek.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:42.017788+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "altamilehigh.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:42.106894+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.2785speer.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:42.444505+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.thegroveatcitycenter.com",
+  "terms_url": "https://www.thegroveatcitycenter.com/terms-of-service",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:42.266592+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.goddardschool.com",
+  "terms_url": "https://privacy.goddardsystems.com/Home/TermsAndConditions",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:42.239622+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.livethehavenapartments.com",
+  "terms_url": "https://www.aircommunities.com/en/terms-of-use.html",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:45.779168+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.parkplaceat92nd.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:43.219858+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.cielodtc.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:43.425142+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.townshipresidences.com",
+  "terms_url": "https://www.aircommunities.com/en/terms-of-use.html",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:44.997931+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "theargonnedenver.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:45.179138+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.amli.com",
+  "terms_url": "https://www.amli.com/terms-of-use",
+  "prior_verdict": "SILENT",
+  "new_verdict": "PROHIBITS",
+  "snippets": [
+   {
+    "stem": "You are prohibited",
+    "term": "scrape",
+    "text": "nsolicited mass emailing techniques; alters, damages, or deletes any content posted on the Websites or Services; frames, mirrors, scrapes or data-mines the content of the Websites or Services; contains computer viruses or other disruptive, disabling, damaging or harmful files or programs; or otherwise violates these Terms of Use or any other guidel",
+    "scope": "site-content"
+   }
+  ],
+  "checked_at": "2026-08-20T22:06:45.095864+00:00",
+  "automation_mentions": 1
+ },
+ {
+  "site": "promenadeplace.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:45.267353+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.pineandparkerapts.com",
+  "terms_url": "https://www.aircommunities.com/en/terms-of-use.html",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:45.261826+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "liveeverleigh.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:48.455312+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.addisonatcherrycreek.com",
+  "terms_url": "https://www.conam.com/terms-of-use/",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:45.671550+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.thevueatspringcreek.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:45.650155+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.skyviewapthomes.com",
+  "terms_url": "https://www.aircommunities.com/en/terms-of-use.html",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:45.864542+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "waterfordatsouthlands.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:46.346844+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.villagecreekco.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:46.641852+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.liveatmosaic.com",
+  "terms_url": "https://www.assetliving.com/legal/disclosures",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:48.206822+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.thepalmerliving.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:51.316379+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.summittridge.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:48.393760+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "solanalakewood.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:48.656939+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.avaloncommunities.com",
+  "terms_url": "https://www.avaloncommunities.com/terms-of-use/",
+  "prior_verdict": "SILENT",
+  "new_verdict": "UNREADABLE",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:48.490508+00:00",
+  "detail": "http_error HTTP 403"
+ },
+ {
+  "site": "thecharlesdenverwest.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:52.051199+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.steelranchliving.com",
+  "terms_url": "https://fpimgt.com/legal/",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:48.498663+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.braxtonlakewood.com",
+  "terms_url": "https://www.braxtonlakewood.com/availability",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:48.944488+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "livebellwether.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:52.293001+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.line28atlohi.com",
+  "terms_url": "https://www.leaseleads.co/terms-of-service/",
+  "prior_verdict": "SILENT",
+  "new_verdict": "PROHIBITS_PERSONAL_DATA_ONLY",
+  "snippets": [
+   {
+    "stem": "You may not",
+    "term": "harvest",
+    "text": "s in violation of any applicable laws or regulations; use this Site in conjunction with sending unauthorized advertising or spam; harvest, collect, or gather user data without the user\u2019s consent; or use this Site or its associated services in such a way that may infringe the privacy, intellectual property rights, or other rights of third parties. I",
+    "scope": "personal-data"
+   }
+  ],
+  "checked_at": "2026-08-20T22:06:48.776284+00:00",
+  "automation_mentions": 2
+ },
+ {
+  "site": "hilltopreserve.com",
+  "terms_url": "https://hilltopreserve.com/terms-and-conditions/",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:48.858832+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "kalacodenver.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:52.392013+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.covellonthepromenade.com",
+  "terms_url": "https://www.aircommunities.com/en/terms-of-use.html",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:52.608321+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "onerivernorth.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:49.651048+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "livetheselby.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:49.821896+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "arvadastation.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:51.524629+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.allisonpointeapts.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:51.596987+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "liveatvue21.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:51.881156+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.sovaapartments.com",
+  "terms_url": "https://fpimgt.com/legal/",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:52.527481+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.1600hoyt.com",
+  "terms_url": "https://www.1600hoyt.com/terms",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:52.258483+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.veronaapthomes.com",
+  "terms_url": "https://www.aircommunities.com/en/terms-of-use.html",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:52.531944+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "thewindsordenver.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:55.552469+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "avantiresidential.com",
+  "terms_url": "https://avantiresidential.com/terms-of-service/",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:52.545764+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "proseparkvale.com",
+  "terms_url": "https://www.greystar.com/terms-of-use",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:55.742712+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.camdenliving.com",
+  "terms_url": "https://www.camdenliving.com/terms-of-use",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:52.694442+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "waterfordlonetree.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:55.845216+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "ivyliving.com",
+  "terms_url": "https://ivyliving.com/sms-mobile-messaging-terms-of-service/",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:52.855837+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "livethefitzgerald.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:53.031180+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "broadstoneon9th.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:56.040617+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.creeksideathighlandsranch.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:56.227041+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "whispercreekapts.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:54.748041+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "livemasonalameda.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:55.102493+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.yale25stationapartments.com",
+  "terms_url": "https://www.conam.com/terms-of-use/",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:55.709060+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.liveartemis.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:55.755957+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "thegranaryfoco.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:58.808351+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.voacolorado.org",
+  "terms_url": "https://www.voacolorado.org/terms-and-conditions/",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:56.050386+00:00",
+  "automation_mentions": 2
+ },
+ {
+  "site": "penterraplazahoa.com",
+  "terms_url": "http://penterraplazahoa.com/terms-of-use/",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:55.975447+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.taylorgreenway.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:59.177547+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.elmdenver.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:56.264006+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.westburyapts.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:56.318189+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "canyonsatsaddlerockapts.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:56.491970+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.verdantboulder.com",
+  "terms_url": "https://www.aircommunities.com/en/terms-of-use.html",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:58.305081+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.livethelodgeapartments.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:01.529842+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "arcagreenmountain.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:59.044058+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "aracelidtc.com",
+  "terms_url": "https://legacypartners.com/terms-of-use/",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:58.985986+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "kasa.com",
+  "terms_url": "https://kasa.com/legal/guest-accommodation-agreement",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:59.200378+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.highlands32.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:02.258217+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.thefremontresidences.com",
+  "terms_url": "https://www.aircommunities.com/en/terms-of-use.html",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:59.397420+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "1919milehigh.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:02.441075+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.liveatwestlink.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:59.459510+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.tuscanheightsapartments.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:59.532766+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.oaktrailatcherrycreeksouth.com",
+  "terms_url": "https://www.aircommunities.com/en/terms-of-use.html",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:59.722140+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.greenwoodpoint.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:02.927348+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "alexanjulian.com",
+  "terms_url": "https://alexanjulian.com/legal/",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:57.959330+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.avanaontheplatte.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:03.646781+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "wadsworthjunction.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:01.745576+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.livedecodenver.com",
+  "terms_url": "https://www.westhomepmc.com/terms/",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:06:54.845309+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.livepeak83.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:02.473635+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.solanaoldetownstation.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:02.661149+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "togel158ok.com",
+  "terms_url": "https://togel158ok.com/terms",
+  "prior_verdict": "SILENT",
+  "new_verdict": "UNREADABLE",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:02.739498+00:00",
+  "detail": "http_error HTTP 404"
+ },
+ {
+  "site": "www.belmarvillasapts.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:05.940622+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.highlinepointe.com",
+  "terms_url": "https://www.highlinepointe.com/terms-of-use",
+  "prior_verdict": "SILENT",
+  "new_verdict": "PROHIBITS",
+  "snippets": [
+   {
+    "stem": "You must not",
+    "term": "data mining",
+    "text": "ble laws and regulations, or in any way which may cause harm to the Website, or to any person or business entity; engaging in any data mining, data harvesting, data extracting or any other similar activity in relation to this Website; using this Website to engage in any advertising or marketing. Certain areas of this Website are restricted from bei",
+    "scope": "site-content"
+   }
+  ],
+  "checked_at": "2026-08-20T22:07:02.669362+00:00",
+  "automation_mentions": 3
+ },
+ {
+  "site": "liveapiary.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:03.139324+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "lakehouse17.com",
+  "terms_url": "http://lakehouse17.com/legal/",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:02.619625+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "revivalonplatte.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:06.263806+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "uniononplum.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:06.385008+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "outlooklittleton.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:03.875100+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "contourboulder.com",
+  "terms_url": "https://contourboulder.com/legal/",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:02.243484+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "solaceattheranch.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:04.946632+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.live20thstreetstation.com",
+  "terms_url": "https://www.aircommunities.com/en/terms-of-use.html",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:08.156596+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.livemicarino.com",
+  "terms_url": "https://www.livemicarino.com/terms-of-use/",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:05.418237+00:00",
+  "automation_mentions": 8
+ },
+ {
+  "site": "www.commonsatbriargate.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:08.901325+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.thetrailstimberline.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:05.905942+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.haven124eastlakestation.com",
+  "terms_url": "https://www.aircommunities.com/en/terms-of-use.html",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:09.115859+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.vinedenver.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:06.343965+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.waterwalkdenvertech.com",
+  "terms_url": "https://www.waterwalkdenvertech.com/policies/terms-of-service",
+  "prior_verdict": "SILENT",
+  "new_verdict": "UNREADABLE",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:06.146103+00:00",
+  "detail": "http_error HTTP 404"
+ },
+ {
+  "site": "elevonapts.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:06.595087+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "theplazaatpikespeak.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:09.761038+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.21fitzsimons.com",
+  "terms_url": "https://www.aircommunities.com/en/terms-of-use.html",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:09.968582+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.livingatrevel.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:07.100559+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.bankloftsapartments.com",
+  "terms_url": "https://www.aircommunities.com/en/terms-of-use.html",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:10.302354+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "imtresidential.com",
+  "terms_url": "https://imtresidential.com/terms-conditions/",
+  "prior_verdict": "SILENT",
+  "new_verdict": "PROHIBITS",
+  "snippets": [
+   {
+    "stem": "(same sentence)",
+    "term": "scrape",
+    "text": "Operation of the Site and the Resident Kiosk\u2122 You may not access the Site or Resident Kiosk\u2122 using automated means (including bots, scrapers, or scripts) except as expressly permitted in writing by IMT, and you may not attempt to gain unauthorized access to any accounts, systems, or networks (including through credential stuffing or similar techniques).",
+    "scope": "site-content"
+   },
+   {
+    "stem": "You may not",
+    "term": "scrape",
+    "text": "access the Site or Resident Kiosk\u2122 using automated means (including bots, scrapers, or scripts) except as expressly permitted in writing by IMT, and you may not attempt to gain unauthorized access to any accounts, systems, or networks (including through credential stuffing or similar technique",
+    "scope": "site-content"
+   }
+  ],
+  "checked_at": "2026-08-20T22:07:05.858070+00:00",
+  "automation_mentions": 4
+ },
+ {
+  "site": "livebeacon85.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:11.001632+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.thegroveatcherrycreekpark.com",
+  "terms_url": "https://www.aircommunities.com/en/terms-of-use.html",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:08.015749+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "liveatbroadstonefarm.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:08.245598+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.forgeapartments.com",
+  "terms_url": "https://forgeapartments.securecafe.com/onlineleasing/forge/scheduletour.aspx",
+  "prior_verdict": "SILENT",
+  "new_verdict": "UNREADABLE",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:11.364910+00:00",
+  "detail": "denied denylist-suffix:.securecafe.com"
+ },
+ {
+  "site": "www.liveatfieldhouse.com",
+  "terms_url": "https://www.greystar.com/terms-of-use",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:09.129378+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.cambridgeplacedenver.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:09.199612+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.hilineliving.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:09.805052+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "livethayne.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:10.053867+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.denvergov.org",
+  "terms_url": "https://www.denvergov.org/content/denvergov/en/city-of-denver-home/terms-of-use.html",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:09.550631+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "polarisjunction.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:13.169137+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "twentyone01onmarket.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:10.386033+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.parcmosaic.com",
+  "terms_url": "https://www.aircommunities.com/en/terms-of-use.html",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:11.248774+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.live4550cherrycreek.com",
+  "terms_url": "https://www.live4550cherrycreek.com/terms-and-conditions/",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:11.237795+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "uniononelizabeth.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:14.319221+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.viceroyobservatorypark.com",
+  "terms_url": "https://www.viceroyobservatorypark.com/terms",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:11.365172+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.magnoliaridgeco.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:12.325967+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "themadisonatstetsonhills.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:12.290765+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.retreatatfitzsimons.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:13.123058+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.theramblerapts.com",
+  "terms_url": "https://www.theramblerapts.com/terms",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:13.015810+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "uniononalley.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:16.421668+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "padmasambhavameditationcenter.org",
+  "terms_url": "https://padmasambhavameditationcenter.org/terms-conditions/",
+  "prior_verdict": "SILENT",
+  "new_verdict": "PROHIBITS_PERSONAL_DATA_ONLY",
+  "snippets": [
+   {
+    "stem": "You may not",
+    "term": "harvest",
+    "text": "ation services. Violate any code of conduct or other guidelines which may be applicable for any particular communication service. Harvest or otherwise collect information about others, including e-mail addresses, without their consent. Violate any applicable laws or regulations. Padmasambhava Meditation Center has no obligation to monitor the commu",
+    "scope": "personal-data"
+   }
+  ],
+  "checked_at": "2026-08-20T22:07:06.473966+00:00",
+  "automation_mentions": 1
+ },
+ {
+  "site": "www.aspenridge-apts.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:13.384813+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "waterfordcherrycreek.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:13.542810+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "livestratfordstation.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:16.569262+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "archden.org",
+  "terms_url": "https://archden.org/terms-and-conditions/",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:14.423031+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.shiftapartmentsco.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:17.596996+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.taborlakeapts.com",
+  "terms_url": "https://www.taborlakeapts.com/terms",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:14.779577+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.avenspointapartments.com",
+  "terms_url": "https://www.aircommunities.com/en/terms-of-use.html",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:17.735381+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "prosemurphycreek.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:15.670379+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "aspendaleliving.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:15.539284+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.hugedomains.com",
+  "terms_url": "https://www.hugeDomains.com/terms.cfm",
+  "prior_verdict": "SILENT",
+  "new_verdict": "PROHIBITS",
+  "snippets": [
+   {
+    "stem": "(same sentence)",
+    "term": "scrape",
+    "text": "You will not use any robot, spider, crawler, scraper or other automated means or interface to access the Services or to extract or export data collected through the Services;",
+    "scope": "site-content"
+   },
+   {
+    "stem": "(same sentence)",
+    "term": "scraping",
+    "text": "Even though HugeDomains prevents many bots from scraping its site, it is not provided with a guarantee that such data might not be affected by bot traffic.",
+    "scope": "unclear"
+   },
+   {
+    "stem": "(same sentence)",
+    "term": "scraping",
+    "text": "PROHIBITED USE HugeDomains prohibits crawling, scraping, caching, and/or otherwise accessing any content on the Services via automated means.",
+    "scope": "site-content"
+   },
+   {
+    "stem": "You may not",
+    "term": "scrape",
+    "text": "the information that you submit to HugeDomains and/or our third-party providers; i. You will not use any robot, spider, crawler, scraper or other automated means or interface to access the Services or to extract or export data collected through the Services; j. You will use all Services and purchases for lawful purposes only and agree to act in ac",
+    "scope": "site-content"
+   },
+   {
+    "stem": "You will not",
+    "term": "scrape",
+    "text": "use any robot, spider, crawler, scraper or other automated means or interface to access the Services or to extract or export data collected through the Services; j. You will use all Services and purchases for lawful purposes only and agree to act in ac",
+    "scope": "site-content"
+   },
+   {
+    "stem": "You will not",
+    "term": "scraping",
+    "text": "Domains has features on its site that shows cart adds and favorite/saved domains. Even though HugeDomains prevents many bots from scraping its site, it is not provided with a guarantee that such data might not be affected by bot traffic. SALE OF DOMAIN NAMES Purchase. All domain names listed on HugeDomains.com are listed by each domain's respective",
+    "scope": "unclear"
+   }
+  ],
+  "checked_at": "2026-08-20T22:07:16.328523+00:00",
+  "automation_mentions": 13
+ },
+ {
+  "site": "monterralakewood.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:16.581149+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.liveatcolab.com",
+  "terms_url": "https://www.greystar.com/terms-of-use",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:16.550554+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.creeksideapartmenthomes.com",
+  "terms_url": "https://www.aircommunities.com/en/terms-of-use.html",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:19.717436+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.livemusedenver.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:16.748798+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.themeadowcreekapartments.com",
+  "terms_url": "https://www.aircommunities.com/en/terms-of-use.html",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:16.795696+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "ensleyliving.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:20.044304+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "waterfordonmainstreet.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:18.142475+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "prosepaintedprairie.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:18.880733+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "berkshireresi.com",
+  "terms_url": "https://berkshireresi.com/terms-of-use/",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:18.124507+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "alexanmontview.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:22.127848+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.udr.com",
+  "terms_url": "https://www.udr.com/denver-apartments/west-colfax/cirrus/#",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:18.959467+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "westminsterrow.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:22.476898+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.thehabitatatfortcollins.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:19.800481+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.kallistoatbearcreek.com",
+  "terms_url": "https://www.kallistoatbearcreek.com/terms",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:19.755715+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "liveattheriv.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:19.969270+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "livethebroadleaf.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:20.176570+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "wilderdenver.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:23.226514+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.loftsathighlands.com",
+  "terms_url": "https://www.aircommunities.com/en/terms-of-use.html",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:23.374830+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "foundryline.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:20.998880+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.morningstarseniorliving.com",
+  "terms_url": "https://www.morningstarseniorliving.com/",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:14.568715+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "lohigold.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:25.020074+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "livefiona.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:22.339690+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "lodgeatterralago.hmchoa.com",
+  "terms_url": "https://lodgeatterralago.hmchoa.com/view/sitetc.aspx",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:22.088148+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.theglennapts.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:22.626465+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.arcadiaapthomes.com",
+  "terms_url": "https://www.aircommunities.com/en/terms-of-use.html",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:25.838811+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "ascendatpenastation.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:25.929509+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.championsapts.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:22.921103+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.livecopperwood.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:23.282968+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "livetheskyline.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:23.460644+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "onesevenatbelleviewstation.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:23.443992+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "cherrycreekgreens.net",
+  "terms_url": "http://cherrycreekgreens.net/terms-of-use/",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:25.250810+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "ascendatoldtown.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:25.593380+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.pinesatbroadmoorbluffs.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:25.847706+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.mbkseniorliving.com",
+  "terms_url": "https://www.mbkseniorliving.com/terms-of-use",
+  "prior_verdict": "SILENT",
+  "new_verdict": "PROHIBITS",
+  "snippets": [
+   {
+    "stem": "Prohibited Uses",
+    "term": "scraping",
+    "text": "of the Site. The following actions are prohibited by MBK unless specifically authorized in writing. Using any deep-linking, data scraping, robot, web crawler or \u00e2\u0080\u009cspider\u00e2\u0080\u009d, or other automatic device, program, algorithm or methodology, or any similar or equivalent manual process, to access, acquire, copy or monitor any portion of the Site or any",
+    "scope": "site-content"
+   }
+  ],
+  "checked_at": "2026-08-20T22:07:26.090412+00:00",
+  "automation_mentions": 9
+ },
+ {
+  "site": "www.broadstoneon9th.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:29.190732+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "watertowerflats.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:26.152898+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "raccooncreekapartments.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:26.416748+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.nashspringsapts.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:26.605524+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.courtneyparkapthomes.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:26.641198+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.harborgroupmanagement.com",
+  "terms_url": "https://www.harborgroupmanagement.com/terms-of-service",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:28.473862+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.thehewingapts.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:29.049762+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.altaspringsdenver.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:29.578555+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.northcreekapartmenthomes.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:29.823692+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "stonebridgesenior.com",
+  "terms_url": "https://stonebridgesenior.com/terms",
+  "prior_verdict": "SILENT",
+  "new_verdict": "PROHIBITS",
+  "snippets": [
+   {
+    "stem": "(same sentence)",
+    "term": "scrape",
+    "text": "You may not copy, reproduce, republish, modify, distribute, scrape, frame, mirror, or create derivative works from any content on this site without our prior written permission.",
+    "scope": "site-content"
+   },
+   {
+    "stem": "(same sentence)",
+    "term": "scrape",
+    "text": "The use of automated systems (bots, scrapers, crawlers) to extract content for commercial purposes is prohibited.",
+    "scope": "site-content"
+   },
+   {
+    "stem": "(same sentence)",
+    "term": "scraping",
+    "text": "Use the site for any unlawful purpose Attempt to gain unauthorized access to any portion of the site or to our systems Introduce viruses, malware, or other harmful code Interfere with the operation of the site or with other users' use of it Impersonate any person or entity, or misrepresent your affiliation with anyone Use scraping, harvesting, or automated tools to collect information from the site Submit false, misl",
+    "scope": "site-content"
+   },
+   {
+    "stem": "You may not",
+    "term": "scrape",
+    "text": "copy, reproduce, republish, modify, distribute, scrape, frame, mirror, or create derivative works from any content on this site without our prior written permission. The use of automated systems (bots, scrapers, crawlers) to extract content for commercial purposes is",
+    "scope": "site-content"
+   },
+   {
+    "stem": "without our prior written",
+    "term": "scrape",
+    "text": "permission. The use of automated systems (bots, scrapers, crawlers) to extract content for commercial purposes is prohibited. We obtain permission for resident and family photos where required. If you appear in a photo and want us to review or remove it, contact us at",
+    "scope": "site-content"
+   },
+   {
+    "stem": "Prohibited Conduct",
+    "term": "scraping",
+    "text": "ion of the site or with other users' use of it Impersonate any person or entity, or misrepresent your affiliation with anyone Use scraping, harvesting, or automated tools to collect information from the site Submit false, misleading, or fraudulent inquiries 16. Disclaimer of Warranties THE WEBSITE AND ALL CONTENT, SERVICES, AND MATERIALS AVAILABLE",
+    "scope": "site-content"
+   }
+  ],
+  "checked_at": "2026-08-20T22:07:31.788679+00:00",
+  "automation_mentions": 11
+ },
+ {
+  "site": "www.oakdalespringsapts.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:32.203560+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "finleybaseline.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:35.375669+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "www.lakeviewatgatewayparkapts.com",
+  "terms_url": "https://www.aircommunities.com/en/terms-of-use.html",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:35.533681+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "therussellapts.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:35.427197+00:00",
+  "automation_mentions": 0
+ },
+ {
+  "site": "airieapts.com",
+  "terms_url": "https://www.greystar.com/terms-of-use#Copyright%20Infringement%20Policy",
+  "prior_verdict": "SILENT",
+  "new_verdict": "SILENT",
+  "snippets": [],
+  "checked_at": "2026-08-20T22:07:38.767636+00:00",
+  "automation_mentions": 0
+ }
+]

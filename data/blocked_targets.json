@@ -1,0 +1,219 @@
+[
+ {
+  "name": "Valencia Gardens",
+  "operator": null,
+  "marketing_url": "https://thevalenciagardens.com/",
+  "host": "thevalenciagardens.com",
+  "candidate_source": "OpenStreetMap"
+ },
+ {
+  "name": "Wonderland Creek",
+  "operator": null,
+  "marketing_url": "https://wonderlandcreektownhomes.com/",
+  "host": "wonderlandcreektownhomes.com",
+  "candidate_source": "OpenStreetMap"
+ },
+ {
+  "name": "Riverwalk Luxe",
+  "operator": "Confluence Companies",
+  "marketing_url": "https://www.livingrw.com/",
+  "host": "www.livingrw.com",
+  "candidate_source": "candidates_batch_local.json"
+ },
+ {
+  "name": "Legacy at Fitz",
+  "operator": "Greystar",
+  "marketing_url": "https://www.legacyatfitz.com/",
+  "host": "www.legacyatfitz.com",
+  "candidate_source": "candidates_batch_kairoi_greystar_udr.json"
+ },
+ {
+  "name": "Emery West Highland",
+  "operator": "Greystar",
+  "marketing_url": "https://www.emerywesthighland.com/",
+  "host": "www.emerywesthighland.com",
+  "candidate_source": "candidates_batch_kairoi_greystar_udr.json"
+ },
+ {
+  "name": "Alta Piney Creek",
+  "operator": "Greystar",
+  "marketing_url": "https://www.altapineycreek.com/",
+  "host": "www.altapineycreek.com",
+  "candidate_source": "candidates_batch_kairoi_greystar_udr.json"
+ },
+ {
+  "name": "Parkview Towers",
+  "operator": null,
+  "marketing_url": "https://parkviewtowersdenver.com/",
+  "host": "parkviewtowersdenver.com",
+  "candidate_source": "OpenStreetMap"
+ },
+ {
+  "name": "Prosper Place",
+  "operator": "Greystar",
+  "marketing_url": "https://www.prosperplaceapts.com/",
+  "host": "www.prosperplaceapts.com",
+  "candidate_source": "candidates_batch_kairoi_greystar_udr.json"
+ },
+ {
+  "name": "GW",
+  "operator": "Confluence Companies",
+  "marketing_url": "https://www.livegwgolden.com/",
+  "host": "www.livegwgolden.com",
+  "candidate_source": "candidates_batch_local.json"
+ },
+ {
+  "name": "Raleigh at Sloan's Lake",
+  "operator": null,
+  "marketing_url": "https://liveraleighapts.com/",
+  "host": "liveraleighapts.com",
+  "candidate_source": "OpenStreetMap"
+ },
+ {
+  "name": "Talon Hill",
+  "operator": "Greystar",
+  "marketing_url": "https://talonhill.com/",
+  "host": "talonhill.com",
+  "candidate_source": "candidates_batch_kairoi_greystar_udr.json"
+ },
+ {
+  "name": "Aston on South Pearl",
+  "operator": null,
+  "marketing_url": "https://astondenver.com/",
+  "host": "astondenver.com",
+  "candidate_source": "OpenStreetMap"
+ },
+ {
+  "name": "Woodline Place",
+  "operator": "Greystar",
+  "marketing_url": "https://www.woodlineplaceapts.com/",
+  "host": "www.woodlineplaceapts.com",
+  "candidate_source": "candidates_batch_kairoi_greystar_udr.json"
+ },
+ {
+  "name": "Avana Thornton Station",
+  "operator": "Greystar",
+  "marketing_url": "https://www.avanathorntonstation.com/",
+  "host": "www.avanathorntonstation.com",
+  "candidate_source": "candidates_batch_kairoi_greystar_udr.json"
+ },
+ {
+  "name": "Garden Plaza of Aurora",
+  "operator": null,
+  "marketing_url": "http://www.gardenplazaaurora.com/",
+  "host": "www.gardenplazaaurora.com",
+  "candidate_source": "OpenStreetMap"
+ },
+ {
+  "name": "Aviator Apartments",
+  "operator": "Cardinal Group Management",
+  "marketing_url": "https://www.aviatorapartmentsco.com/",
+  "host": "www.aviatorapartmentsco.com",
+  "candidate_source": "candidates_batch_millcreek_wood_alliance_simpson_cardinal.json"
+ },
+ {
+  "name": "Lambertson Farms Apartment Homes",
+  "operator": null,
+  "marketing_url": "https://www.mylambertsonfarmsapartments.com/",
+  "host": "www.mylambertsonfarmsapartments.com",
+  "candidate_source": "OpenStreetMap"
+ },
+ {
+  "name": "Avana Belmar",
+  "operator": "Greystar",
+  "marketing_url": "https://www.avanabelmar.com/",
+  "host": "www.avanabelmar.com",
+  "candidate_source": "candidates_batch_kairoi_greystar_udr.json"
+ },
+ {
+  "name": "Luxe At Mile High",
+  "operator": "Greystar",
+  "marketing_url": "https://www.luxeatmilehigh.com/",
+  "host": "www.luxeatmilehigh.com",
+  "candidate_source": "candidates_batch_kairoi_greystar_udr.json"
+ },
+ {
+  "name": "Reflections at Cherry Creek",
+  "operator": null,
+  "marketing_url": "https://www.reflectionsatcherrycreek.com/",
+  "host": "www.reflectionsatcherrycreek.com",
+  "candidate_source": "OpenStreetMap"
+ },
+ {
+  "name": "Rockvue Apartments",
+  "operator": "Greystar",
+  "marketing_url": "https://www.rockvueapts.com/",
+  "host": "www.rockvueapts.com",
+  "candidate_source": "candidates_batch_kairoi_greystar_udr.json"
+ },
+ {
+  "name": "Grand Lowry Lofts",
+  "operator": null,
+  "marketing_url": "https://www.grandlowrylofts.com/",
+  "host": "www.grandlowrylofts.com",
+  "candidate_source": "OpenStreetMap"
+ },
+ {
+  "name": "The Ridge at Mountain View Apartments",
+  "operator": "Greystar",
+  "marketing_url": "https://www.ridgeatmountainview.com/",
+  "host": "www.ridgeatmountainview.com",
+  "candidate_source": "candidates_batch_kairoi_greystar_udr.json"
+ },
+ {
+  "name": "Modera University Park",
+  "operator": "Mill Creek Residential (Modera)",
+  "marketing_url": "https://www.moderauniversitypark.com/",
+  "host": "www.moderauniversitypark.com",
+  "candidate_source": "candidates_batch_millcreek_wood_alliance_simpson_cardinal.json"
+ },
+ {
+  "name": "Alta Sloan's Lake",
+  "operator": "Greystar",
+  "marketing_url": "https://www.altasloanslake.com/",
+  "host": "www.altasloanslake.com",
+  "candidate_source": "candidates_batch_kairoi_greystar_udr.json"
+ },
+ {
+  "name": "Newgate",
+  "operator": "Cardinal Group Management",
+  "marketing_url": "https://www.newgateapthomes.com/",
+  "host": "www.newgateapthomes.com",
+  "candidate_source": "candidates_batch_millcreek_wood_alliance_simpson_cardinal.json"
+ },
+ {
+  "name": "Wye Flats",
+  "operator": null,
+  "marketing_url": "https://wyeflats.com/",
+  "host": "wyeflats.com",
+  "candidate_source": "OpenStreetMap"
+ },
+ {
+  "name": "Advenir at Cherry Creek North",
+  "operator": "Advenir",
+  "marketing_url": "https://www.advenirliving.com/cherrycreeknorth",
+  "host": "www.advenirliving.com",
+  "candidate_source": "OpenStreetMap"
+ },
+ {
+  "name": "Vista Denver Student Apartments",
+  "operator": null,
+  "marketing_url": "https://www.livevistadenver.com/",
+  "host": "www.livevistadenver.com",
+  "candidate_source": "OpenStreetMap"
+ },
+ {
+  "name": "Alton Jefferson Park",
+  "operator": null,
+  "marketing_url": "https://altonjeffersonparkapts.com/",
+  "host": "altonjeffersonparkapts.com",
+  "candidate_source": "OpenStreetMap"
+ },
+ {
+  "name": "Gateway Arvada Ridge",
+  "operator": "Greystar",
+  "marketing_url": "https://www.gatewayarvadaridge.com/",
+  "host": "www.gatewayarvadaridge.com",
+  "candidate_source": "candidates_batch_kairoi_greystar_udr.json"
+ }
+]

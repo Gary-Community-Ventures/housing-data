@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Housing Navigator — Rental Data Browser</title>
+<link rel="stylesheet" href="/static/style.css">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css">
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css">
+</head>
+<body>
+<header>
+  <h1>Housing Navigator — Rental Data Browser</h1>
+  <span class="sub" id="hdr">loading…</span>
+  <span class="spacer"></span>
+  <button class="btn" onclick="reload()">Reload data</button>
+</header>
+<nav>
+  <button data-v="map" class="on">Map</button>
+  <button data-v="units">Units</button>
+  <button data-v="props">Properties</button>
+  <button data-v="trends">Trends</button>
+  <button data-v="coverage">Coverage &amp; Yield</button>
+  <button data-v="platforms">Platforms</button>
+  <button data-v="terms">Terms Audit</button>
+</nav>
+<main>
+
+<section class="view on" id="v-map">
+  <div class="row">
+    <label class="f">Bedrooms<select id="m-beds"><option value="any">any</option></select></label>
+    <label class="f">Max rent<input id="m-rent" type="number" placeholder="e.g. 2000"></label>
+    <label class="f">City<select id="m-city"><option value="">all</option></select></label>
+    <label class="f">&nbsp;<button class="btn" onclick="drawMap()">Apply</button></label>
+    <label class="f">&nbsp;<span class="muted small" id="m-count"></span></label>
+  </div>
+  <div id="map"></div>
+  <div class="foot">Basemap &amp; property enumeration: © OpenStreetMap contributors (ODbL 1.0).
+    Rent and availability collected from each property's own marketing website.
+    Marker colour = cheapest matching unit. No listing photographs are collected or stored.</div>
+</section>
+
+<section class="view" id="v-units">
+  <div class="row">
+    <label class="f">Search<input id="u-q" placeholder="property, plan, city…"></label>
+    <label class="f">Bedrooms<select id="u-beds"><option value="any">any</option></select></label>
+    <label class="f">Min rent<input id="u-min" type="number"></label>
+    <label class="f">Max rent<input id="u-max" type="number"></label>
+    <label class="f">City<select id="u-city"><option value="">all</option></select></label>
+    <label class="f">Operator<select id="u-op"><option value="">all</option></select></label>
+    <label class="f"><span>&nbsp;</span><span><input type="checkbox" id="u-hasrent"> priced only</span></label>
+    <label class="f"><span>&nbsp;</span><span><input type="checkbox" id="u-plaus" checked> plausible only</span></label>
+    <label class="f"><span>&nbsp;</span><span><input type="checkbox" id="u-hiconf"> high-confidence only</span></label>
+    <label class="f"><span>&nbsp;</span><span><input type="checkbox" id="u-mkt" checked> market-rate only</span></label>
+    <label class="f"><span>&nbsp;</span><span><input type="checkbox" id="u-cmp"> comparable rent only</span></label>
+    <label class="f">&nbsp;<button class="btn" onclick="loadUnits()">Apply</button></label>
+    <label class="f">&nbsp;<button class="btn" onclick="exportCsv()">Export CSV</button></label>
+  </div>
+  <div class="muted small" id="u-count" style="margin-bottom:8px"></div>
+  <div class="tblwrap"><table id="u-tbl"></table></div>
+</section>
+
+<section class="view" id="v-props">
+  <div class="row">
+    <label class="f">Search<input id="p-q" placeholder="property, operator, city…"></label>
+    <label class="f">&nbsp;<button class="btn" onclick="drawProps()">Apply</button></label>
+  </div>
+  <div class="tblwrap"><table id="p-tbl"></table></div>
+  <div id="p-detail"></div>
+</section>
+
+<section class="view" id="v-trends">
+  <div id="trends"></div>
+</section>
+
+<section class="view" id="v-coverage">
+  <div id="cov"></div>
+</section>
+
+<section class="view" id="v-platforms">
+  <div id="plat"></div>
+</section>
+
+<section class="view" id="v-terms">
+  <div id="terms"></div>
+</section>
+
+</main>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+<script src="/static/app.js"></script>
+</body>
+</html>

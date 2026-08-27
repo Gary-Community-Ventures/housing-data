@@ -1,0 +1,388 @@
+{
+  "market_rate": [
+    {
+      "operator": "Willow Bridge Property Company",
+      "group": "market-rate",
+      "portfolio_url": "https://www.willowbridgepc.com/colorado",
+      "co_community_count_seen": 13,
+      "co_community_count_note": "Page lists CO cities (Arvada, Aurora, Boulder, Castle Rock, Colorado Springs, Brighton, Denver, Highlands Ranch, Lafayette, Lakewood, Littleton, Lone Tree, Thornton), each with one or more communities beneath it; actual community count is likely higher than 13. Willow Bridge (formerly Lincoln Property Co. residential arm) has a regional office in Denver.",
+      "own_marketing_domains": false,
+      "domain_note": "Communities stay on willowbridgepc.com subpages (e.g. /properties/twentyone-on-market-denver-co/) rather than independent domains.",
+      "rendering": "server-rendered (readable via WebFetch)"
+    },
+    {
+      "operator": "Avenue5 Residential",
+      "group": "market-rate",
+      "portfolio_url": "https://www.avenue5.com/community-search-list-view.aspx?q=Colorado&hint=state",
+      "co_community_count_seen": null,
+      "co_community_count_note": "Search-tool URL 404'd on fetch. Web search shows CO operations across Arvada, Aurora, Boulder, Broomfield, Centennial, Colorado Springs, Denver, Englewood, Glendale, Greenwood Village, Highlands Ranch, Lakewood, Littleton, Westminster (named examples: Virginia Village, South Creek Apartments). Company has a Denver office address. Likely 10-20+ CO communities but exact count unconfirmed.",
+      "own_marketing_domains": "unknown",
+      "domain_note": "Could not verify via WebFetch; RealPage-hosted search widget seen in search results suggests a mixed pattern.",
+      "rendering": "could not confirm - listing tool returned 404 on the URL tried"
+    },
+    {
+      "operator": "Weidner Apartment Homes",
+      "group": "market-rate",
+      "portfolio_url": "https://colorado.weidner.com/",
+      "co_community_count_seen": null,
+      "co_community_count_note": "WebFetch blocked with HTTP 403. Search confirms a Denver office and multiple Colorado Springs communities (e.g. Broadmoor Park Terrace). Could not confirm exact count.",
+      "own_marketing_domains": "unknown",
+      "domain_note": "colorado.weidner.com is a state subdomain of weidner.com, not independent per-property domains, based on search snippets.",
+      "rendering": "could not confirm - WebFetch returned 403 Forbidden (likely bot-blocked, not necessarily JS-only)"
+    },
+    {
+      "operator": "Bell Partners",
+      "group": "market-rate",
+      "portfolio_url": "https://bellpartnersinc.com/",
+      "co_community_count_seen": 6,
+      "co_community_count_note": "Named via press releases/search: Bell Parker Ranch, Bell Denver Tech Center, Bell Cherry Hills, Bell Ken-Caryl, Bell Flatirons/Bell Summit at Flatirons, Bell Lafayette.",
+      "own_marketing_domains": false,
+      "domain_note": "Bell-branded communities typically sit under the bellpartnersinc.com domain structure based on naming convention seen in press releases.",
+      "rendering": "could not confirm - property-search subpage URLs tried returned 404"
+    },
+    {
+      "operator": "Fairfield Residential",
+      "group": "market-rate",
+      "portfolio_url": "https://www.fairfieldresidential.com/communities/colorado",
+      "co_community_count_seen": 10,
+      "co_community_count_note": "Rock Peak on Sunset, Sky Rock, Olivean, Parkfield Apartment Homes, Ridgemoor, Rowlen, Sienna at Cherry Creek, The Douglas, The Pines, Timberleaf. Company also has a dedicated Denver-metro affordable-housing communities page separate from this market-rate list.",
+      "own_marketing_domains": true,
+      "domain_note": "All 10 listed communities link out to their own dedicated marketing domains, not fairfieldresidential.com subpages.",
+      "rendering": "server-rendered (readable via WebFetch)"
+    },
+    {
+      "operator": "MAA (Mid-America Apartment Communities)",
+      "group": "market-rate",
+      "portfolio_url": "https://www.maac.com/colorado/denver/",
+      "co_community_count_seen": 4,
+      "co_community_count_note": "MAA Westglenn, MAA River North, MAA Milepost 35, MAA Promenade - all Denver metro.",
+      "own_marketing_domains": false,
+      "domain_note": "All four stay on maac.com subpages.",
+      "rendering": "server-rendered (readable via WebFetch)"
+    },
+    {
+      "operator": "Bozzuto",
+      "group": "market-rate",
+      "portfolio_url": "https://www.bozzuto.com/apartments-for-rent/co",
+      "co_community_count_seen": 4,
+      "co_community_count_note": "Aera RiNo, Arden Englewood, The Hartwell, The Magwood (Denver metro; page also referenced Boulder/Erie-area listings in a related search). Earlier press coverage also named Waterford RiNo, Aura Arts District and Arapahoe Square as prior/renamed Bozzuto-managed CO properties.",
+      "own_marketing_domains": false,
+      "domain_note": "Communities stay on bozzuto.com subpages.",
+      "rendering": "server-rendered (readable via WebFetch)"
+    },
+    {
+      "operator": "Highmark Residential",
+      "group": "market-rate",
+      "portfolio_url": "https://www.highmarkres.com/colorado/",
+      "co_community_count_seen": 1,
+      "co_community_count_note": "The fetched page only exposed a single 'Denver' regional link (JS-driven region picker likely holds the actual list). Third-party aggregator (Dwellsy) separately shows 22 Highmark-managed listings in Denver; press/Yelp show additional named properties (The Indi at Uptown Square, plus now-closed Colorado Pointe, Via Apartments, Ballpark Lofts).",
+      "own_marketing_domains": false,
+      "domain_note": "Individual communities appear to sit on highmarkres.com/colorado/<city> paths.",
+      "rendering": "server-rendered shell, but full community list likely requires JS interaction beyond the region link"
+    },
+    {
+      "operator": "Trammell Crow Residential",
+      "group": "market-rate",
+      "portfolio_url": "https://www.trammellcrow.com/offices/us/denver",
+      "co_community_count_seen": 3,
+      "co_community_count_note": "Alexan Pena Station, Alexan 20th Street Station, One Seven at Belleview Station - via news search. TCR has a dedicated Denver office.",
+      "own_marketing_domains": true,
+      "domain_note": "Alexan-branded communities typically have their own marketing domains per industry convention (not confirmed directly for these three via fetch).",
+      "rendering": "could not confirm - WebFetch returned 403 Forbidden"
+    },
+    {
+      "operator": "Sares Regis Group",
+      "group": "market-rate",
+      "portfolio_url": "https://www.sares-regis.com/tag/colorado",
+      "co_community_count_seen": 5,
+      "co_community_count_note": "The Wright Apartments (Centennial), Waterford RiNo (Denver), Regatta, The Bluffs at Highlands Ranch, Allure Apartments.",
+      "own_marketing_domains": false,
+      "domain_note": "Listings are blog-style posts within sares-regis.com rather than separate domains.",
+      "rendering": "server-rendered (readable via WebFetch)"
+    },
+    {
+      "operator": "Steadfast Companies",
+      "group": "market-rate",
+      "portfolio_url": "https://www.steadfastcompanies.com/properties/",
+      "co_community_count_seen": 1,
+      "co_community_count_note": "Only 'Flatirons' visible on the fetched page/pagination slice, but company press materials and news coverage name at least 10 CO properties: Belmar Villas (Lakewood), Fielder's Creek (Englewood), Bella Terra at City Center (Aurora), Hearthstone at City Center (Aurora), PeakView by Horseshoe Lake (Loveland), PeakView at T-Bone Ranch (Greeley), Oasis (Colorado Springs), plus others, totaling ~2,200 CO units across ~10 communities per company statements.",
+      "own_marketing_domains": false,
+      "domain_note": "Properties stay on steadfastcompanies.com/properties/<name>/ paths.",
+      "rendering": "server-rendered with paginated listing (29 pages seen) - readable via WebFetch"
+    },
+    {
+      "operator": "Carmel Partners",
+      "group": "market-rate",
+      "portfolio_url": "https://www.carmelpartners.com/markets/denver/",
+      "co_community_count_seen": 9,
+      "co_community_count_note": "Origin, Forge, Braxton, DriveTrain, The Palmer, The Henry, PearlDTC, Westend, Bear Valley Park. Company was originally founded in Denver in 1965.",
+      "own_marketing_domains": false,
+      "domain_note": "All nine stay on carmelpartners.com project pages.",
+      "rendering": "server-rendered (readable via WebFetch)"
+    },
+    {
+      "operator": "Trinsic Residential Group",
+      "group": "market-rate",
+      "portfolio_url": "https://trinsicresidential.com/portfolio/",
+      "co_community_count_seen": 3,
+      "co_community_count_note": "Aura Arts District (Denver), Aura Crossroads (Colorado Springs), Aura Loretto/Aura at Loretto Heights (Denver). A fourth, Aura at Colliers Hill (Erie, CO), was also referenced in search results.",
+      "own_marketing_domains": false,
+      "domain_note": "All stay on trinsicresidential.com/portfolio/ subpages.",
+      "rendering": "server-rendered (readable via WebFetch)"
+    },
+    {
+      "operator": "FPI Management",
+      "group": "market-rate",
+      "portfolio_url": "https://www.fpimanagement.com/",
+      "co_community_count_seen": 3,
+      "co_community_count_note": "Affinity at Lafayette, Traditions At Colorado Springs, Copper Range (Colorado Springs, affordable). FPI manages both market-rate and affordable/LIHTC properties.",
+      "own_marketing_domains": "unknown",
+      "domain_note": "Not confirmed via fetch (SSL error on the URL tried).",
+      "rendering": "could not confirm - SSL error on WebFetch"
+    },
+    {
+      "operator": "Asset Living",
+      "group": "market-rate",
+      "portfolio_url": "https://www.assetliving.com/",
+      "co_community_count_seen": null,
+      "co_community_count_note": "Asset Living acquired Denver-based Echelon Property Group, adding a Denver corporate office and over 13,000 CO multifamily units; company states its Mountain region totals ~21,000 units. Exact community count not obtained (property-search URL 404'd).",
+      "own_marketing_domains": "unknown",
+      "domain_note": "Could not verify; large third-party managers of this type typically leave branding on the property's own name/domain.",
+      "rendering": "could not confirm - listing URL returned 404"
+    },
+    {
+      "operator": "JPI",
+      "group": "market-rate",
+      "portfolio_url": "https://www.jpi.com/communities/",
+      "co_community_count_seen": 0,
+      "co_community_count_note": "Live communities page currently shows 0 active CO listings (only TX, CA, NC, WA, FL). However, historical/news sources name at least 4 CO developments: Jefferson Park at Lowry (Phase I & II), Jefferson at Meridian (Douglas County), Jefferson at Meadow Hills (Aurora), and a Lakewood property - suggesting past CO presence that may have since been sold/turned over.",
+      "own_marketing_domains": true,
+      "domain_note": "Jefferson-branded JPI communities typically have their own marketing domains per industry convention.",
+      "rendering": "server-rendered (readable via WebFetch) but shows no current CO inventory"
+    },
+    {
+      "operator": "Waterton",
+      "group": "market-rate",
+      "portfolio_url": "https://waterton.com/",
+      "co_community_count_seen": 4,
+      "co_community_count_note": "The Apartments at Denver Place (downtown Denver high-rise), Greenwood Plaza (Centennial), plus company statement of 'two other rental communities in the Denver area comprising nearly 700 units' (unnamed).",
+      "own_marketing_domains": "unknown",
+      "domain_note": "Not confirmed; portfolio/properties URLs tried returned 404.",
+      "rendering": "could not confirm - portfolio listing URL returned 404, main site appears to require JS navigation"
+    },
+    {
+      "operator": "Embrey",
+      "group": "market-rate",
+      "portfolio_url": "https://www.embrey.com/",
+      "co_community_count_seen": null,
+      "co_community_count_note": "Company states 17 completed projects in Colorado plus multiple current developments (Belaire in 40 West Arts District, a 283-unit Leetsdale Drive project, a 395-unit Englewood project). Dedicated portfolio-listing URL not found (404 on the path tried).",
+      "own_marketing_domains": "unknown",
+      "domain_note": "Not confirmed via fetch.",
+      "rendering": "could not confirm - multifamily-portfolio URL returned 404"
+    },
+    {
+      "operator": "Monarch Investment and Management Group",
+      "group": "market-rate",
+      "portfolio_url": "https://www.mimginvestment.com/",
+      "co_community_count_seen": null,
+      "co_community_count_note": "Headquartered in Franktown, CO (8th-largest multifamily owner in the US per NMHC, ~60,000 units in 21 states), but no specific named Colorado communities could be confirmed - both search and WebFetch attempts returned only the company name/header with no property listing content.",
+      "own_marketing_domains": "unknown",
+      "domain_note": "Could not verify.",
+      "rendering": "JS-only shell - WebFetch returned only the page header with no listing content"
+    },
+    {
+      "operator": "Inland (Inland Real Estate Acquisitions / Inland Private Capital)",
+      "group": "market-rate",
+      "portfolio_url": "https://inlandgroup.com/",
+      "co_community_count_seen": 22,
+      "co_community_count_note": "Press releases document acquisition of 22 CO multifamily properties (5,183 units) across Aurora, Arvada, Brighton, Broomfield, Castle Rock, Colorado Springs, Denver, Fort Collins, Lakewood, Loveland, Westminster. Named examples: 8000 Uptown Apartments (Broomfield), Conifer Creek (Aurora), Après Apartments (Aurora), Solaire Apartments (Brighton), Black Feather Apartment Homes (Castle Rock). Functions as an investment sponsor/syndicator rather than a consumer-facing branded operator - no public portfolio page listing current holdings was found.",
+      "own_marketing_domains": true,
+      "domain_note": "Properties are typically branded and managed independently (own domains), not under an 'Inland' consumer brand.",
+      "rendering": "no public portfolio/communities page found; only individual press releases"
+    }
+  ],
+  "affordable": [
+    {
+      "operator": "Mercy Housing Mountain Plains",
+      "group": "affordable",
+      "portfolio_url": "https://www.mercyhousing.org/mountain-plains/",
+      "co_community_count_seen": 17,
+      "co_community_count_note": "Company states 17 CO communities (Commerce City, Denver, Durango, Westminster, Fort Collins) serving ~3,000 residents, part of a 46-community Mountain Plains portfolio. The fetched page itself embeds a 'Find a Property' search tool rather than a static directory; two current developments named: Astraea at Loretto Heights (Denver) and Cranes Landing.",
+      "own_marketing_domains": "unknown",
+      "domain_note": "Not confirmed - property directory is behind an interactive search tool.",
+      "rendering": "server-rendered shell, but full directory requires the embedded search tool (likely JS-driven)"
+    },
+    {
+      "operator": "Archway Communities",
+      "group": "affordable",
+      "portfolio_url": "https://archwaycommunities.org/current-properties/",
+      "co_community_count_seen": 12,
+      "co_community_count_note": "40 West Residences (Lakewood), Arapahoe Green Townhomes (Denver), Cornerstone Residences (Denver), Downing Square Apartments (Denver), Flats At Two Creeks (Lakewood), Fountain Ridge Apartments (Fountain), Montview Manor (Denver), Mosaic Community Campus (Denver), Robinson Place (Lakewood), Sheridan Ridge Townhomes (Arvada), Willow Green Townhomes (Arvada), plus Highland West Community (Wheat Ridge, third-party managed).",
+      "own_marketing_domains": false,
+      "domain_note": "All properties link internally to archwaycommunities.org.",
+      "rendering": "server-rendered (readable via WebFetch)"
+    },
+    {
+      "operator": "Del Norte Neighborhood Development Corporation",
+      "group": "affordable",
+      "portfolio_url": "https://www.delnortendc.org/apartment-development/",
+      "co_community_count_seen": 3,
+      "co_community_count_note": "Emerson Street Apartments, Avondale Apartments, Veterans Apartments - all in Denver.",
+      "own_marketing_domains": false,
+      "domain_note": "Stays on delnortendc.org.",
+      "rendering": "server-rendered (readable via WebFetch)"
+    },
+    {
+      "operator": "Hope Communities",
+      "group": "affordable",
+      "portfolio_url": "https://hopecommunities.org/affordable-housing/",
+      "co_community_count_seen": 4,
+      "co_community_count_note": "Carolton Arms Apartments, The Gardens of Hope Communities, Hidden Brook Apartments, and Welton Homes at The Point (named separately in search). All Denver metro.",
+      "own_marketing_domains": false,
+      "domain_note": "All stay on hopecommunities.org subpages.",
+      "rendering": "server-rendered (readable via WebFetch)"
+    },
+    {
+      "operator": "Brothers Redevelopment",
+      "group": "affordable",
+      "portfolio_url": "https://brothersredevelopment.org/affordable-housing-communities/",
+      "co_community_count_seen": 22,
+      "co_community_count_note": "20 properties listed directly (Brandon Courtyard, SP Crossing, Brunetti Lofts, The Irving, Eagle Meadow Homes, Sheridan Glen Senior Apartments, Townhomes at Tollgate Creek, East Bay at Hidden Lake, Corona Senior Residences, Paris Family Apartments, Belmont Homes, Brookhaven Apartments, Garfield Apartments, La Alma Family Housing, Plaza Townhomes, Federal View Apartments, Jefferson Terrace, Sunnyside Senior Apartments, Decatur St. Residences, Clayton St. Residences) plus SPARKwest (Boulder) and Valor on the Fax (Denver). Company states a total portfolio of 28 properties/1,338 units statewide.",
+      "own_marketing_domains": false,
+      "domain_note": "All stay on brothersredevelopment.org.",
+      "rendering": "server-rendered (readable via WebFetch)"
+    },
+    {
+      "operator": "Volunteers of America Colorado",
+      "group": "affordable",
+      "portfolio_url": "https://www.voacolorado.org/services/find-housing/",
+      "co_community_count_seen": 7,
+      "co_community_count_note": "Bannock Youth & Family Center, Brunetti Lofts, Irving Street Women's Residence, Senior Affordable Housing, Sinton's Sanctuary, The Navigation Center, Theodora Family Hotel (Denver metro). Note: Brunetti Lofts also appears under Brothers Redevelopment - may be a co-managed/shared property.",
+      "own_marketing_domains": false,
+      "domain_note": "Stays on voacolorado.org.",
+      "rendering": "server-rendered (readable via WebFetch)"
+    },
+    {
+      "operator": "Colorado Coalition for the Homeless",
+      "group": "affordable",
+      "portfolio_url": "https://www.coloradocoalition.org/properties",
+      "co_community_count_seen": 21,
+      "co_community_count_note": "The fetched page shows only 3 category links (income-restricted, supportive/transitional, transitional), not individual property names; drilling into subpages would be needed. Company states 21 residential/transitional properties total, ~1,700 units owned outright (e.g., Renaissance Uptown Lofts - 98 units).",
+      "own_marketing_domains": false,
+      "domain_note": "Stays on coloradocoalition.org.",
+      "rendering": "server-rendered category index (readable via WebFetch), but individual property names require deeper subpages"
+    },
+    {
+      "operator": "Denver Housing Authority",
+      "group": "affordable",
+      "portfolio_url": "https://www.denverhousing.org/properties/",
+      "co_community_count_seen": 34,
+      "co_community_count_note": "34 named properties (e.g., 1040 Osage Street, 655 Broadway, Arapahoe Plaza, Barney Ford, Casa Loma, Columbine Homes, Connole Apartments, Hirschfeld Towers, Mariposa VIII, Quigg Newton Homes, Tapiz at Mariposa, etc.). DHA overall portfolio exceeds 13,000 units including scattered-site and voucher-supported housing not all individually named on this page.",
+      "own_marketing_domains": false,
+      "domain_note": "All 34 stay on denverhousing.org; two related projects (Sun Valley, Westridge) were noted as possibly having separate domains.",
+      "rendering": "server-rendered (readable via WebFetch)"
+    },
+    {
+      "operator": "Boulder Housing Partners",
+      "group": "affordable",
+      "portfolio_url": "https://boulderhousing.org/",
+      "co_community_count_seen": 8,
+      "co_community_count_note": "Named via search rather than a single fetched directory: Kalmia, Madison, Manhattan, Tantra Lake, Rally Flats, Hilltop Senior Living, 3300 Penrose Place, Hawthorn Court. Company states ~1,800 units across five geographic clusters in Boulder. Direct fetch attempts (city page and boulderhousing.org subpages) 404'd or redirected without a static list.",
+      "own_marketing_domains": false,
+      "domain_note": "Appears to stay on boulderhousing.org based on search snippets.",
+      "rendering": "could not confirm directly - fetch attempts 404'd; city-of-Boulder page pointed to BHP's own site for the full list"
+    },
+    {
+      "operator": "Aurora Housing Authority",
+      "group": "affordable",
+      "portfolio_url": "https://www.aurorahousing.org/housing/aha-properties",
+      "co_community_count_seen": 16,
+      "co_community_count_note": "Connections at 6th, Exponent, Fletcher Gardens, Ivy Hill Townhomes, Liberty View, Peoria Crossing I & II, Residences at First Avenue, Residences at Trolley Park, Residences at Willow Park (Townhomes and Flats), Summersong Townhomes, Village at Westerly Creek 1-3, Walden35.",
+      "own_marketing_domains": false,
+      "domain_note": "All stay on aurorahousing.org.",
+      "rendering": "server-rendered (readable via WebFetch)"
+    },
+    {
+      "operator": "Maiker Housing Partners (Adams County Housing Authority)",
+      "group": "affordable",
+      "portfolio_url": "https://maikerhp.org/housing/",
+      "co_community_count_seen": 17,
+      "co_community_count_note": "Alto Apartments, Aztec Villa, Caraway Apartments, Casa Redonda de Vigil Apartments, Crossing Pointe North & South, Creekside Place, Junegrass, Orchard Crossing, Overlook at Thornton, Orchard Hills, Terrace Gardens/Susan Kay Apartments, Toscana Apartment Homes, Village of Greenbriar, Village of Yorkshire, Waterview on the Parkway, Zuni Plaza Apartments. Note: this is the same entity as 'Adams County Housing Authority' on the candidate list (Maiker is its d/b/a) - do not double count.",
+      "own_marketing_domains": false,
+      "domain_note": "All stay on maikerhp.org.",
+      "rendering": "server-rendered (readable via WebFetch)"
+    },
+    {
+      "operator": "Foothills Regional Housing (Jefferson County Housing Authority)",
+      "group": "affordable",
+      "portfolio_url": "https://portal.foothillsrh.org/",
+      "co_community_count_seen": null,
+      "co_community_count_note": "Portal fetch returned 403 Forbidden. Company states 25+ affordable communities; search named at least 6 (Highland Trails, Vance Street Lofts, Mar La Manor, Vista El Rancho, Hilltop, Aspen Ridge).",
+      "own_marketing_domains": "unknown",
+      "domain_note": "Not confirmed.",
+      "rendering": "could not confirm - portal returned 403 Forbidden"
+    },
+    {
+      "operator": "Dominium",
+      "group": "affordable",
+      "portfolio_url": "https://www.dominiumapartments.com/find-apartment/properties/colorado.html",
+      "co_community_count_seen": 8,
+      "co_community_count_note": "Park Avenue West (Denver), The Addie at Metro Center (Aurora), Centennial Crossings (Centennial), East Range Crossings (Denver/DIA area), Heritage at Church Ranch (Westminster), North Range Crossings (Commerce City), South Range Crossings (Parker), Woodside Village (Greeley).",
+      "own_marketing_domains": true,
+      "domain_note": "All eight link out to their own dedicated property marketing domains rather than staying on dominiumapartments.com.",
+      "rendering": "server-rendered (readable via WebFetch)"
+    },
+    {
+      "operator": "Steele Properties",
+      "group": "affordable",
+      "portfolio_url": "https://www.steelellc.com/property/category/colorado/",
+      "co_community_count_seen": 11,
+      "co_community_count_note": "Aurora Homes, Burlington Manor Apartments, Cottonwood Apartments, Denver Gardens, Glennpark Village, Glenwood Green Apartments, Porterhouse Apartments, San Juan Apartments, The Manors Apartments, Weatherstone Apartments, Western Apartments. Company (Denver-based) states 95+ properties/9,500 units across 26 states overall.",
+      "own_marketing_domains": false,
+      "domain_note": "All stay on steelellc.com.",
+      "rendering": "server-rendered (readable via WebFetch)"
+    },
+    {
+      "operator": "Gorman & Company",
+      "group": "affordable",
+      "portfolio_url": "https://www.gormanusa.com/colorado-market/",
+      "co_community_count_seen": 4,
+      "co_community_count_note": "Wintergreen Village/The Village at Wintergreen (Keystone - appears to be one property listed twice), Vista Verde (Breckenridge), Avenida del Sol (Denver). Company states 19 CO developments and 2,400+ units built since entering the state in 2014 (e.g., The Tapestry and Ruby Vista Apartments in Denver, found via separate search, not on this page).",
+      "own_marketing_domains": "mixed",
+      "domain_note": "Wintergreen properties link to an external domain (wintergreenatkeystone.com); Vista Verde and Avenida del Sol stay on gormanusa.com.",
+      "rendering": "server-rendered (readable via WebFetch), but this page shows only a subset of the stated 19 CO developments"
+    },
+    {
+      "operator": "Cohen-Esrey",
+      "group": "affordable",
+      "portfolio_url": "https://www.cecommunities.com/",
+      "co_community_count_seen": null,
+      "co_community_count_note": "Borderline confidence. Search found a Denver listing (Residences at Franklin Park) and a Colorado Springs affordable community (Panorama Heights Apartments, 133 units), plus a reference to the company's 'fourth Colorado development,' implying roughly 3-4 total, but the community-search page itself returned no listings (empty filter form) via WebFetch.",
+      "own_marketing_domains": "unknown",
+      "domain_note": "Not confirmed.",
+      "rendering": "server-rendered search-form page with no property listings visible (not JS-only, just empty of results without a submitted filter)"
+    }
+  ],
+  "excluded_or_unconfirmed": [
+    "Roers Companies - only 1 named CO community found (Mural Apartments, Aurora); below the 3+ threshold",
+    "Toll Brothers Apartment Living - only 1 CO project found (Gables Angeline JV, Littleton, announced 2025); below the 3+ threshold",
+    "Venterra Realty - national apartment manager exists but no specific CO communities could be confirmed; search results conflated it with an unrelated Colorado Springs real-estate brokerage of a similar name",
+    "Knightvest - no CO presence found (AZ, NC, OK, TX only per search)",
+    "Essex Property Trust - West Coast only (CA/WA); no CO multifamily ownership found",
+    "Lantower Residential - confirmed to NOT operate in Denver/CO per search (Southeast/Texas markets only)",
+    "Decron Properties - confirmed to NOT operate in CO (CA/WA/AZ only)",
+    "Related Companies - no CO multifamily presence found in search",
+    "Village Green - search only surfaced an unrelated small unaffiliated property also named 'Village Green Apartments'; the national Village Green management company's CO presence could not be confirmed",
+    "Morgan Properties (King of Prussia/Conshohocken, PA) - no confirmed CO presence; search results conflated it with an unrelated 'Morgan Properties Boulder' and with The Morgan Group/MG Properties, a different company",
+    "Crescent Heights - no confirmed CO presence; search results surfaced an unrelated single property named 'Crescent Flats' and a different company, 'Crescent Communities'",
+    "Nuveen Real Estate - was a major CO multifamily owner (Palomino Park, 1,184 units) but sold that asset; functions as an institutional investor without a consumer portfolio page, so excluded from enumeration",
+    "Pinnacle / Cushman & Wakefield Multifamily - has a Denver office and advisory/brokerage presence, but as a third-party manager its managed properties are not branded under a 'Pinnacle' consumer portfolio page; could not confirm a distinct branded CO community count",
+    "Continental Realty (Trust) - no confirmed CO presence; search surfaced an unrelated single Denver property ('Continental Court') and a different, apparently unrelated 'Continental Realty Group' with one Denver project",
+    "ZRS Management - no confirmed CO presence for the national ZRS Management; search results conflated it with an unrelated local 'Z&R Property Management' in Colorado Springs",
+    "Berkshire (Communities/Residential) - could not confirm; search only surfaced a single unrelated small property named 'Berkshire Apartments' near DU",
+    "Lincoln Avenue Communities (affordable) - only 2 CO developments found (Marshall Pointe, Arvada; InterQuest Ridge, Colorado Springs); below the 3+ threshold, though worth monitoring as it is actively expanding into CO",
+    "Vecino Group - no CO presence found in search"
+  ],
+  "notes": "Enumeration only - no rent/availability data was collected, per instructions. Counts labeled 'co_community_count_seen' reflect what was directly verified via WebFetch or a specific named list in search results; where a page could not be fetched (403/404/SSL error/JS-only shell) or only exposed a search widget, count is null and the note field explains what could be confirmed instead via search. Several large operators (Willow Bridge, Avenue5, Asset Living, Steadfast, Monarch, Waterton, Weidner, Embrey) almost certainly have more CO communities than the 'seen' count reflects, because their sites are either JS/interactive-search-driven or the specific listing subpage could not be resolved; the true additional-community figure is likely higher than the conservative estimate below. Two entities were flagged as likely duplicates of authorities already implied by the candidate list: Maiker Housing Partners is the d/b/a of Adams County Housing Authority (counted once). Denver Housing Authority, Boulder Housing Partners, Aurora Housing Authority, Foothills Regional Housing (Jefferson County), and Maiker/Adams County are all public housing authorities, not private operators, but were included per the task's explicit candidate list. All housing-authority and nonprofit portfolio pages were server-rendered and readable directly via WebFetch, in contrast to several market-rate national operators (Monarch, Weidner, Waterton, Asset Living, Trammell Crow) whose listing/search pages returned 403s, SSL errors, or bare JS shells.",
+  "estimated_additional_communities": 440
+}

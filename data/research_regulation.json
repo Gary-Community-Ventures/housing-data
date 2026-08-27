@@ -1,0 +1,266 @@
+{
+  "colorado": [
+    {
+      "citation": "HB25-1090, \"Protections Against Deceptive Pricing Practices\" (codified as amendments to the Colorado Consumer Protection Act, C.R.S. Title 6, Art. 1, and to landlord-tenant law, C.R.S. Title 38, Art. 12)",
+      "year": 2025,
+      "effective": "2026-01-01",
+      "requires": "Landlords/rental companies must clearly and conspicuously disclose the 'total price' of a residential rental as a single, prominent number (in larger/more prominent font than any component figure), before a prospective tenant applies. The total price must include all mandatory recurring fees and charges except: (a) government taxes/charges, and (b) actual utility costs billed directly by a third-party utility provider (which may be itemized separately if properly disclosed). The bill also PROHIBITS landlords from charging certain fees outright, including charges for common-area utilities, pest control, and property taxes, and caps increases on other mandatory (non-utility) fees during a lease term of one year or less. This is the likely statutory driver of the 'Total Monthly Leasing Price' + itemized fee schedule with a 'Date of Issuance' seen on CO apartment marketing sites, since the CO Attorney General's guidance (Dec 2025) calls for a clear total-price figure and itemized, dated fee disclosures. Signed April 21, 2025 by Gov. Polis; prime sponsors Reps. Emily Sirota & Naquetta Ricks, Sens. Mike Weissman & Lisa Cutter.",
+      "applies_to": "Landlords and rental companies advertising or leasing residential property in Colorado (broad consumer-pricing-transparency bill that also covers non-housing goods/services, with carve-outs for food service, broadband/cable providers, and delivery network companies meeting compliance standards).",
+      "enforcement": "Violation is a deceptive/unconscionable trade practice under the Colorado Consumer Protection Act (C.R.S. § 6-1-105 et seq.). Tenants can send a written demand for a refund of unlawfully collected fees; if the landlord does not refund within 14 days, the landlord is liable for actual damages plus 18% annual compounding interest (some secondary sources describe added treble-damages exposure under CCPA's general private-right-of-action provisions). The Colorado Attorney General may adopt implementing rules and may bring enforcement actions (the AG already partnered with the FTC on the Greystar case, see federal section).",
+      "source_url": "https://leg.colorado.gov/bills/hb25-1090",
+      "confidence": "verified"
+    },
+    {
+      "citation": "Colorado Attorney General guidance on HB25-1090 price-transparency requirements",
+      "year": 2025,
+      "effective": "2025-12 (guidance published; law itself effective 2026-01-01)",
+      "requires": "AG guidance interpreting HB25-1090's 'clear and conspicuous' single total-price disclosure standard for residential leases, and related fee-itemization/dated-disclosure expectations referenced by law firm client alerts.",
+      "applies_to": "Colorado residential landlords and property managers.",
+      "enforcement": "Colorado Consumer Protection Act (same as HB25-1090 above); AG has rulemaking authority.",
+      "source_url": "https://www.hklaw.com/en/insights/publications/2025/12/colorado-ag-issues-guidance-on-new-price-transparency-law",
+      "confidence": "uncertain - AG guidance document itself was not directly retrieved; summarized via Holland & Knight secondary source only. Could not verify the exact 'Date of Issuance' field requirement is explicitly named in either the statute or AG guidance from primary sources reviewed."
+    },
+    {
+      "citation": "HB24-1057, \"Prohibit Algorithmic Devices Used for Rent Setting\" (2024) - DID NOT PASS",
+      "year": 2024,
+      "effective": "N/A - failed; never enacted",
+      "requires": "Would have prohibited landlords from using algorithmic devices to set rent, specifically devices trained on or incorporating nonpublic competitor data; would have made violations an unfair/deceptive trade practice under the CCPA. Passed the House 45-19 (March 4, 2024) but died in the Senate (Senate receded from amendments 17-18, May 1, 2024).",
+      "applies_to": "Would have applied to landlords setting rent for residential premises.",
+      "enforcement": "N/A - bill failed.",
+      "source_url": "https://leg.colorado.gov/bills/hb24-1057",
+      "confidence": "verified"
+    },
+    {
+      "citation": "HB25-1004 (2025 successor bill banning algorithmic rent-setting 'coordinators') - PASSED LEGISLATURE, VETOED BY GOVERNOR",
+      "year": 2025,
+      "effective": "N/A - vetoed May 2025, never took effect",
+      "requires": "Would have banned landlords from using AI/algorithmic 'coordinator' software/data-analytics services that perform a rent-coordinating function across multiple landlords (aimed at RealPage-style revenue management tools). Passed the General Assembly along party lines.",
+      "applies_to": "Would have applied to landlords and algorithmic pricing/coordination service providers.",
+      "enforcement": "N/A - Governor Jared Polis vetoed the bill in May 2025, reasoning that such price-fixing conduct is already illegal under the Colorado Antitrust Act and that removing the software could eliminate a tool with legitimate vacancy-management uses.",
+      "source_url": "https://www.cpr.org/2025/05/29/polis-vetos-rent-algorithm-bill-realpage/",
+      "confidence": "verified"
+    },
+    {
+      "citation": "FTC & State of Colorado v. Greystar Real Estate Partners, LLC - stipulated settlement/order",
+      "year": 2025,
+      "effective": "2025-12 (order entered)",
+      "requires": "Greystar must clearly and prominently disclose the total monthly price of a rental unit (including all mandatory fees) whenever it advertises or quotes rental prices; must pay $24 million total ($23M to FTC, $1M to Colorado) for allegedly advertising an attractive base rent while not disclosing mandatory recurring fees (tech, trash, package concierge, pest control, utility admin, amenities) until late in the application/leasing process, often after a non-refundable application fee was paid.",
+      "applies_to": "Greystar Real Estate Partners specifically (a major national multifamily operator/manager with a large Colorado/Denver-metro presence); the case is illustrative of the FTC's and Colorado AG's joint enforcement approach to rental fee transparency, using existing Section 5 FTC Act / CCPA authority even before HB25-1090's 2026 effective date.",
+      "enforcement": "Joint FTC (Section 5, FTC Act) and Colorado Attorney General (CCPA) enforcement action resulting in a stipulated court judgment/order.",
+      "source_url": "https://www.ftc.gov/news-events/news/press-releases/2025/12/greystar-agrees-pay-24-million-stop-deceptive-advertising-practices-result-ftc-colorado-lawsuit",
+      "confidence": "verified"
+    }
+  ],
+  "federal": [
+    {
+      "body": "Federal Trade Commission",
+      "action": "Trade Regulation Rule on Unfair or Deceptive Fees (\"Junk Fees Rule\"), 16 C.F.R. Part 464",
+      "status": "Final rule",
+      "issued": "2024-12 (announced Dec 2024); published in Federal Register early January 2025",
+      "effective": "2025-05 (approximately 120 days after Federal Register publication; commonly cited as effective in May 2025)",
+      "scope": "COVERS ONLY live-event ticketing and short-term lodging (hotels, motels, inns, short-term/vacation rentals). The FTC's original 2023 proposal was broader ('a wide range of businesses'), but the FINAL rule was explicitly narrowed and EXCLUDES long-term residential rental housing, financial services, and corporate housing arrangements. Requires covered businesses to display the total price (including all mandatory fees) as the most prominent figure in any advertisement, and prohibits misrepresenting the nature/purpose/refundability of fees.",
+      "source_url": "https://www.ftc.gov/news-events/news/press-releases/2024/12/federal-trade-commission-announces-bipartisan-rule-banning-junk-ticket-hotel-fees",
+      "confidence": "verified"
+    },
+    {
+      "body": "Federal Trade Commission",
+      "action": "Advance Notice of Proposed Rulemaking (ANPRM) on Unfair or Deceptive Rental Housing Fee Practices",
+      "status": "ANPRM (preliminary rulemaking stage - NOT a proposed or final rule yet)",
+      "issued": "Draft ANPRM submitted to OMB/OIRA for review in January 2026; ANPRM published in Federal Register March 12-13, 2026",
+      "effective": "Not yet effective - this is a fact-finding/comment stage. Public comment period ran roughly March-April 2026 (comment deadline cited as April 13, 2026).",
+      "scope": "This is a SEPARATE rulemaking track specifically targeting long-term residential rental housing fee practices - the category explicitly excluded from the Dec 2024 final Junk Fees Rule. The 74-question ANPRM covers: total-rent disclosure clarity, fee/charge transparency (nature, amount, refundability), application fee practices, security deposit handling, utility billing and government-fee passthroughs, and other leasing/payment practices. It does not appear to include a carve-out for affordable housing providers. FTC Chairman Andrew Ferguson directed staff to begin this rulemaking following the Greystar settlement.",
+      "source_url": "https://www.federalregister.gov/documents/2026/03/13/2026-04907/rule-on-unfair-or-deceptive-rental-housing-fee-practices",
+      "confidence": "verified - direct fetch of federalregister.gov page was blocked (403/redirect), so scope/date details are drawn from secondary legal-analysis sources (Katten, Inside Privacy, GT Law) that cite the Federal Register notice; the underlying existence and March 2026 timing of the ANPRM is corroborated across multiple independent sources including FTC's own press release title."
+    },
+    {
+      "body": "The White House / HUD (Biden-Harris Administration)",
+      "action": "Fact sheet: 'Biden-Harris Administration Takes on Junk Fees in Rental Housing to Lower Costs for Renters'",
+      "status": "Policy announcement / voluntary private-sector commitments (not regulation)",
+      "issued": "2023-07-19",
+      "effective": "N/A - not a binding rule",
+      "scope": "Announced that Zillow, Apartments.com, and AffordableHousing.com made VOLUNTARY commitments to provide consumers with total, upfront cost information on rental listings (rather than surprise fees revealed later in the process). HUD simultaneously released research on rental junk fees as a blueprint for a nationwide effort, and the administration highlighted state legislative activity (citing states 'from Connecticut to California').",
+      "source_url": "https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/19/fact-sheet-biden-harris-administration-takes-on-junk-fees-in-rental-housing-to-lower-costs-for-renters/",
+      "confidence": "verified"
+    },
+    {
+      "body": "FTC & CFPB (joint)",
+      "action": "Joint Request for Information (RFI) on Tenant Background Checks / Screening",
+      "status": "RFI (fact-finding, not a rule)",
+      "issued": "2023",
+      "effective": "N/A",
+      "scope": "FTC and CFPB jointly solicited public input on tenant background-screening practices, including application-fee costs and disclosure practices; received 600+ comments (NLIHC among commenters). No rule has resulted from this RFI as of this research.",
+      "source_url": "https://nlihc.org/resource/biden-harris-administration-announces-new-actions-reduce-junk-fees-rental-housing",
+      "confidence": "uncertain - corroborated by secondary sources (NLIHC, NCLC) referencing the RFI, but the primary FTC/CFPB RFI document itself was not directly fetched."
+    },
+    {
+      "body": "CFPB",
+      "action": "No CFPB rule specifically on rental-fee or total-price disclosure was identified",
+      "status": "N/A",
+      "issued": "N/A",
+      "effective": "N/A",
+      "scope": "CFPB's rental-related activity found in this research was limited to (a) participation in the 2023 joint RFI on tenant screening with the FTC, and (b) a CFPB blog post encouraging landlords/agencies to give tenants written notice of rights - not a fee-disclosure rule. No CFPB rulemaking on rental total-price/fee disclosure was found.",
+      "source_url": "https://www.consumerfinance.gov/about-us/blog/federal-housing-agencies-strongly-encourage-landlords-to-provide-tenants-written-notice-of-their-rights/",
+      "confidence": "uncertain - this is a negative finding (absence of a rule); could not exhaustively rule out other CFPB actions given search-tool limits."
+    },
+    {
+      "body": "FHFA",
+      "action": "No FHFA rule or guidance specifically on rental fee/total-price disclosure was identified",
+      "status": "N/A",
+      "issued": "N/A",
+      "effective": "N/A",
+      "scope": "No FHFA rental-fee-disclosure action was found in this research. FHFA's known renter-protection activity (e.g., prior GSE tenant-protection frameworks for multifamily loans) is oriented toward eviction notice periods and lease-renewal terms, not fee/total-price advertising disclosure, but this was not exhaustively confirmed.",
+      "source_url": "",
+      "confidence": "uncertain - negative finding; not exhaustively verified."
+    }
+  ],
+  "other_states": [
+    {
+      "state": "Minnesota",
+      "citation": "Minn. Stat. § 504B.120 (created by 2023 Minn. Laws ch. 52, art. 19, § 84)",
+      "year": 2023,
+      "effective": "2024-01-01",
+      "requires": "Landlord must disclose all nonoptional fees in the lease agreement; the sum of rent + all nonoptional fees must be labeled the 'Total Monthly Payment' and listed on the first page of the lease. Nonoptional fees must also be disclosed in unit advertisements, and ads/leases must specify whether utilities are included in rent. Violations carry treble-damages liability and potential attorney-fee awards to tenants.",
+      "applies_to": "Residential landlords in Minnesota.",
+      "source_url": "https://www.revisor.mn.gov/statutes/cite/504B.120",
+      "confidence": "verified"
+    },
+    {
+      "state": "Minnesota (general consumer/'junk fees' law, broader than housing)",
+      "citation": "Minnesota HF 3438 (2024) - amends Minn. Stat. Ch. 325F consumer protection provisions",
+      "year": 2024,
+      "effective": "2025-01-01",
+      "requires": "General state ban on 'junk fees' - businesses must incorporate all mandatory fees into advertised prices (any fee needed to complete a purchase, or that a reasonable consumer would expect to be included). Excludes taxes and shipping from the required total.",
+      "applies_to": "Businesses generally (not housing-specific, but applies to landlords as businesses).",
+      "source_url": "https://tcbmag.com/six-things-to-know-about-minnesotas-junk-fees-law/",
+      "confidence": "uncertain - bill number HF 3438 corroborated by one secondary source (TCB Magazine) but not independently cross-verified against the MN Legislature's own bill-tracking page in this research."
+    },
+    {
+      "state": "California",
+      "citation": "SB 478 (2023), the 'Honest Pricing Law' - amends the Consumers Legal Remedies Act (Cal. Civ. Code § 1770)",
+      "year": 2023,
+      "effective": "2024-07-01",
+      "requires": "Prohibits advertising a price that excludes mandatory fees (a 'drip pricing' ban); the advertised price must include all fees/charges except government taxes and shipping. Applies broadly to goods/services including short-term lodging and, per CA DOJ/AG FAQ and law-firm analysis, residential rental listings.",
+      "applies_to": "Businesses offering goods/services to CA consumers, including landlords advertising rental housing.",
+      "source_url": "https://oag.ca.gov/hiddenfees",
+      "confidence": "verified"
+    },
+    {
+      "state": "California",
+      "citation": "SB 611 (2024), 'Residential rental properties: fees and security'",
+      "year": 2024,
+      "effective": "2025-04-01 (fee/deposit provisions); rental-advertising provisions cited by some secondary sources as effective July 2025",
+      "requires": "Requires landlords/agents to include all mandatory fees, deposits, and charges in the advertised rental price (utilities, trash, water, other mandatory services); optional/amenity fees must be clearly disclosed separately. Also revises rules on security deposits.",
+      "applies_to": "California residential landlords.",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202320240SB611",
+      "confidence": "verified - bill existence, chaptering (approved by Governor Sept 19, 2024) confirmed via LegiScan/leginfo; exact rental-advertising effective date varies slightly across secondary sources (April 2025 vs July 2025), flagged as uncertain in notes."
+    },
+    {
+      "state": "Massachusetts",
+      "citation": "940 CMR 38.00 (Attorney General regulation under Mass. Gen. Laws ch. 93A, the Massachusetts Consumer Protection Act); companion legislation cited by some sources as Senate Bill No. 3",
+      "year": 2025,
+      "effective": "2025-09-02 (AG regulation); a related legislative provision is cited with an effective date of 2026-07-01",
+      "requires": "Businesses, including landlords, must state the total monthly price for an apartment (including mandatory fees) prominently and before collecting personal information; must itemize each mandatory and optional fee separately in writing using clear, simple language; must disclose lease terms (month-to-month, 12-month, auto-renewing, etc.); and must provide accessible cancellation instructions for auto-renewals/recurring optional fees.",
+      "applies_to": "Businesses operating in Massachusetts, including residential landlords.",
+      "enforcement": "Massachusetts Attorney General enforcement plus private right of action under Chapter 93A (including class actions).",
+      "source_url": "https://www.mintz.com/insights-center/viewpoints/2025-08-04-preparing-allston-christmas-what-massachusetts-new-junk-fee",
+      "confidence": "uncertain - the '940 CMR 38.00' AG regulation and its Sept 2, 2025 effective date are well corroborated across multiple law-firm sources; the separate 'Senate Bill No. 3' legislative citation (effective July 2026) appeared in only one secondary source and could not be independently verified against the Massachusetts legislature's own bill site in this research."
+    },
+    {
+      "state": "New York City (municipal, not statewide)",
+      "citation": "Local Law 119 of 2024, the FARE Act ('Fairness in Apartment Rental Expenses Act')",
+      "year": 2024,
+      "effective": "2025-06-11",
+      "requires": "Whoever hires a real estate broker (not the tenant, unless the tenant hired the broker) is responsible for the broker's fee. Before lease execution, landlords must provide tenants a signed, itemized written disclosure of all fees payable to the landlord, retained for 3 years with a copy given to the tenant. This is a broker-fee-allocation and itemized-fee-disclosure law, not a 'single total price in advertising' law like Colorado/Minnesota/Massachusetts.",
+      "applies_to": "NYC residential landlords, brokers, and tenants.",
+      "enforcement": "NYC Department of Consumer and Worker Protection (DCWP).",
+      "source_url": "https://www.nyc.gov/site/dca/news/018-25/dcwp-the-fare-act-now-effect",
+      "confidence": "verified"
+    },
+    {
+      "state": "New York State (statewide)",
+      "citation": "No verified statewide 'total price in rental advertising' law identified as of this research; several bills pending (e.g., S9346 'Housing Transparency Act' and other 2025 session bills referenced by advocacy/industry sources requiring itemized nonoptional fees on the first page of the lease)",
+      "year": 2025,
+      "effective": "Not enacted as statewide law as of this research",
+      "requires": "Pending proposals would require recurring nonoptional fees to appear on the listing (or an accompanying link) and on the first page of the lease, as part of total cost of rent.",
+      "applies_to": "Would apply statewide to NY landlords if enacted.",
+      "source_url": "https://www.nysenate.gov/legislation/bills/2025/S9346/amendment/B",
+      "confidence": "uncertain - could not confirm passage into law; treat as pending/proposed only."
+    },
+    {
+      "state": "Washington State",
+      "citation": "HB 1080 (2025)",
+      "year": 2025,
+      "effective": "2025 (per Bellingham municipal summary, related city rental-fee laws took effect Aug 1, 2025)",
+      "requires": "Requires all fees/charges needed to stay at a hotel or short-term rental to be fully disclosed in the advertised room rate (excludes government taxes). IMPORTANT: this Washington state law targets LODGING (hotels/short-term rentals), not long-term residential leases - parallel to the federal FTC rule's scope, not to Colorado/Minnesota's long-term-rental total-price laws.",
+      "applies_to": "Hotels and short-term rental operators in Washington State.",
+      "enforcement": "Civil penalty up to $10,000 per violation for knowing violations.",
+      "source_url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Htm/Bill%20Reports/House/1080%20HBA%20CPB%2025.htm",
+      "confidence": "verified - note scope limitation to short-term lodging, not long-term rental housing."
+    },
+    {
+      "state": "Washington State - Seattle (municipal)",
+      "citation": "Council Bill (CB) 121254",
+      "year": 2026,
+      "effective": "2027-07-01 (substantive provisions)",
+      "requires": "Passed by Seattle City Council August 11, 2026. Bans various 'junk fees' (administrative service charges, pet rent, package fees) and requires disclosure of the total monthly cost to be paid by the tenant, with clear upfront pricing.",
+      "applies_to": "Seattle residential landlords.",
+      "enforcement": "Seattle City Attorney's Office may sue violating landlords and recover treble damages on illegal fees; expanded investigative authority.",
+      "source_url": "https://www.multifamilydive.com/news/seattle-ban-rental-junk-fees/827816/",
+      "confidence": "verified - very recent (passed days before this research was conducted); effective date is 2027, well in the future."
+    },
+    {
+      "state": "Washington State - Bellingham (municipal)",
+      "citation": "City of Bellingham rental fee ordinance(s)",
+      "year": 2025,
+      "effective": "2025-08-01",
+      "requires": "New rental fee laws referenced by the City of Bellingham as taking effect August 1, 2025 (specific fee-disclosure content not independently verified beyond the city's own summary page).",
+      "applies_to": "Bellingham, WA landlords.",
+      "source_url": "https://cob.org/services/housing/housing-laws-tenant-and-landlord-support/housing-laws-rental-protections-and-requirements/new-rental-fee-laws",
+      "confidence": "uncertain - identified via search snippet only; full ordinance text/number not retrieved."
+    },
+    {
+      "state": "Oregon",
+      "citation": "Oregon HB 3521 (2025)",
+      "year": 2025,
+      "effective": "2026-01-01",
+      "requires": "Requires housing providers to disclose the amount of rent, fees, and deposits required to enter into the lease agreement before receiving a security deposit.",
+      "applies_to": "Oregon residential housing providers.",
+      "source_url": "https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3877/Introduced",
+      "confidence": "uncertain - HB 3521's substance was described in a secondary aggregator (NAA-style summary in search results) rather than directly fetched from the Oregon Legislative Information System; the OLIS link retrieved in search was actually for HB 3877, a related-looking but different bill number, so this citation needs independent confirmation before being treated as fully verified."
+    },
+    {
+      "state": "Colorado municipalities - Denver",
+      "citation": "No Denver-specific rental fee/total-price disclosure ordinance identified beyond the statewide HB25-1090",
+      "year": null,
+      "effective": null,
+      "requires": "Denver's distinctive rental rules found in this research relate to rent control on income-restricted properties and short-term rental (primary-residence) rules, not fee/total-price disclosure in advertising. No Denver municipal 'total price' ordinance was found.",
+      "applies_to": "N/A",
+      "source_url": "",
+      "confidence": "uncertain - negative finding; not exhaustively verified against Denver Municipal Code directly."
+    },
+    {
+      "state": "Colorado municipalities - Boulder",
+      "citation": "No Boulder-specific rental fee/total-price disclosure ordinance identified beyond the statewide HB25-1090",
+      "year": null,
+      "effective": null,
+      "requires": "Boulder's distinctive rental rules found in this research (rental licensing/inspection program, SmartRegs energy-efficiency standards) are unrelated to fee or total-price disclosure. No Boulder municipal 'total price' ordinance was found.",
+      "applies_to": "N/A",
+      "source_url": "",
+      "confidence": "uncertain - negative finding; not exhaustively verified against Boulder Municipal Code directly."
+    }
+  ],
+  "lease_term_disclosure": {
+    "any_requirement": false,
+    "detail": "No law or regulation was found in this research that requires a landlord, revenue-management vendor, or advertising platform to disclose WHICH lease term (e.g., 2-month vs. 15-month) an advertised or quoted rent applies to, nor any requirement to disclose that a displayed price is generated by algorithmic/dynamic-pricing software. This appears to be a genuine regulatory gap, as the user suspected. What DOES exist, and is adjacent but distinct: (1) Colorado's HB25-1090 (effective Jan 1, 2026) requires a single 'total price' disclosure and caps mandatory-fee increases during a lease term of one year or less, but does not require disclosing that base rent varies by lease length or showing rents for alternative lease terms side by side. (2) Massachusetts' 940 CMR 38.00 (effective Sept 2, 2025) requires disclosing the LEASE TYPE (month-to-month, 12-month, auto-renewing 12-month) but not that the quoted price is specific to one lease-length option among several priced differently. (3) A wave of city ordinances - San Francisco (Sec. 37.10C of the Rent Ordinance, effective Oct 14, 2024), Philadelphia (Bill No. 240823, Oct 2024), Berkeley, Minneapolis, San Diego, Jersey City NJ, Providence RI, Hoboken NJ (2025) - BAN the use of algorithmic rent-setting/revenue-management devices built on nonpublic competitor data, but these are prohibitions on the software, not consumer-facing disclosure mandates about how a quoted price was generated or which lease term it reflects. (4) Colorado twice tried and failed to enact a state-level algorithmic-pricing ban: HB24-1057 (died in Senate, May 2024) and HB25-1004 (passed the legislature but vetoed by Gov. Polis, May 2025, on the rationale that such conduct is already actionable under the Colorado Antitrust Act). Neither bill, even had it passed, would have created a consumer disclosure requirement - both were use-bans, not disclosure regimes. (5) The DOJ's Nov 24, 2025 proposed consent decree settling United States v. RealPage (joined by 10 states including Colorado) restricts RealPage's use of nonpublic/active-lease data and requires data to be at least 12 months old before use in model training (implicitly acknowledging the ~12-month/annual-lease norm), and imposes a court-approved monitor - but this is a data-use and antitrust remedy, not a tenant-facing disclosure obligation about term-based price variation. No provision found in the settlement, the DOJ complaint summaries, or law-firm analyses of it that requires disclosing to consumers that pricing varies by lease term.",
+    "sources": [
+      "https://leg.colorado.gov/bills/hb24-1057",
+      "https://www.cpr.org/2025/05/29/polis-vetos-rent-algorithm-bill-realpage/",
+      "https://www.sf.gov/information--algorithmic-devices-set-rent-are-prohibited-san-francisco",
+      "https://www.governing.com/urban/minneapolis-becomes-fourth-city-to-ban-rent-price-fixing-software",
+      "https://www.wsgr.com/en/insights/doj-settles-its-algorithmic-price-fixing-case-against-realpage.html",
+      "https://www.mintz.com/insights-center/viewpoints/2025-12-01-last-years-rent-realpage-reaches-settlement-agreement",
+      "https://leg.colorado.gov/bills/hb25-1090"
+    ]
+  },
+  "notes": "Could NOT verify: (1) 'HB24-1090' as named by the user does not exist in Colorado's bill-numbering system for that biennium in a form matching the described law; the actual, verified bill is HB25-1090 (introduced/passed in the 2025 session, effective Jan 1, 2026). The user's instinct about the substance was correct but the bill number/year was not - flag this clearly to the user. (2) The exact composition of the FTC's rental-housing ANPRM (comment period start/end dates, full question list) is drawn from secondary legal-alert sources because the primary federalregister.gov and ftc.gov URLs returned redirects/403 errors to this research tool; the underlying facts (ANPRM exists, targets long-term rental housing, follows the Greystar settlement, ~March 2026 timing) were corroborated across 3+ independent secondary sources so confidence is reasonably high, but a direct read of the Federal Register notice or FTC press release is recommended before citing exact dates/question counts in any external-facing material. (3) Minnesota's general 'junk fees' bill number (HF 3438) and Oregon's HB 3521 citation were each corroborated by only a single secondary source and should be independently double-checked against the MN Legislature and Oregon Legislative Information System (OLIS) respectively before being treated as fully verified. (4) No Denver- or Boulder-specific municipal total-price/fee-disclosure ordinance was found; this is reported as a negative finding, not an exhaustive one - direct review of the Denver Revised Municipal Code and Boulder Municipal Code was not performed. (5) No CFPB or FHFA rulemaking specific to rental fee/total-price disclosure was found; CFPB's role has been limited to a 2023 joint RFI with the FTC on tenant screening. (6) Confirmed there is NO disclosure requirement anywhere in current law (state, local, or federal, proposed or enacted) tied to lease-TERM-based price variation or to algorithmic/dynamic pricing methodology - existing and proposed measures either ban the software (several cities) or mandate a single all-in total price (CO, MN, MA, CA) without addressing why/how the underlying base rent number was set or whether it varies by lease length. This is the clearest confirmed gap relevant to the navigator tool's stated concern about $4,133 (2-month) vs $1,552 (15-month) pricing for the same unit."
+}

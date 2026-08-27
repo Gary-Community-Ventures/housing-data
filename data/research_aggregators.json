@@ -1,0 +1,117 @@
+{
+  "platforms": [
+    {
+      "name": "Zillow (incl. Trulia, HotPads)",
+      "rent_display": "d) Moving toward an opt-in all-in monthly total (\"Total price\"), layered on top of base rent; base-rent-only remains the default for listings whose provider has not supplied full fee data",
+      "fees_shown": "Itemized recurring fees (e.g., parking, pet) and one-time/move-in fees (security deposit, application/admin fees) when the housing provider has entered them via Zillow's fee-management tools",
+      "all_in_total": true,
+      "lease_term_shown": false,
+      "evidence_url": "https://www.zillow.com/news/transparent-rental-pricing-for-renters-and-housing-providers/ ; https://www.zillow.com/rentals-network/pricing-transparency/ ; https://www.zillow.com/rentals-network/fee-transparency-regulations/ ; https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/19/fact-sheet-biden-harris-administration-takes-on-junk-fees-in-rental-housing-to-lower-costs-for-renters",
+      "as_of": "First version ('Cost of Renting Summary') announced July 19, 2023 alongside the White House commitment; superseded by a 'Total monthly price' badge/checkmark display rolled out ahead of Massachusetts's Sept 2, 2025 and Connecticut's July 1, 2026 total-price-disclosure laws, described as being extended nationwide as opt-in for all housing providers.",
+      "confidence": "verified (feature existence, mechanism, opt-in nature, and 2023/2025-26 timeline are stated in Zillow's own help/newsroom pages); uncertain whether Trulia/HotPads render the identical UI (inferred from shared Zillow Rentals Network backend, not independently confirmed on those specific brands)"
+    },
+    {
+      "name": "Apartments.com (CoStar)",
+      "rent_display": "d) All-in monthly total, opt-in per property, rolled out nationwide (U.S. and Canada) as of early 2026",
+      "fees_shown": "Itemized mandatory fees (parking, pet, storage, custom fees) entered by the property manager, plus tooltips explaining each fee; property managers can also auto-sync fee data from their property management software",
+      "all_in_total": true,
+      "lease_term_shown": true,
+      "evidence_url": "https://www.apartments.com/grow/news/all-in-pricing-expansion ; https://www.apartments.com/grow/learning-center/price-transparency-nationwide ; https://propertyhelp.apartments.com/article/1270-how-do-i-provide-my-fee-data-and-comply-with-price-transparency-laws",
+      "as_of": "Calculator/all-in tool promised July 2023 (White House commitment); nationwide 'all-in pricing' expansion to every U.S./Canada listing announced for 'starting in late January' (year given in source as the nationwide-expansion timeframe, reporting current as of 2026); 'Standard Lease Term for Advertised Rent' field required in Massachusetts.",
+      "confidence": "verified for the all-in total and itemized fees (Apartments.com's own product pages and help center); the lease-term item needs a caveat -- see note below on what 'lease_term_shown' actually means for this platform"
+    },
+    {
+      "name": "Apartment List",
+      "rent_display": "b) Rent plus itemized mandatory fees is confirmed; whether Apartment List itself (as opposed to partner site Apartments.com) shows a true all-in total on its own consumer-facing search results could not be confirmed from available sources",
+      "fees_shown": "Fee transparency case study describes mandatory fee disclosure by participating properties",
+      "all_in_total": false,
+      "lease_term_shown": false,
+      "evidence_url": "https://www.apartmentlist.com/rental-management/fee-transparency-case-study",
+      "as_of": "Undated case study; no product-announcement page with a launch date was found",
+      "confidence": "uncertain -- Apartment List publishes analysis of the industry-wide shift and quotes its own product staff endorsing fee transparency, but no Apartment List press release/help page describing its own consumer-facing all-in display mechanics (analogous to Zillow's or Apartments.com's) was found despite searching"
+    },
+    {
+      "name": "Rent. / Rent Group (Rent.com, ApartmentGuide.com)",
+      "rent_display": "c) All-in monthly total via a 'Total Costs & Fees' tab shown per listing",
+      "fees_shown": "Itemized: rent, amenity fees, utilities (including an electricity cost estimate -- described as a first for a rental listing site), pet rent, parking fees; two total estimates are shown (a monthly total and, per the White House 2023 commitment context, an upfront cost)",
+      "all_in_total": true,
+      "lease_term_shown": false,
+      "evidence_url": "https://www.businesswire.com/news/home/20240226592602/en/New-Rent.com-Feature-Helps-Renters-Understand-True-Cost-of-Renting",
+      "as_of": "Launched February 26, 2024 on Rent.com; announced as 'coming soon' to ApartmentGuide.com at that time",
+      "confidence": "verified via the original press release (mirrored on a local-news site after the primary Business Wire URL rate-limited); did not independently verify current-day presence on ApartmentGuide.com"
+    },
+    {
+      "name": "Zumper",
+      "rent_display": "c) All-in monthly total ('Total Monthly Leasing Price') plus an interactive cost calculator for optional/situational fees, on participating listings",
+      "fees_shown": "Mandatory recurring fees syndicated from Engrain/SightMap property data; optional/situational fees (e.g., parking, pet) selectable in a calculator to see the resulting total",
+      "all_in_total": true,
+      "lease_term_shown": false,
+      "evidence_url": "https://www.zumper.com/manage/resources/zumper-and-engrain-simplify-fee-transparency/ ; https://www.zumper.com/manage/resources/multifamily-fee-transparency-guide/",
+      "as_of": "Zumper cost calculator added to listings in 2025; the Engrain/SightMap mandatory-fee-data syndication (which feeds the Total Monthly Leasing Price) announced March 16, 2026 and requires the property to opt in via its Engrain Client Services Manager",
+      "confidence": "verified via Zumper's own resource pages, which describe the mechanism and dates; feature is opt-in and depends on the property using Engrain/SightMap, so coverage is partial, not site-wide"
+    },
+    {
+      "name": "Redfin (rentals)",
+      "rent_display": "a) No evidence found of an all-in total or itemized-fee feature specific to Redfin's rental listings; base rent appears to be the default",
+      "fees_shown": "Not established -- no press release, help-center article, or newsroom post describing a Redfin rental fee-transparency feature was found",
+      "all_in_total": false,
+      "lease_term_shown": false,
+      "evidence_url": "(none found -- absence of evidence, not confirmed absence of feature)",
+      "as_of": "N/A",
+      "confidence": "uncertain -- Redfin was not named among the companies making the 2023 White House commitment, and no subsequent Redfin product announcement about rental fee transparency turned up in searches of press/help/newsroom content; this is a gap in available public documentation, not a verified claim that Redfin shows rent-only"
+    },
+    {
+      "name": "AffordableHousing.com",
+      "rent_display": "d) Total upfront/move-in cost plus (c) an all-in monthly total, via a 'Total Monthly Lease Price' (TMLP) feature",
+      "fees_shown": "Monthly recurring fees (pet rent, service charges), one-time expenses (deposits, admin charges), up to five custom owner-defined fees, and a utilities responsibility breakdown; a 'Trusted Owner' badge for owners meeting fee-limit/no-junk-fee/full-disclosure criteria",
+      "all_in_total": true,
+      "lease_term_shown": false,
+      "evidence_url": "https://www.prnewswire.com/news-releases/affordablehousingcom-introduces-fee-transparency-to-show-the-true-cost-of-renting-302762762.html ; https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/19/fact-sheet-biden-harris-administration-takes-on-junk-fees-in-rental-housing-to-lower-costs-for-renters",
+      "as_of": "Fee-disclosure requirement and 'Trusted Owner' badge committed to in July 2023; the TMLP feature and press release describing it in its current, fuller form dated May 5, 2026. It is unclear from available sources whether TMLP is a 2026 rebrand/expansion of the 2023 commitment or a materially new feature -- the May 2026 release does not mention the 2023 White House commitment at all.",
+      "confidence": "verified for feature mechanics and both dates individually; the relationship between the 2023 commitment and the 2026 TMLP launch is inferred, not confirmed by AffordableHousing.com itself"
+    }
+  ],
+  "white_house_2023": {
+    "companies": ["Zillow", "Apartments.com (CoStar)", "AffordableHousing.com"],
+    "commitments": "Announced July 19, 2023 by the Biden-Harris administration (White House fact sheet + HUD press release), alongside a broader 'junk fees' push covering rental housing, airlines, hotels, etc. Specific pledges: (1) Zillow committed to launching a 'Cost of Renting Summary' on active apartment listings, showing the total cost of renting from the outset -- 'all monthly costs and one-time costs, like security deposits and application fees.' (2) Apartments.com committed to launching 'a new calculator on its platform that will help renters determine the all-in price of a desired unit,' covering 'all up-front costs as well as recurring monthly rents and fees.' (3) AffordableHousing.com committed to 'require owners to disclose all refundable and non-refundable fees and charges upfront in their listings' and to launch a 'Trusted Owner' badge for owners committed to reasonable fee limits, no junk fees, and full fee disclosure. Only these three companies were named as making platform commitments in the fact sheet found; Apartment List, Zumper, Rent./Rent Group, and Redfin were not part of the July 2023 White House announcement (their fee-transparency features, documented above, appear to be separate, later, company-driven initiatives, some possibly influenced by the general 'junk fees' climate the White House action helped create).",
+    "follow_up": "Coverage on delivery is mixed and mostly indirect (no dedicated 'did they keep their promise' audit was found): (1) All three committing companies did ship some version of the promised feature -- Zillow's Cost of Renting Summary (2023, later evolved into a 'Total price' badge feature by 2025-26), Apartments.com's calculator/all-in pricing (rolled out in phases through a full US/Canada expansion by 2026), and AffordableHousing.com's fee-disclosure requirement and Trusted Owner badge. (2) However, independent reporting suggests uneven real-world delivery: one source found in a spot-check that 'the same apartment complexes listed on both Apartments.com, Zillow, and the actual apartment complex's website show different levels of completeness,' implying inconsistent fee-data completeness across and within platforms. (3) Fee prevalence has not clearly declined: renter surveys cited in secondary coverage show 58% of renters paid at least one non-rent fee in 2024 and 60% in 2025 (a slight increase), and the National Consumer Law Center's 2025 'What the Heck, Dude!' report says junk fees still cost renters hundreds of millions of dollars per year nationally, citing a $276M/year 'excess burden' estimate for application fees alone (originally a 2024 White House Council of Economic Advisers estimate that NCLC notes is 'no longer available on the White House website'). (4) Since 2023, the center of gravity for enforcement has shifted from voluntary company pledges to state law (NCLC counts 19+ states with rental junk-fee laws, 30+ measures since 2025) and, more recently, federal rulemaking: a Federal Trade Commission proposed rule on 'Unfair or Deceptive Rental Housing Fee Practices' was in progress as of an FTC Federal Register notice dated March 13, 2026, with a bipartisan coalition of 20+ state AGs submitting supportive comments. This suggests the 2023 voluntary commitments were viewed by advocates as a first step rather than a solution, prompting subsequent binding state and (proposed) federal rules.",
+    "sources": [
+      "https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/07/19/fact-sheet-biden-harris-administration-takes-on-junk-fees-in-rental-housing-to-lower-costs-for-renters",
+      "https://money.com/zillow-rental-sites-junk-fees/",
+      "https://www.sfchronicle.com/politics/article/rental-junk-fees-18207114.php",
+      "https://www.geekwire.com/2023/zillow-releases-tool-for-transparent-rental-pricing-as-white-house-targets-junk-fees/",
+      "https://www.nclc.org/wp-content/uploads/2024/09/202511_Report_What-the-Heck-Dude-1.pdf",
+      "https://www.nclc.org/resources/what-the-heck-dude-how-states-can-fight-rental-housing-junk-fees/",
+      "https://www.federalregister.gov/documents/2026/03/13/2026-04907/rule-on-unfair-or-deceptive-rental-housing-fee-practices",
+      "https://www.regulatoryoversight.com/2026/04/state-ags-back-ftcs-proposed-rule-on-rental-junk-fees/",
+      "HUD press release HUD No. 23-147 (title confirmed via search results; page itself returned HTTP 404 on fetch attempt, so content not independently re-verified beyond the fact-sheet text)"
+    ]
+  },
+  "data_standards": {
+    "formats": [
+      "MITS (Multifamily Information and Transactions Standards) -- developed/maintained by NMHC and now stewarded by RETTC (Real Estate Technology and Transformation Center) with OSCRE International and Cherre; the actual standard used by apartment ILS (internet listing service) feeds such as those powering Zillow, Apartments.com, Zumper, etc. Modules include Property Marketing/ILS (current v5.0), Core Data (v4.0), Lead Management (v4.0), Lease/Application (v3.0), Accounts Payable (v4.0), Collections (v3.0), Resident Screening (v3.0), Resident Transactions (v3.0).",
+      "RETS (Real Estate Transaction Standard) -- an older, now-deprecated XML protocol instituted by NAR in 1999, used mainly for MLS/for-sale (and some single-family for-rent) listing exchange (IDX), not the primary standard for multifamily ILS feeds. RESO (Real Estate Standards Organization) has replaced RETS with the RESO Web API (RESTful, OData/JSON, OAuth), which standardizes for-sale/MLS field names but is a distinct lineage from MITS; no evidence found that RESO Web API contains the fee/lease-term-pricing extensions MITS added, since that is not multifamily rental's primary ILS pathway."
+    ],
+    "has_fee_fields": "Only partially and only recently. Historically, MITS's core Property/Marketing/ILS schema did not have a standardized way to represent mandatory recurring fees as part of an advertised price -- this was identified as an industry gap. A dedicated 'MITS Fee Transparency' extension to Property/Marketing/ILS (culminating in v5.0) was developed through 2024 and formally released January 14, 2025 by RETTC in collaboration with OSCRE and Cherre, following a public review/industry-feedback process. This version defines a Total Monthly Leasing Price (TMLP) concept -- 'the amount displayed to a prospective renter as their expected recurring monthly price/cost' -- an extended taxonomy of fee classifications (e.g., lease-break fees, key/fob fees, tax/assessment fees), and fee-related tags such as feeTermBasis, feeStartTermEarliest, and feeStartTermLatest, with fee lists attachable at the property, phase, building, floorplan, and unit levels.",
+    "has_term_pricing_fields": "Yes, as of MITS Property/Marketing/ILS 5.0 (Jan 2025): the standard's definition of TMLP explicitly calls for 'Base Rent w/all lease term duration options transmitted (if no lease term duration options transmitted, assume 12-month term)' -- i.e., the schema can carry a full lease-term-duration price table, not just a single 12-month rent. Before v5.0 there was no standardized field for this, and per-term pricing (where present) would have been handled by revenue-management systems internally and not necessarily exposed to the ILS feed at all.",
+    "populated_in_practice": "Adoption is voluntary, not mandated, and appears far from universal as of 2026. RETTC's own January 2025 release describes adoption as 'voluntary on the part of rental housing providers' and the model as 'freely available to the public for download' -- i.e., there is no enforcement mechanism forcing property-management systems or ILS platforms to populate the new fee/term fields. Independent commentary (e.g., a spot-check finding inconsistent fee-data completeness for the same properties across Apartments.com, Zillow, and a property's own site) supports that population in practice is partial and uneven, consistent with the platform-by-platform findings above where all-in pricing and fee display are opt-in per property/landlord even on platforms (Zillow, Apartments.com, Zumper) that have built the consumer-facing display. No source found that any platform actually surfaces the lease-term-duration price table to consumers, even though the schema now supports transmitting it (see Q3 below) -- this looks like a display choice built on top of a very new, thinly populated data field, not (or no longer, post-2025) purely a data-model limitation.",
+    "sources": [
+      "https://rettc.org/press-release/rettc-announces-release-of-updated-data-model-to-improve-fee-transparency-for-renters",
+      "https://rettc.org/mits-data-models",
+      "https://www.rettc.org/hubfs/MITS/Documents/MITS%20Fee%20Transparency%20-%20Final%20Proposed%20Data%20Model.pdf?hsLang=en",
+      "https://blog.cherre.com/2024/11/26/driving-fee-transparency-with-the-mits-data-standard-initiative/",
+      "https://www.multihousingnews.com/mits-unveils-new-multifamily-data-transfer-standard/ (page blocked 403 on direct fetch; summarized only via search snippet, not independently verified)",
+      "https://bbcmag.com/advancing-data-models-now-enable-multifamily-fee-transparency/",
+      "https://en.wikipedia.org/wiki/Real_Estate_Transaction_Standard",
+      "https://www.reso.org/reso-web-api/"
+    ]
+  },
+  "does_it_well": [
+    "HUD's statutory Total Tenant Payment (TTP) / gross rent formula for subsidized housing (public housing and Housing Choice Vouchers) is arguably the most rigorous 'all-in monthly cost' calculation in the housing sector -- it combines rent and a utility allowance into a single gross-rent figure and computes the tenant's share by formula (highest of 30% adjusted income, 10% gross income, welfare rent designation, or minimum rent). This is genuine all-in accounting, but it only applies to subsidized households working with a housing authority, not to market-rate listings on any consumer search site.",
+    "HUD/DOT's Location Affordability Portal combines estimated housing AND transportation costs for a neighborhood, which is a broader 'true cost of living there' concept than any rental listing site attempts, though it is neighborhood-level, not per-listing.",
+    "AffordableHousing.com's Total Monthly Lease Price (TMLP) feature and Rent.com's 'Total Costs & Fees' tab are the two consumer rental-listing features found in this research that most closely resemble genuine all-in per-listing pricing (monthly total plus a separate move-in/upfront total), among the platforms in scope.",
+    "The Urban Institute / Community Economic Defense Project's 2025 Denver ledger-data analysis (finding non-rent fees added 10-30% to tenants' total monthly cost) is a rare piece of independent empirical research quantifying the actual size of the fee gap, rather than relying on advertised listing prices -- useful for calibrating how large an all-in display's correction might need to be.",
+    "No dedicated academic or nonprofit 'total cost of renting' calculator/tool independent of a listing site itself (e.g., a HUD, state housing-finance-agency, or university-run tool that computes true all-in cost across arbitrary market-rate listings) was found in this research; general-purpose 'rent affordability calculators' found in search results are commercial content-marketing tools, not authoritative or notably rigorous, and were not verified in depth."
+  ],
+  "notes": "What could not be verified despite searching: (1) Apartment List's own consumer-facing all-in-total mechanics and launch date (only an undated case study/blog commentary was found, not a product announcement analogous to competitors'). (2) Whether Redfin has any rental fee-transparency feature at all -- no evidence found either way; treated as unconfirmed, not as proof of rent-only display. (3) Whether Trulia and HotPads (Zillow-owned) render the same 'Total price' UI as Zillow.com itself -- inferred from shared backend/network branding, not independently confirmed on those specific domains (both were also off-limits to direct fetch per the access rule, other than policy pages, and no Trulia/HotPads-specific policy page was found). (4) The MITS Fee Transparency PDF's exact field-by-field required/optional table could not be extracted (WebFetch could not parse the binary PDF content); required-vs-optional status is inferred from secondary characterizations ('Minimum Viable Attributes,' 'voluntary adoption') rather than read directly from the schema table. (5) No source was found describing any consumer-facing aggregator that displays a lease-term selector letting a shopper see how a unit's rent changes by lease length -- this supports (does not just fail to refute) the user's expectation that no such feature exists in the consumer product, even though the underlying MITS 5.0 schema (as of Jan 2025) can now technically carry that data. (6) HUD.gov press release HUD No. 23-147 returned HTTP 404 on direct fetch; its content was cross-checked only against the parallel White House fact sheet and secondary summaries, not read firsthand. (7) multihousingnews.com and several apartments.com/zillow.com pages returned 403/429 on WebFetch; those sources were used only via search-snippet summaries and are flagged 'uncertain' or unverified accordingly above. All dates and figures involving 2025-2026 reflect the current-date context of August 2026 and should be treated as the most recent state found, not necessarily the final state of a fast-moving regulatory/product area."
+}

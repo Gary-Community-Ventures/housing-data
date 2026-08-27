@@ -1,0 +1,26 @@
+.venv/
+__pycache__/
+*.pyc
+scratch/
+nohup.out
+
+# raw HTML cache -- 300MB+, rebuilt by any collection pass
+data/raw/
+
+# live working files -- derived, snapshotted daily into data/history/
+# (fresh clone: ./.venv/bin/python -m hn.history restore)
+data/listings.jsonl
+data/listings_browser.jsonl
+data/site_results.jsonl
+data/properties.jsonl
+
+# re-fetchable reference pulls (endpoints documented in data/opendata_summary.json)
+data/opendata_denver_rental.json
+data/opendata_boulder_rental.json
+data/osm_denver_metro.json
+
+# operational logs -- EXCEPT the compliance artifacts, which are versioned
+logs/*
+!logs/terms_audit.jsonl
+!logs/terms_reaudit.json
+!logs/denylist_terms_evidence.json

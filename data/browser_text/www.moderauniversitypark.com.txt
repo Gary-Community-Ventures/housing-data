@@ -1,0 +1,53 @@
+https://www.moderauniversitypark.com/denver/modera-university-park/conventional/
+---PAGETEXT---
+[NOTE: get_page_text only returned footer links; the unit-level availability list lives in the main content region. Captured via accessibility-tree read_page below. Format per unit: Home # | Beds,Baths | SqFt | Floor plan code | Total Monthly Lease Price | Availability]
+
+Heading: "1- and 2-Bedroom Floor Plans in Denver, CO"
+Sub-heading: "SMART DESIGN. SOPHISTICATED STYLE. LOFTED DENS AVAILABLE."
+
+Available Homes:
+Home #419 | 1 Bed, 1 Bath | 602 SqFt | A01 | $1,699 | Available Now
+Home #453 | 1 Bed, 1 Bath | 602 SqFt | A01 | $1,709 | Available Now
+Home #423 | 1 Bed, 1 Bath | 602 SqFt | A01 | $1,954 | Available 10/19/2026
+Home #449 | 1 Bed, 1 Bath | 602 SqFt | A01 | $1,954 | Available Now
+Home #151 | 1 Bed, 1 Bath | 660 SqFt | A10 | $1,989 | Available Now
+Home #220 | 1 Bed, 1 Bath | 607 SqFt | A02 | $1,999 | Available Now
+Home #553 | 1 Bed, 1 Bath | 602 SqFt | A01 | $2,039 | Available Now
+Home #242 | 1 Bed, 1 Bath | 706 SqFt | A07 | $2,059 | Available Now
+Home #251 | 1 Bed, 1 Bath | 660 SqFt | A10 | $2,059 | Available Now
+Home #161 | 1 Bed, 1 Bath | 781 SqFt | A17 | $2,074 | Available Now
+Home #342 | 1 Bed, 1 Bath | 706 SqFt | A07 | $2,079 | Available Now
+Home #442 | 1 Bed, 1 Bath | 706 SqFt | A07 | $2,114 | Available Now
+Home #102 | 1 Bed, 1 Bath | 693 SqFt | A12 | $2,164 | Available Now
+Home #152 | 1 Bed, 1 Bath | 640 SqFt | A09 | $2,209 | Available Now
+Home #461 | 1 Bed, 1 Bath | 780 SqFt | A16 | $2,239 | Available Now
+Home #116 | 1 Bed, 1 Bath | 640 SqFt | A09 | $2,259 | Available 10/17/2026
+Home #263 | 1 Bed, 1 Bath | 679 SqFt | A06 | $2,259 | Available Now
+Home #363 | 1 Bed, 1 Bath | 679 SqFt | A06 | $2,279 | Available Now
+Home #252 | 1 Bed, 1 Bath | 640 SqFt | A09 | $2,289 | Available Now
+Home #266 | 1 Bed, 1 Bath | 693 SqFt | A12 | $2,289 | Available Now
+Home #268 | 1 Bed, 1 Bath | 693 SqFt | A12 | $2,289 | Available Now
+Home #301 | 1 Bed, 1 Bath | 679 SqFt | A06 | $2,294 | Available Now
+Home #307 | 1 Bed, 1 Bath | 679 SqFt | A06 | $2,304 | Available Now
+Home #316 | 1 Bed, 1 Bath | 640 SqFt | A09 | $2,309 | Available 10/22/2026
+Home #401 | 1 Bed, 1 Bath | 679 SqFt | A06 | $2,314 | Available Now
+Home #463 | 1 Bed, 1 Bath | 679 SqFt | A06 | $2,314 | Available Now
+Home #368 | 1 Bed, 1 Bath | 693 SqFt | A12 | $2,324 | Available Now
+Home #407 | 1 Bed, 1 Bath | 679 SqFt | A06 | $2,339 | Available Now
+Home #518 | 1 Bed, 1 Bath (with loft) | 702 SqFt | A02L | $2,354 | Available 10/24/2026
+Home #302 | 1 Bed, 1 Bath | 693 SqFt | A12 | $2,409 | Available 10/29/2026
+Home #164 | 2 Bed, 2 Bath | 971 SqFt | B04 | $2,482 | Available Now
+Home #159 | 2 Bed, 2 Bath | 1,032 SqFt | B06 | $2,499 | Available Now
+Home #224 | 2 Bed, 2 Bath | 900 SqFt | B01 | $2,804 | Available Now
+Home #254 | 2 Bed, 2 Bath | 900 SqFt | B01 | $2,804 | Available Now
+Home #324 | 2 Bed, 2 Bath | 900 SqFt | B01 | $2,804 | Available 08/23/2026
+Home #354 | 2 Bed, 2 Bath | 900 SqFt | B01 | $2,804 | Available Now
+Home #229 | 2 Bed, 2 Bath | 1,061 SqFt | B07 | $2,829 | Available Now
+Home #239 | 2 Bed, 2 Bath | 1,032 SqFt | B06 | $2,854 | Available Now
+Home #329 | 2 Bed, 2 Bath | 1,061 SqFt | B07 | $2,889 | Available Now
+Home #264 | 2 Bed, 2 Bath | 971 SqFt | B04 | $2,919 | Available Now
+Home #364 | 2 Bed, 2 Bath | 984 SqFt | B05 | $2,944 | Available Now
+Home #459 | 2 Bed, 2 Bath | 1,032 SqFt | B06 | $2,949 | Available Now
+Home #511 | 2 Bed, 2 Bath (with loft) | 1,131 SqFt | B06L | $3,504 | Available Now
+
+Marketing banner noted on page: "ENJOY UP TO 12 WEEKS FREE!* Ask about 6 months free parking! Enjoy 12 weeks of rent free living on 1 bedroom homes & 10 weeks of rent free living on 2 bedroom ho[mes]..."

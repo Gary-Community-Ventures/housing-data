@@ -1,0 +1,38 @@
+{
+  "attempted": 31,
+  "captured": [
+    "www.livingrw.com",
+    "www.legacyatfitz.com",
+    "www.emerywesthighland.com",
+    "www.altapineycreek.com",
+    "www.prosperplaceapts.com",
+    "www.livegwgolden.com",
+    "liveraleighapts.com",
+    "talonhill.com",
+    "www.woodlineplaceapts.com",
+    "www.avanathorntonstation.com",
+    "www.gardenplazaaurora.com",
+    "www.aviatorapartmentsco.com",
+    "www.mylambertsonfarmsapartments.com",
+    "www.avanabelmar.com",
+    "www.luxeatmilehigh.com",
+    "www.reflectionsatcherrycreek.com",
+    "www.rockvueapts.com",
+    "www.ridgeatmountainview.com",
+    "www.moderauniversitypark.com",
+    "www.altasloanslake.com",
+    "www.newgateapthomes.com",
+    "wyeflats.com",
+    "altonjeffersonparkapts.com",
+    "www.gatewayarvadaridge.com"
+  ],
+  "failed": [
+    {"host": "thevalenciagardens.com", "reason": "captcha"},
+    {"host": "wonderlandcreektownhomes.com", "reason": "captcha"},
+    {"host": "parkviewtowersdenver.com", "reason": "captcha"},
+    {"host": "astondenver.com", "reason": "captcha"},
+    {"host": "www.grandlowrylofts.com", "reason": "captcha"},
+    {"host": "www.advenirliving.com", "reason": "no floorplan page"},
+    {"host": "www.livevistadenver.com", "reason": "captcha"}
+  ]
+}

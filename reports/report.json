@@ -1,0 +1,884 @@
+{
+ "yield": {
+  "sites_attempted": 965,
+  "buckets": [
+   {
+    "code": "C_nothing",
+    "label": "Nothing extracted",
+    "n": 325,
+    "pct": 33.7
+   },
+   {
+    "code": "A_rent_and_availability",
+    "label": "Clean rent + availability",
+    "n": 221,
+    "pct": 22.9
+   },
+   {
+    "code": "D_skipped_vendor_hosted",
+    "label": "Skipped - vendor-hosted marketing site",
+    "n": 116,
+    "pct": 12.0
+   },
+   {
+    "code": "F_dropped_terms_prohibit",
+    "label": "Dropped - terms prohibit automated access",
+    "n": 112,
+    "pct": 11.6
+   },
+   {
+    "code": "G_unreachable",
+    "label": "Unreachable / dead URL",
+    "n": 74,
+    "pct": 7.7
+   },
+   {
+    "code": "B1_rent_only",
+    "label": "Rent only (no availability count)",
+    "n": 42,
+    "pct": 4.4
+   },
+   {
+    "code": "E_bot_blocked",
+    "label": "Bot-blocked",
+    "n": 37,
+    "pct": 3.8
+   },
+   {
+    "code": "B3_structure_only",
+    "label": "Floor plan structure only (no rent, no availability)",
+    "n": 35,
+    "pct": 3.6
+   },
+   {
+    "code": "B2_availability_only",
+    "label": "Availability only (no rent)",
+    "n": 2,
+    "pct": 0.2
+   },
+   {
+    "code": "H_denylisted",
+    "label": "Denylisted domain (never requested)",
+    "n": 1,
+    "pct": 0.1
+   },
+   {
+    "code": "I_no_floorplan_page",
+    "label": "No floor-plan page found",
+    "n": 0,
+    "pct": 0.0
+   }
+  ],
+  "usable_any_data": 265,
+  "listing_rows": 7896,
+  "unit_level_rows": 5786,
+  "rows_with_rent": 6272,
+  "rows_with_availability": 7059,
+  "rows_with_geo": 6504,
+  "distinct_properties_with_data": 274,
+  "usable_pct": 27.5,
+  "structure_only": 35,
+  "rent_behind_denylisted_portal": 115
+ },
+ "normalization": {
+  "rows": 7896,
+  "confidence": {
+   "low": 2116,
+   "high": 5575,
+   "medium": 205
+  },
+  "rent_basis": {
+   "per_unit": 7764,
+   "per_bed": 132
+  },
+  "with_comparable_rent": 6272,
+  "term_matrix_published": 3576,
+  "mandatory_fees_known": 3671,
+  "with_concession": 2045,
+  "income_restricted": 4,
+  "per_bed_normalized": 132,
+  "cost_completeness": {
+   "minimal": 2429,
+   "partial": 3540,
+   "complete": 1927
+  },
+  "top_cost_gaps": {
+   "no lease-term price matrix published": 4320,
+   "mandatory monthly fees not published": 4225,
+   "no itemised fee schedule": 3956,
+   "lease term for the quoted rent not stated": 3661
+  },
+  "top_confidence_blockers": {
+   "no comparable rent could be derived": 1624,
+   "parsed from rendered HTML rather than a structured source": 873,
+   "whole-unit rent derived from a per-bed quote": 129,
+   "quoted for a non-standard lease term and not convertible": 81,
+   "failed plausibility validation": 11
+  }
+ },
+ "browser_recovery": {
+  "bot_blocked_sites": 37,
+  "attempted_via_browser": 24,
+  "captured_pages": [
+   "altonjeffersonparkapts.com",
+   "liveraleighapts.com",
+   "talonhill.com",
+   "www.altapineycreek.com",
+   "www.altasloanslake.com",
+   "www.avanabelmar.com",
+   "www.avanathorntonstation.com",
+   "www.aviatorapartmentsco.com",
+   "www.emerywesthighland.com",
+   "www.gardenplazaaurora.com",
+   "www.gatewayarvadaridge.com",
+   "www.legacyatfitz.com",
+   "www.livegwgolden.com",
+   "www.livingrw.com",
+   "www.luxeatmilehigh.com",
+   "www.moderauniversitypark.com",
+   "www.mylambertsonfarmsapartments.com",
+   "www.newgateapthomes.com",
+   "www.prosperplaceapts.com",
+   "www.reflectionsatcherrycreek.com",
+   "www.ridgeatmountainview.com",
+   "www.rockvueapts.com",
+   "www.woodlineplaceapts.com",
+   "wyeflats.com"
+  ],
+  "captured_but_empty": [
+   "altonjeffersonparkapts.com",
+   "liveraleighapts.com",
+   "talonhill.com",
+   "www.avanabelmar.com",
+   "www.avanathorntonstation.com",
+   "www.aviatorapartmentsco.com",
+   "www.gardenplazaaurora.com",
+   "www.livegwgolden.com",
+   "www.livingrw.com",
+   "www.moderauniversitypark.com",
+   "www.newgateapthomes.com"
+  ],
+  "recovered_with_rows": 15,
+  "recovered_with_rent": 14,
+  "rows": 244,
+  "priced_rows": 161,
+  "per_host": {
+   "www.altonjeffersonparkapts.com": {
+    "rows": 20,
+    "priced": 18,
+    "avail": 10
+   },
+   "www.liveraleighapts.com": {
+    "rows": 41,
+    "priced": 13,
+    "avail": 28
+   },
+   "www.altapineycreek.com": {
+    "rows": 5,
+    "priced": 4,
+    "avail": 5
+   },
+   "www.altasloanslake.com": {
+    "rows": 16,
+    "priced": 10,
+    "avail": 16
+   },
+   "www.emerywesthighland.com": {
+    "rows": 35,
+    "priced": 16,
+    "avail": 35
+   },
+   "www.gatewayarvadaridge.com": {
+    "rows": 11,
+    "priced": 11,
+    "avail": 4
+   },
+   "www.legacyatfitz.com": {
+    "rows": 23,
+    "priced": 19,
+    "avail": 23
+   },
+   "www.luxeatmilehigh.com": {
+    "rows": 15,
+    "priced": 12,
+    "avail": 15
+   },
+   "www.mylambertsonfarmsapartments.com": {
+    "rows": 9,
+    "priced": 8,
+    "avail": 9
+   },
+   "www.prosperplaceapts.com": {
+    "rows": 15,
+    "priced": 15,
+    "avail": 15
+   },
+   "www.reflectionsatcherrycreek.com": {
+    "rows": 4,
+    "priced": 4,
+    "avail": 4
+   },
+   "www.ridgeatmountainview.com": {
+    "rows": 2,
+    "priced": 2,
+    "avail": 2
+   },
+   "www.rockvueapts.com": {
+    "rows": 9,
+    "priced": 8,
+    "avail": 9
+   },
+   "www.woodlineplaceapts.com": {
+    "rows": 27,
+    "priced": 21,
+    "avail": 27
+   },
+   "wyeflats.com": {
+    "rows": 12,
+    "priced": 0,
+    "avail": 0
+   }
+  },
+  "note": "robots.txt permits crawling on every one of these hosts; the 403s are CDN bot-management defaults. Reported separately so the primary yield figure stays a measure of plain HTTP collection."
+ },
+ "data_quality": {
+  "rows": 7896,
+  "plausible": 7885,
+  "implausible": 11,
+  "flag_counts": {
+   "per_bed_pricing": 132,
+   "rent_per_sqft_outlier": 11,
+   "low_confidence_layer": 486,
+   "plan_name_is_unit_number": 180
+  },
+  "rows_by_layer": {
+   "L3": 387,
+   "L1": 5181,
+   "L2": 275,
+   "L4": 486,
+   "L1b": 1567
+  },
+  "priced_rows_by_layer": {
+   "L1": 4001,
+   "L2": 257,
+   "L4": 486,
+   "L1b": 1527,
+   "L3": 1
+  },
+  "high_confidence_rows": 7405
+ },
+ "yield_by_source": [
+  {
+   "source": "operator portfolios",
+   "attempted": 430,
+   "clean_rent_and_availability": 167,
+   "usable_any": 178,
+   "usable_pct": 41.4,
+   "structure_only": 26,
+   "nothing": 114,
+   "blocked": 17,
+   "vendor_hosted": 52,
+   "terms_dropped": 30,
+   "unreachable": 13,
+   "denylisted": 0
+  },
+  {
+   "source": "operator-sitemap",
+   "attempted": 226,
+   "clean_rent_and_availability": 24,
+   "usable_any": 35,
+   "usable_pct": 15.5,
+   "structure_only": 0,
+   "nothing": 117,
+   "blocked": 0,
+   "vendor_hosted": 0,
+   "terms_dropped": 67,
+   "unreachable": 7,
+   "denylisted": 0
+  },
+  {
+   "source": "OpenStreetMap",
+   "attempted": 212,
+   "clean_rent_and_availability": 22,
+   "usable_any": 34,
+   "usable_pct": 16.0,
+   "structure_only": 7,
+   "nothing": 72,
+   "blocked": 15,
+   "vendor_hosted": 20,
+   "terms_dropped": 13,
+   "unreachable": 50,
+   "denylisted": 1
+  },
+  {
+   "source": "browser-portfolio",
+   "attempted": 58,
+   "clean_rent_and_availability": 4,
+   "usable_any": 7,
+   "usable_pct": 12.1,
+   "structure_only": 1,
+   "nothing": 4,
+   "blocked": 2,
+   "vendor_hosted": 41,
+   "terms_dropped": 0,
+   "unreachable": 3,
+   "denylisted": 0
+  },
+  {
+   "source": "Boulder rental licenses (CC0) + browser search",
+   "attempted": 37,
+   "clean_rent_and_availability": 3,
+   "usable_any": 10,
+   "usable_pct": 27.0,
+   "structure_only": 1,
+   "nothing": 18,
+   "blocked": 3,
+   "vendor_hosted": 2,
+   "terms_dropped": 2,
+   "unreachable": 1,
+   "denylisted": 0
+  },
+  {
+   "source": "Boulder rental licenses (CC0) + web search",
+   "attempted": 2,
+   "clean_rent_and_availability": 1,
+   "usable_any": 1,
+   "usable_pct": 50.0,
+   "structure_only": 0,
+   "nothing": 0,
+   "blocked": 0,
+   "vendor_hosted": 1,
+   "terms_dropped": 0,
+   "unreachable": 0,
+   "denylisted": 0
+  }
+ ],
+ "platforms": [
+  {
+   "platform": "unknown",
+   "sites": 374,
+   "with_rent": 25,
+   "with_avail": 11,
+   "rows": 526,
+   "blocked": 37,
+   "nothing": 66,
+   "structure_only": 30,
+   "portal_gated": 40,
+   "usable_rate_pct": 6.7
+  },
+  {
+   "platform": "WordPress",
+   "sites": 197,
+   "with_rent": 50,
+   "with_avail": 32,
+   "rows": 961,
+   "blocked": 0,
+   "nothing": 143,
+   "structure_only": 4,
+   "portal_gated": 33,
+   "usable_rate_pct": 25.4
+  },
+  {
+   "platform": "Jonah Digital",
+   "sites": 121,
+   "with_rent": 116,
+   "with_avail": 118,
+   "rows": 5422,
+   "blocked": 0,
+   "nothing": 3,
+   "structure_only": 0,
+   "portal_gated": 1,
+   "usable_rate_pct": 95.9
+  },
+  {
+   "platform": "Funnel / Nestio",
+   "sites": 104,
+   "with_rent": 56,
+   "with_avail": 52,
+   "rows": 794,
+   "blocked": 0,
+   "nothing": 38,
+   "structure_only": 0,
+   "portal_gated": 25,
+   "usable_rate_pct": 53.8
+  },
+  {
+   "platform": "Next.js",
+   "sites": 38,
+   "with_rent": 9,
+   "with_avail": 9,
+   "rows": 75,
+   "blocked": 0,
+   "nothing": 29,
+   "structure_only": 0,
+   "portal_gated": 0,
+   "usable_rate_pct": 23.7
+  },
+  {
+   "platform": "Drupal",
+   "sites": 21,
+   "with_rent": 0,
+   "with_avail": 0,
+   "rows": 1,
+   "blocked": 0,
+   "nothing": 20,
+   "structure_only": 1,
+   "portal_gated": 0,
+   "usable_rate_pct": 0.0
+  },
+  {
+   "platform": "ActiveBuilding CMS",
+   "sites": 13,
+   "with_rent": 5,
+   "with_avail": 1,
+   "rows": 27,
+   "blocked": 0,
+   "nothing": 8,
+   "structure_only": 0,
+   "portal_gated": 8,
+   "usable_rate_pct": 38.5
+  },
+  {
+   "platform": "Duda",
+   "sites": 10,
+   "with_rent": 0,
+   "with_avail": 0,
+   "rows": 0,
+   "blocked": 0,
+   "nothing": 10,
+   "structure_only": 0,
+   "portal_gated": 8,
+   "usable_rate_pct": 0.0
+  },
+  {
+   "platform": "Wix",
+   "sites": 5,
+   "with_rent": 1,
+   "with_avail": 0,
+   "rows": 2,
+   "blocked": 0,
+   "nothing": 4,
+   "structure_only": 0,
+   "portal_gated": 0,
+   "usable_rate_pct": 20.0
+  },
+  {
+   "platform": "Respage",
+   "sites": 2,
+   "with_rent": 0,
+   "with_avail": 0,
+   "rows": 0,
+   "blocked": 0,
+   "nothing": 0,
+   "structure_only": 0,
+   "portal_gated": 0,
+   "usable_rate_pct": 0.0
+  },
+  {
+   "platform": "Webflow",
+   "sites": 2,
+   "with_rent": 1,
+   "with_avail": 0,
+   "rows": 3,
+   "blocked": 0,
+   "nothing": 1,
+   "structure_only": 0,
+   "portal_gated": 0,
+   "usable_rate_pct": 50.0
+  },
+  {
+   "platform": "Nuxt",
+   "sites": 2,
+   "with_rent": 0,
+   "with_avail": 0,
+   "rows": 0,
+   "blocked": 0,
+   "nothing": 2,
+   "structure_only": 0,
+   "portal_gated": 0,
+   "usable_rate_pct": 0.0
+  },
+  {
+   "platform": "Squarespace",
+   "sites": 1,
+   "with_rent": 0,
+   "with_avail": 0,
+   "rows": 0,
+   "blocked": 0,
+   "nothing": 1,
+   "structure_only": 0,
+   "portal_gated": 0,
+   "usable_rate_pct": 0.0
+  }
+ ],
+ "winning_layers": {
+  "L3:jsonld": 34,
+  "L1:jonah": 112,
+  "L2:json-island": 14,
+  "L4:html-join": 56,
+  "L1b:spaces": 81,
+  "L4:html-join+plan-pages(8)": 1,
+  "+plan-pages(5)": 1,
+  "+plan-pages(7)": 1
+ },
+ "terms": {
+  "sites_checked": 356,
+  "verdicts": {
+   "SILENT": 211,
+   "PROHIBITS": 13,
+   "NO_TERMS_FOUND": 121,
+   "UNREADABLE": 8,
+   "PROHIBITS_PERSONAL_DATA_ONLY": 3
+  },
+  "prohibiting_sites": [
+   {
+    "site": "www.bmcinv.com",
+    "terms_url": "https://www.bmcinv.com/terms-of-use",
+    "snippets": [
+     {
+      "stem": "(same sentence)",
+      "term": "scrape",
+      "text": "You are prohibited from using any robot, spider, or other automatic device or manual process to scrape, monitor, mine, retrieve, or copy the Investor Portal or its Content without our prior written permission.",
+      "scope": "site-content"
+     },
+     {
+      "stem": "Acceptable Use",
+      "term": "scrape",
+      "text": "such information. d. No Scraping. You are prohibited from using any robot, spider, or other automatic device or manual process to scrape, monitor, mine, retrieve, or copy the Investor Portal or its Content without our prior written permission. e. No Linking or Framing. You are prohibited from linking or framing any portion of the Investor Portal or",
+      "scope": "site-content"
+     },
+     {
+      "stem": "You are prohibited",
+      "term": "scrape",
+      "text": "from using any robot, spider, or other automatic device or manual process to scrape, monitor, mine, retrieve, or copy the Investor Portal or its Content without our prior written permission. e. No Linking or Framing. You are prohibited from linking or framing any portion of the Investor Portal or",
+      "scope": "site-content"
+     }
+    ]
+   },
+   {
+    "site": "cornerstoneapartments.com",
+    "terms_url": "https://cornerstoneapartments.com/terms-and-conditions/",
+    "snippets": [
+     {
+      "stem": "(same sentence)",
+      "term": "scraping",
+      "text": "You must not conduct any systematic or automated data collection activities (including without limitation scraping, data mining, data extraction and data harvesting) on or in relation to this website without Cornerstone Apartment Services, Inc.\u2019s express written consent.",
+      "scope": "site-content"
+     },
+     {
+      "stem": "you must not",
+      "term": "scraping",
+      "text": "ious computer software. You must not conduct any systematic or automated data collection activities (including without limitation scraping, data mining, data extraction and data harvesting) on or in relation to this website without Cornerstone Apartment Services, Inc.\u2019s express written consent. You must not use this website for any purposes related",
+      "scope": "site-content"
+     },
+     {
+      "stem": "You must not",
+      "term": "scraping",
+      "text": "conduct any systematic or automated data collection activities (including without limitation scraping, data mining, data extraction and data harvesting) on or in relation to this website without Cornerstone Apartment Services, Inc.\u2019s express written consent. You must not use this website for any purposes related",
+      "scope": "site-content"
+     }
+    ]
+   },
+   {
+    "site": "www.arvadahouseapartments.com",
+    "terms_url": "https://www.related.com/terms-use",
+    "snippets": [
+     {
+      "stem": "you must not",
+      "term": "scrape",
+      "text": "r malicious code designed to attack, damage, divert, take over, disable, overburden, or otherwise impair the Services. Attempt to scrape or collect any personal or private information from the Services or from other users of the Services. Resell the Services, in whole or in part, or any content residing or displayed within or through the Services.",
+      "scope": "site-content"
+     }
+    ]
+   },
+   {
+    "site": "www.amli.com",
+    "terms_url": "https://www.amli.com/terms-of-use",
+    "snippets": [
+     {
+      "stem": "You are prohibited",
+      "term": "scrape",
+      "text": "nsolicited mass emailing techniques; alters, damages, or deletes any content posted on the Websites or Services; frames, mirrors, scrapes or data-mines the content of the Websites or Services; contains computer viruses or other disruptive, disabling, damaging or harmful files or programs; or otherwise violates these Terms of Use or any other guidel",
+      "scope": "site-content"
+     }
+    ]
+   },
+   {
+    "site": "www.avaloncommunities.com",
+    "terms_url": "https://www.avaloncommunities.com/terms-of-use/",
+    "snippets": [
+     {
+      "stem": "(same sentence)",
+      "term": "scrape",
+      "text": "Prohibited Conduct Except as expressly permitted by these Terms or with Vivmark\u2019s prior written consent, you may not reproduce, distribute, modify, create derivative works of, publicly display, publicly perform, republish, download, store, transmit, scrape, data mine, monitor, copy, reverse engineer, or otherwise use any Content or portion of the Service for any commercial, political, automated, competitive, unlawful",
+      "scope": "site-content"
+     },
+     {
+      "stem": "you must not",
+      "term": "artificial intelligence",
+      "text": "Payments, and Other Transactions 11. Payment Terms 12. Third-Party Services, Links, Mobile Apps, Platforms, and Integrations 13. Artificial Intelligence 14. Text Messages 15. Location-Based Features 16. Notice of Infringement; DMCA Policy 17. Disclaimer of Warranties 18. Limitation of Liability 19. Indemnification 20. Investigations, Enforcement,",
+      "scope": "unclear"
+     },
+     {
+      "stem": "Prohibited Conduct",
+      "term": "scrape",
+      "text": "roduce, distribute, modify, create derivative works of, publicly display, publicly perform, republish, download, store, transmit, scrape, data mine, monitor, copy, reverse engineer, or otherwise use any Content or portion of the Service for any commercial, political, automated, competitive, unlawful, or unauthorized purpose. You may not delete or a",
+      "scope": "site-content"
+     },
+     {
+      "stem": "You may not",
+      "term": "scrape",
+      "text": "oitative, invasive of another\u2019s privacy, or otherwise objectionable to Vivmark. You also agree not to: (a) use any robot, spider, scraper, crawler, script, data-mining tool, automated device, manual process, or similar method to access, monitor, copy, scrape, or extract Content or information from the Service without Vivmark\u2019s prior written consent",
+      "scope": "site-content"
+     },
+     {
+      "stem": "you will not",
+      "term": "bots",
+      "text": "nflict. 13. Artificial Intelligence Our Service may contain and/or use artificial intelligence (\u201c AI \u201d) technologies, such as chatbots and digital leasing and resident\u2011services agents (collectively, \u201c AI Technologies \u201d) to improve, develop, and deliver the Service, included AI Technologies provided by our partners and vendors. These AI Technologies",
+      "scope": "site-content"
+     }
+    ]
+   },
+   {
+    "site": "www.highlinepointe.com",
+    "terms_url": "https://www.highlinepointe.com/terms-of-use",
+    "snippets": [
+     {
+      "stem": "You must not",
+      "term": "data mining",
+      "text": "ble laws and regulations, or in any way which may cause harm to the Website, or to any person or business entity; engaging in any data mining, data harvesting, data extracting or any other similar activity in relation to this Website; using this Website to engage in any advertising or marketing. Certain areas of this Website are restricted from bei",
+      "scope": "site-content"
+     }
+    ]
+   },
+   {
+    "site": "imtresidential.com",
+    "terms_url": "https://imtresidential.com/terms-conditions/",
+    "snippets": [
+     {
+      "stem": "(same sentence)",
+      "term": "scrape",
+      "text": "Operation of the Site and the Resident Kiosk\u2122 You may not access the Site or Resident Kiosk\u2122 using automated means (including bots, scrapers, or scripts) except as expressly permitted in writing by IMT, and you may not attempt to gain unauthorized access to any accounts, systems, or networks (including through credential stuffing or similar techniques).",
+      "scope": "site-content"
+     },
+     {
+      "stem": "You may not",
+      "term": "scrape",
+      "text": "access the Site or Resident Kiosk\u2122 using automated means (including bots, scrapers, or scripts) except as expressly permitted in writing by IMT, and you may not attempt to gain unauthorized access to any accounts, systems, or networks (including through credential stuffing or similar technique",
+      "scope": "site-content"
+     }
+    ]
+   },
+   {
+    "site": "stonebridgesenior.com",
+    "terms_url": "https://stonebridgesenior.com/terms",
+    "snippets": [
+     {
+      "stem": "(same sentence)",
+      "term": "scrape",
+      "text": "You may not copy, reproduce, republish, modify, distribute, scrape, frame, mirror, or create derivative works from any content on this site without our prior written permission.",
+      "scope": "site-content"
+     },
+     {
+      "stem": "(same sentence)",
+      "term": "scrape",
+      "text": "The use of automated systems (bots, scrapers, crawlers) to extract content for commercial purposes is prohibited.",
+      "scope": "site-content"
+     },
+     {
+      "stem": "(same sentence)",
+      "term": "scraping",
+      "text": "Use the site for any unlawful purpose Attempt to gain unauthorized access to any portion of the site or to our systems Introduce viruses, malware, or other harmful code Interfere with the operation of the site or with other users' use of it Impersonate any person or entity, or misrepresent your affiliation with anyone Use scraping, harvesting, or automated tools to collect information from the site Submit false, misl",
+      "scope": "site-content"
+     },
+     {
+      "stem": "You may not",
+      "term": "scrape",
+      "text": "copy, reproduce, republish, modify, distribute, scrape, frame, mirror, or create derivative works from any content on this site without our prior written permission. The use of automated systems (bots, scrapers, crawlers) to extract content for commercial purposes is",
+      "scope": "site-content"
+     },
+     {
+      "stem": "without our prior written",
+      "term": "scrape",
+      "text": "permission. The use of automated systems (bots, scrapers, crawlers) to extract content for commercial purposes is prohibited. We obtain permission for resident and family photos where required. If you appear in a photo and want us to review or remove it, contact us at",
+      "scope": "site-content"
+     },
+     {
+      "stem": "Prohibited Conduct",
+      "term": "scraping",
+      "text": "ion of the site or with other users' use of it Impersonate any person or entity, or misrepresent your affiliation with anyone Use scraping, harvesting, or automated tools to collect information from the site Submit false, misleading, or fraudulent inquiries 16. Disclaimer of Warranties THE WEBSITE AND ALL CONTENT, SERVICES, AND MATERIALS AVAILABLE",
+      "scope": "site-content"
+     }
+    ]
+   },
+   {
+    "site": "www.mbkseniorliving.com",
+    "terms_url": "https://www.mbkseniorliving.com/terms-of-use",
+    "snippets": [
+     {
+      "stem": "Prohibited Uses",
+      "term": "scraping",
+      "text": "of the Site. The following actions are prohibited by MBK unless specifically authorized in writing. Using any deep-linking, data scraping, robot, web crawler or \u00e2\u0080\u009cspider\u00e2\u0080\u009d, or other automatic device, program, algorithm or methodology, or any similar or equivalent manual process, to access, acquire, copy or monitor any portion of the Site or any",
+      "scope": "site-content"
+     }
+    ]
+   },
+   {
+    "site": "www.hugedomains.com",
+    "terms_url": "https://www.hugeDomains.com/terms.cfm",
+    "snippets": [
+     {
+      "stem": "(same sentence)",
+      "term": "scrape",
+      "text": "You will not use any robot, spider, crawler, scraper or other automated means or interface to access the Services or to extract or export data collected through the Services;",
+      "scope": "site-content"
+     },
+     {
+      "stem": "(same sentence)",
+      "term": "scraping",
+      "text": "Even though HugeDomains prevents many bots from scraping its site, it is not provided with a guarantee that such data might not be affected by bot traffic.",
+      "scope": "unclear"
+     },
+     {
+      "stem": "(same sentence)",
+      "term": "scraping",
+      "text": "PROHIBITED USE HugeDomains prohibits crawling, scraping, caching, and/or otherwise accessing any content on the Services via automated means.",
+      "scope": "site-content"
+     },
+     {
+      "stem": "You may not",
+      "term": "scrape",
+      "text": "the information that you submit to HugeDomains and/or our third-party providers; i. You will not use any robot, spider, crawler, scraper or other automated means or interface to access the Services or to extract or export data collected through the Services; j. You will use all Services and purchases for lawful purposes only and agree to act in ac",
+      "scope": "site-content"
+     },
+     {
+      "stem": "You will not",
+      "term": "scrape",
+      "text": "use any robot, spider, crawler, scraper or other automated means or interface to access the Services or to extract or export data collected through the Services; j. You will use all Services and purchases for lawful purposes only and agree to act in ac",
+      "scope": "site-content"
+     },
+     {
+      "stem": "You will not",
+      "term": "scraping",
+      "text": "Domains has features on its site that shows cart adds and favorite/saved domains. Even though HugeDomains prevents many bots from scraping its site, it is not provided with a guarantee that such data might not be affected by bot traffic. SALE OF DOMAIN NAMES Purchase. All domain names listed on HugeDomains.com are listed by each domain's respective",
+      "scope": "unclear"
+     }
+    ]
+   },
+   {
+    "site": "www.fairfieldresidential.com",
+    "terms_url": "https://www.fairfieldresidential.com/terms-of-use",
+    "snippets": [
+     {
+      "stem": "you may not",
+      "term": "scraping",
+      "text": "ting, or disclosing any part of the Fairfield Site in any medium, including without limitation by any automated or non-automated \u201cscraping\u201d; (ii) using any automated system, including without limitation \u201crobots,\u201d \u201cspiders,\u201d \u201coffline readers,\u201d etc., to access the Fairfield Site in a manner that sends more request messages to the Fairfield servers th",
+      "scope": "unclear"
+     }
+    ]
+   },
+   {
+    "site": "www.jpi.com",
+    "terms_url": "https://www.jpi.com/terms-of-service/",
+    "snippets": [
+     {
+      "stem": "(same sentence)",
+      "term": "scraping",
+      "text": "Monitor, copy, scan, review, index, mirror, ping or validate the Services via robot, spider, other automatic software or device, process, approach or methodology, manual or otherwise (methods such as web scraping, harvesting, data extraction, data validation or verification are prohibited).",
+      "scope": "site-content"
+     },
+     {
+      "stem": "unauthorized use",
+      "term": "scraping",
+      "text": "via robot, spider, other automatic software or device, process, approach or methodology, manual or otherwise (methods such as web scraping, harvesting, data extraction, data validation or verification are prohibited). Transmit any computer virus, worm, defect, trojan horse, or any other item of a destructive nature, or to upload any virus or malici",
+      "scope": "site-content"
+     }
+    ]
+   },
+   {
+    "site": "www.americancampus.com",
+    "terms_url": "https://www.americancampus.com/terms-of-use",
+    "snippets": [
+     {
+      "stem": "(same sentence)",
+      "term": "scraping",
+      "text": "Attempt to bypass or circumvent our security or data scraping prevention technologies, protocols, or any other measures ACC may use to prevent or restrict use of the Site, whether or not you use the Site directly or indirectly, such as through the use of automated technologies.",
+      "scope": "site-content"
+     },
+     {
+      "stem": "unauthorized use",
+      "term": "scrape",
+      "text": "nctioning of the Site. Access, copy, or otherwise use any portion of the Site or of the Content through the use of bots, spiders, scrapers, web crawlers, indexing agents, or other automated devices or mechanisms. Remove or modify any copyright notice, trademark legend, author attribution, or other notice placed on or contained within any of the Con",
+      "scope": "site-content"
+     }
+    ]
+   }
+  ]
+ },
+ "rent_stats_by_bedrooms": [
+  {
+   "bedrooms": 0.0,
+   "n": 581,
+   "min": 942.0,
+   "p25": 1479.0,
+   "median": 1672.95,
+   "p75": 1867.9,
+   "max": 6300.0,
+   "mean": 1718.51
+  },
+  {
+   "bedrooms": 1.0,
+   "n": 3035,
+   "min": 1050.0,
+   "p25": 1708.06,
+   "median": 1930.06,
+   "p75": 2242.06,
+   "max": 9581.0,
+   "mean": 2013.02
+  },
+  {
+   "bedrooms": 2.0,
+   "n": 2082,
+   "min": 1346.0,
+   "p25": 2202.66,
+   "median": 2551.0299999999997,
+   "p75": 2973.0,
+   "max": 17860.0,
+   "mean": 2716.47
+  },
+  {
+   "bedrooms": 3.0,
+   "n": 384,
+   "min": 1936.0,
+   "p25": 2652.66,
+   "median": 2894.56,
+   "p75": 3187.0,
+   "max": 14651.9,
+   "mean": 3093.16
+  },
+  {
+   "bedrooms": 4.0,
+   "n": 52,
+   "min": 2591.0,
+   "p25": 3153.25,
+   "median": 3163.25,
+   "p75": 3190.27,
+   "max": 3455.27,
+   "mean": 3135.25
+  },
+  {
+   "bedrooms": 6.0,
+   "n": 2,
+   "min": 5555.95,
+   "p25": 5555.95,
+   "median": 5555.95,
+   "p75": 5555.95,
+   "max": 5555.95,
+   "mean": 5555.95
+  }
+ ],
+ "attribution": [
+  "Property enumeration partly from OpenStreetMap - (c) OpenStreetMap contributors, ODbL 1.0",
+  "Rent and availability collected from each property's own marketing website."
+ ]
+}

@@ -1,0 +1,232 @@
+[
+ {
+  "host": "apartments.com",
+  "checked_at": "2026-08-20T22:09:21.781607+00:00",
+  "terms_url": null,
+  "http": "http_error/403",
+  "verdict": "NOT_RETRIEVED",
+  "snippets": [],
+  "automation_mentions": 0,
+  "text_chars": 0
+ },
+ {
+  "host": "apartmentguide.com",
+  "checked_at": "2026-08-20T22:09:24.934123+00:00",
+  "terms_url": null,
+  "http": "http_error/429",
+  "verdict": "NOT_RETRIEVED",
+  "snippets": [],
+  "automation_mentions": 0,
+  "text_chars": 0
+ },
+ {
+  "host": "zillow.com",
+  "checked_at": "2026-08-20T22:09:31.359675+00:00",
+  "terms_url": "https://www.zillow.com/corporate/terms-of-use/",
+  "http": "ok/200",
+  "verdict": "PROHIBITS",
+  "snippets": [
+   {
+    "stem": "(same sentence)",
+    "term": "automated process",
+    "text": "Subject to the restrictions set forth in these Terms of Use, you may copy information from the Services without the aid of any automated processes and only as necessary for your personal use or Pro Use to view, save, print, fax and/or e-mail such information.",
+    "scope": "site-content"
+   },
+   {
+    "stem": "you agree not to",
+    "term": "artificial intelligence",
+    "text": "lation/regulations on reporting and/or use restrictions, government agency guidance and industry best practices. CIC does not use Artificial Intelligence (AI) in the collection or hygiene of criminal or housing court records. (v) HDPhotoHub. Some of the Services will process your orders, allow you to make payments to us, and receive media or other",
+    "scope": "unclear"
+   }
+  ],
+  "automation_mentions": 9,
+  "text_chars": 52819
+ },
+ {
+  "host": "realtor.com",
+  "checked_at": "2026-08-20T22:09:34.954535+00:00",
+  "terms_url": "https://www.realtor.com/terms-of-service/",
+  "http": "ok/200",
+  "verdict": "PROHIBITS",
+  "snippets": [
+   {
+    "stem": "(same sentence)",
+    "term": "scrape",
+    "text": "Except with the express written permission of Move, you shall not, nor shall you allow any third party (whether for your benefit or otherwise) to modify, copy, distribute, disseminate, broadcast, circulate, transmit, display, perform, reproduce, scrape, publish, license, create derivative works from, frame in another Web page, use on any other Web site or application, transfer or sell (including, without limitation, ",
+    "scope": "site-content"
+   },
+   {
+    "stem": "(same sentence)",
+    "term": "spider",
+    "text": "Except with the express written permission of Move, you shall not -- nor shall you make it possible for others to -- access, collect, text mine or data mine, by automated means or any other method (whether directly or through an intermediary) intended to circumvent the prohibitions set forth herein (e.g., robot, spider, script, service, software or any manual or automatic devise, tool or process), any Content;",
+    "scope": "site-content"
+   },
+   {
+    "stem": "(same sentence)",
+    "term": "artificial intelligence",
+    "text": "You shall not use any Content for any machine learning or artificial intelligence purposes, including, without limitation, developing, building, training, fine tuning, or grounding or otherwise utilizing in any large language models (LLMs), machine learning tools, or generative AI systems.",
+    "scope": "site-content"
+   },
+   {
+    "stem": "(same sentence)",
+    "term": "robot",
+    "text": "For clarity, your use of the Move Network and the Content is only permitted as expressly set forth in these Terms, and your rights are not expanded, nor are any prohibitions modified or limited, in any way by our use or configuration of exclusionary protocols (e.g., the Robots Exclusion Protocol as implemented through robots.txt files).",
+    "scope": "site-content"
+   },
+   {
+    "stem": "you shall not",
+    "term": "scrape",
+    "text": "your benefit or otherwise) to modify, copy, distribute, disseminate, broadcast, circulate, transmit, display, perform, reproduce, scrape, publish, license, create derivative works from, frame in another Web page, use on any other Web site or application, transfer or sell (including, without limitation, on or via a third-party website or platform) a",
+    "scope": "site-content"
+   },
+   {
+    "stem": "you shall not",
+    "term": "spider",
+    "text": "other method (whether directly or through an intermediary) intended to circumvent the prohibitions set forth herein (e.g., robot, spider, script, service, software or any manual or automatic devise, tool or process), any Content; You shall not use any Content for any machine learning or artificial intelligence purposes, including, without limitatio",
+    "scope": "site-content"
+   }
+  ],
+  "automation_mentions": 14,
+  "text_chars": 33160
+ },
+ {
+  "host": "rent.com",
+  "checked_at": "2026-08-20T22:09:38.531346+00:00",
+  "terms_url": null,
+  "http": "http_error/429",
+  "verdict": "NOT_RETRIEVED",
+  "snippets": [],
+  "automation_mentions": 0,
+  "text_chars": 0
+ },
+ {
+  "host": "apartmentlist.com",
+  "checked_at": "2026-08-20T22:09:44.891503+00:00",
+  "terms_url": null,
+  "http": "http_error/404",
+  "verdict": "NOT_RETRIEVED",
+  "snippets": [],
+  "automation_mentions": 0,
+  "text_chars": 0
+ },
+ {
+  "host": "trulia.com",
+  "checked_at": "2026-08-20T22:09:51.422526+00:00",
+  "terms_url": "https://www.zillow.com/corporate/terms-of-use/",
+  "http": "ok/200",
+  "verdict": "PROHIBITS",
+  "snippets": [
+   {
+    "stem": "(same sentence)",
+    "term": "automated process",
+    "text": "Subject to the restrictions set forth in these Terms of Use, you may copy information from the Services without the aid of any automated processes and only as necessary for your personal use or Pro Use to view, save, print, fax and/or e-mail such information.",
+    "scope": "site-content"
+   },
+   {
+    "stem": "you agree not to",
+    "term": "artificial intelligence",
+    "text": "lation/regulations on reporting and/or use restrictions, government agency guidance and industry best practices. CIC does not use Artificial Intelligence (AI) in the collection or hygiene of criminal or housing court records. (v) HDPhotoHub. Some of the Services will process your orders, allow you to make payments to us, and receive media or other",
+    "scope": "unclear"
+   }
+  ],
+  "automation_mentions": 9,
+  "text_chars": 52819
+ },
+ {
+  "host": "hotpads.com",
+  "checked_at": "2026-08-20T22:09:55.448000+00:00",
+  "terms_url": null,
+  "http": "http_error/403",
+  "verdict": "NOT_RETRIEVED",
+  "snippets": [],
+  "automation_mentions": 0,
+  "text_chars": 0
+ },
+ {
+  "host": "zumper.com",
+  "checked_at": "2026-08-20T22:09:58.826911+00:00",
+  "terms_url": null,
+  "http": "http_error/404",
+  "verdict": "NOT_RETRIEVED",
+  "snippets": [],
+  "automation_mentions": 0,
+  "text_chars": 0
+ },
+ {
+  "host": "forrent.com",
+  "checked_at": "2026-08-20T22:10:05.291902+00:00",
+  "terms_url": null,
+  "http": "http_error/403",
+  "verdict": "NOT_RETRIEVED",
+  "snippets": [],
+  "automation_mentions": 0,
+  "text_chars": 0
+ },
+ {
+  "host": "rentcafe.com",
+  "checked_at": "2026-08-20T22:10:08.543495+00:00",
+  "terms_url": null,
+  "http": "http_error/404",
+  "verdict": "NOT_RETRIEVED",
+  "snippets": [],
+  "automation_mentions": 0,
+  "text_chars": 0
+ },
+ {
+  "host": "entrata.com",
+  "checked_at": "2026-08-20T22:10:21.439229+00:00",
+  "terms_url": "https://legal.entrata.com",
+  "http": "ok/200",
+  "verdict": "SILENT",
+  "snippets": [],
+  "automation_mentions": 0,
+  "text_chars": 1039
+ },
+ {
+  "host": "realpage.com",
+  "checked_at": "2026-08-20T22:10:24.812397+00:00",
+  "terms_url": "https://www.realpage.com/legal/terms-of-use/",
+  "http": "ok/200",
+  "verdict": "PROHIBITS",
+  "snippets": [
+   {
+    "stem": "You may not",
+    "term": "scrape",
+    "text": ", data-mining, data-gathering, extraction tool, or other automatic device or manual process to monitor, copy, harvest, gather or \u201cscrape\u201d any portion of the Website or Content; Reproduce or otherwise use the Website or Content in any manner for the purpose of training any form of artificial intelligence technologies; Manipulate or display the Websi",
+    "scope": "site-content"
+   }
+  ],
+  "automation_mentions": 11,
+  "text_chars": 47562
+ },
+ {
+  "host": "appfolio.com",
+  "checked_at": "2026-08-20T22:10:28.240123+00:00",
+  "terms_url": null,
+  "http": "http_error/404",
+  "verdict": "NOT_RETRIEVED",
+  "snippets": [],
+  "automation_mentions": 0,
+  "text_chars": 0
+ },
+ {
+  "host": "myresman.com",
+  "checked_at": "2026-08-20T22:10:35.146272+00:00",
+  "terms_url": "https://www.myresman.com/terms-conditions/",
+  "http": "ok/200",
+  "verdict": "SILENT",
+  "snippets": [],
+  "automation_mentions": 0,
+  "text_chars": 25374
+ },
+ {
+  "host": "prospectportal.com",
+  "checked_at": "2026-08-20T22:10:39.056948+00:00",
+  "terms_url": null,
+  "http": "http_error/403",
+  "verdict": "NOT_RETRIEVED",
+  "snippets": [],
+  "automation_mentions": 0,
+  "text_chars": 0
+ }
+]

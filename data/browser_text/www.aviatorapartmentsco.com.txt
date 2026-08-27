@@ -1,0 +1,66 @@
+https://www.aviatorapartmentsco.com/colorado-springs/aviator-apartments/conventional/
+---PAGETEXT---
+[NOTE: get_page_text returned only office-hours snippet; full floor plan data captured via accessibility-tree read_page below.]
+
+heading "VIEW AVIATOR APARTMENTS IN COLORADO SPRINGS, CO FLOOR PLANS"
+generic "One look at our spacious floor plans and it's easy to see how Aviator is different from other apartm..."
+
+heading "1 Bedroom"
+heading "1BR/1BA - A1"
+list: "Bed" "Bath" "675 sq. ft"
+listitem: "Total Monthly Leasing Price" generic "$799"
+listitem "$799 deposit"
+link "View details of 1BR/1BA - A1" href="https://www.aviatorapartmentsco.com/floorplans/colorado-springs-CO/aviator-apartments/1br1ba-a1-1113496-1/"
+Specials: "UP TO 6 WEEKS FREE" (Aug 13, 2026 - Sep 15, 2026) "Get up to 6 weeks free when you move in by September 15, 2026! *Income and credit qualifications apply."
+
+heading "2 Bedroom"
+heading "2BR/1BA - B1"
+list: "Bed" "Bath" "816 sq. ft"
+listitem: "Total Monthly Leasing Price" generic "$914" (Open Cost Estimation Calculator)
+listitem "$899 deposit"
+link "View details of 2BR/1BA - B1" href="https://www.aviatorapartmentsco.com/floorplans/colorado-springs-CO/aviator-apartments/2br1ba-b1-1113497-1/"
+generic "Available Aug 31, 2026"
+Specials: "Reduced Rates" - "Apply now and take advantage of reduced prices on 2 & 3 bed apartment homes!"; "UP TO 6 WEEKS FREE" (Aug 13, 2026 - Sep 15, 2026)
+
+heading "2BR/1BA - B2"
+list: "Bed" "Bath" "882 sq. ft"
+listitem: "Total Monthly Leasing Price" generic "$914" (Open Cost Estimation Calculator)
+listitem "$899 deposit"
+link "View details of 2BR/1BA - B2" href="https://www.aviatorapartmentsco.com/floorplans/colorado-springs-CO/aviator-apartments/2br1ba-b2-1113498-1/"
+generic "Available Aug 31, 2026"
+Specials: "Reduced Rates"; "UP TO 6 WEEKS FREE" (Aug 13, 2026 - Sep 15, 2026)
+
+heading "3 Bedroom"
+heading "3BR/1BA - C1"
+list: "Bed" "Bath" "1,032 sq. ft"
+listitem: "Total Monthly Leasing Price From" generic "$1,115" (Open Cost Estimation Calculator)
+listitem "$1,100 deposit" "from"
+link "View details of 3BR/1BA - C1" href="https://www.aviatorapartmentsco.com/floorplans/colorado-springs-CO/aviator-apartments/3br1ba-c1-1113500-1/"
+generic "5 Units Available"
+Specials: "Reduced Rates"; "UP TO 6 WEEKS FREE" (Aug 13, 2026 - Sep 15, 2026)
+
+heading "3BR/2BA - C2"
+list: "Bed" "Bath" "1,000 sq. ft"
+listitem: "Total Monthly Leasing Price From" generic "$1,210" (Open Cost Estimation Calculator)
+listitem "$1,195 deposit" "from"
+link "View details of 3BR/2BA - C2" href="https://www.aviatorapartmentsco.com/floorplans/colorado-springs-CO/aviator-apartments/3br2ba-c2-1113499-1/"
+generic "2 Units Available"
+Specials: "Reduced Rates"; "UP TO 6 WEEKS FREE" (Aug 13, 2026 - Sep 15, 2026)
+
+link "Full Fee Disclosure (opens in a new tab)" href="https://drive.google.com/file/d/1veC7qi5-yyli6fZb3Kgqh6kxIXwg6ft0/view?usp=sharing"
+generic "* Pricing and availability are subject to change. Rent is based on monthly frequency. **SQFT listed."
+
+heading "Frequently Asked Questions"
+Q: "How much is rent at Aviator Apartments?"
+A: "Rent at Aviator Apartments ranges from $799.00 to $1,210.00 per month. Pricing varies by floor plan ..."
+Q: "What bedroom options are available at Aviator Apartments?"
+A: "Aviator Apartments offers 1 bedroom, 2 bedroom, 3 bedroom apartments across 5 floor plan options."
+Q: "How big are the apartments at Aviator Apartments?"
+A: "Apartments at Aviator Apartments range from 675 to 1,032 square feet. View individual floor plans fo..."
+Q: "Which floor plans are currently available at Aviator Apartments?"
+A: "Floor plans currently available at Aviator Apartments include: 3BR/1BA - C1, 3BR/2BA - C2. Contact o..."
+Q: "What floor plans are available at Aviator Apartments?"
+A: "Aviator Apartments offers 5 floor plan options including 1 -bedroom, 2 -bedroom, and 3 -bedroom apar..."
+
+Contact Us: Aviator Apartments, 1670 N Murray Blvd, Colorado Springs, CO, 80915, (719) 627-9623
+Managed By: Cardinal (Cardinal Group Management)

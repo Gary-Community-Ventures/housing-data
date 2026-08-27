@@ -1,0 +1,71 @@
+https://www.maxxproperties.com/co/golden/gw-apartments/floorplans
+---PAGETEXT---
+Title: Floor Plans of GW Apartments in Golden, CO
+URL: https://www.maxxproperties.com/co/golden/gw-apartments/floorplans
+Source element: <article>
+---
+Back
+
+Summit
+
+Unit 119
+
+1 bed / 1 bath
+
+•1066 Sq. Ft.
+
+Available from 10/8/2026
+
+Amenities
+
+9 ft Ceilings
+Energy Star® Appliance Package in Stainless
+Wood Plank-Style flooring
+Quartz Countertops
+Walk-In Closets
+Full-Size Washer & Dryer
+Private Patio
+ADA
+Soaker Tub
+Loft
+
+Starting at $2,674.00
+
+Calculate My Costs
+for apartment #119
+
+Apply Now for Apartment 119. Opens in a new tab
+
+Got questions? We're here to help!
+
+.mobile-only .click-to-call{display:none}
+
++1 (888) 571-8751
+
+function fireGaPhone() {
+if (typeof gtag != 'undefined') {
+var myPage = location.pathname.replace("/", "");
+if (myPage == "") { myPage = "index"; }
+if (true ) {
+var propertyName = document.querySelector('meta[name="author"]').content;
+gtag('event', 'phone_call', { 'property_name': propertyName, 'page_name': document.title, 'page_url': window.location.href, 'header_phone_number': '&#x2B;1 (888) 571-8751'});
+}
+gtag('event', 'PhoneCall', { 'event_category': 'PhoneCall', 'event_action': 'PhoneClickHeader', 'event_label': myPage });
+gtag('rc.send', 'PhoneCall', { 'event_category': 'PhoneCall', 'event_action': 'PhoneClickHeader', 'event_label': myPage });
+}
+}
+
+Send us a message for Apartment 119, opens a modal window
+
+Mondayto - Friday:
+9:00 AM to - 6:00 PM
+
+Saturday:
+10:00 AM to - 4:00 PM
+
+Sunday:
+Closed
+
+Tour your way with self-guided, virtual, or guided tours by appointment. We can't wait to meet you!
+
+NOTE: original marketing_url https://www.livegwgolden.com/ redirects to www.maxxproperties.com. The /floorplans page rendered a single unit detail view (Summit, Unit 119) rather than a full list; this is the verbatim content returned by the page on two separate loads.

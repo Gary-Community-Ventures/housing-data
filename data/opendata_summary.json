@@ -1,0 +1,79 @@
+{
+  "generated_date": "2026-08-20",
+  "purpose": "Sizing the candidate universe of apartment complexes for a Denver-metro rental data project",
+  "datasets": {
+    "denver_residential_rental_licenses": {
+      "endpoint": "https://services1.arcgis.com/zdB7qR0BtYrg0Xpl/arcgis/rest/services/ODC_residential_rental_property_active_licenses/FeatureServer/61",
+      "portal_page": "https://opendata-geospatialdenver.hub.arcgis.com/datasets/residential-rental-property-active-licenses",
+      "local_file": "/Users/tlillis/git/housing-data/data/opendata_denver_rental.json",
+      "total_records": 38553,
+      "fields": [
+        "OBJECTID", "LICENSE_NUM", "LICENSE_TYPE", "LICENSE_STATUS",
+        "ENTITY_NAME", "RELATIONSHIP", "RENEWAL_NUM", "RENEWAL_STATUS",
+        "RENEWAL_CREATED", "ADDRESS", "ZIP", "PARCEL_NUM",
+        "EXPIRATION_DATE", "MULTIPLE_LICENSES"
+      ],
+      "has_complex_name_field": false,
+      "has_unit_count_field": false,
+      "notes": "ENTITY_NAME is the license holder/owner (person or LLC), NOT a property/complex name. There is no unit-count field. LICENSE_TYPE is 100% uniform ('Residential Rental Property') and MULTIPLE_LICENSES is 100% 'Stand Alone' across all 38,553 records -- the dataset provides no field that flags a record as part of a multi-unit apartment complex. As a proxy, grouping by PARCEL_NUM shows 26,321 distinct parcels; 2,900 parcels have more than one license record, and 599 parcels have more than 4 license records (9,327 records total) -- these are candidate apartment-complex parcels, but this is an inferred proxy, not a dataset-provided classification.",
+      "candidate_multiunit_records_proxy": 9327,
+      "candidate_multiunit_parcels_proxy_gt4_licenses": 599,
+      "distinct_complex_names": null,
+      "distinct_complex_names_note": "Not determinable -- no complex/property name field exists in this dataset.",
+      "license_terms": "City and County of Denver 'USE CONSTRAINTS' disclaimer (not CC0): data provided AS IS with no warranty; city disclaims liability; 'NOT FOR ENGINEERING PURPOSES'. No attribution requirement stated beyond standard disclaimer."
+    },
+    "boulder_rental_housing_licenses": {
+      "endpoint": "https://gis.bouldercolorado.gov/ags_svr1/rest/services/plan/RentalHousingLicenses/MapServer/0",
+      "arcgis_item_page": "https://data-boulder.opendata.arcgis.com/datasets/92f70ea894ef47a582bb0d656aa4aa7d_0/about",
+      "local_file": "/Users/tlillis/git/housing-data/data/opendata_boulder_rental.json",
+      "total_records": 11689,
+      "fields": [
+        "OBJECTID", "COBPIN", "BOCOTAX", "BOCOPIN", "LICENSENUMBER",
+        "MAINADDRESS", "LICENSESTATUS", "APPLIEDDATE", "ISSUEDDATE",
+        "EXPIRATIONDATE", "LASTRENEWALDATE", "SUBCOMMUNITY", "RENTALTYPE",
+        "COMPLEXNAME", "BUILDINGTYPE", "ENERGYCOMPLIANT",
+        "BUILDINGIDENTIFICATION", "DWELLINGUNITSONCASE",
+        "ROOMINGUNITSONCASE", "PROFESSIONALLICENSEHOLDERNAME",
+        "PROFESSIONALLICENSEHOLDERCMPNY", "PROFESSIONALLICENSEYEAR"
+      ],
+      "has_complex_name_field": true,
+      "complex_name_field": "COMPLEXNAME",
+      "has_unit_count_field": true,
+      "unit_count_field": "DWELLINGUNITSONCASE",
+      "records_with_nonempty_complexname": 2486,
+      "records_with_dwellingunits_gt4": 620,
+      "records_multiunit_complex_or_units_gt4": 2888,
+      "distinct_complex_names": 770,
+      "buildingtype_breakdown_top": {
+        "Single Family Dwelling": 4313,
+        "Condominium": 4052,
+        "Townhome": 1054,
+        "Apartment Building": 684,
+        "Duplex": 622,
+        "Tri-Plex": 211,
+        "Four-Plex": 201
+      },
+      "license_terms": "Creative Commons CC Zero (CC0 1.0) -- accessInformation: City of Boulder Colorado Planning Dept."
+    },
+    "denver_assessor_apartment_parcels_optional": {
+      "endpoint": "https://services1.arcgis.com/zdB7qR0BtYrg0Xpl/arcgis/rest/services/ODC_PROP_PARCELS_A/FeatureServer/245",
+      "portal_page": "https://opendata-geospatialdenver.hub.arcgis.com/datasets/geospatialDenver::parcels/about",
+      "total_parcels_in_dataset": 240366,
+      "relevant_fields": ["PROP_CLASS", "D_CLASS", "D_CLASS_CN", "TOT_UNITS", "SITUS_ADDRESS_LINE1", "OWNER_NAME"],
+      "query_used": "where=PROP_CLASS='1225' (assessor property class code for apartments)",
+      "prop_class_1225_parcel_count": 1759,
+      "prop_class_1225_tot_units_sum": 127293,
+      "narrower_breakdown_by_d_class_cn_within_prop_class_1225": {
+        "RESIDENTIAL-APARTMENT": {"parcels": 1090, "units": 25063},
+        "RESIDENTIAL-MULTI UNIT APTS": {"parcels": 526, "units": 95659},
+        "RESIDENTIAL-SENIOR CITIZEN APT": {"parcels": 11, "units": 833},
+        "RESIDENTIAL-NURSING FACILITY": {"parcels": 44, "units": 3930},
+        "RESIDENTIAL-BOARDING HOME": {"parcels": 14, "units": 381},
+        "RESIDENTIAL-MISC IMPS": {"parcels": 54, "units": 0},
+        "other_mixed_use_codes": {"parcels": 20, "units": 1388}
+      },
+      "note": "Independently verified count (PROP_CLASS='1225', 1,759 parcels / 127,293 units) is in the same ballpark as, but does not exactly match, the reportedly-cited ~1,992 parcels / ~140,509 units -- likely due to a different class filter or a different data snapshot date. Not saved as a bulk JSON file (out of scope of the two required targets); figures were derived via ArcGIS REST outStatistics queries against the live service.",
+      "license_terms": "Same City and County of Denver 'USE CONSTRAINTS' disclaimer as the rental license dataset."
+    }
+  }
+}
