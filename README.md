@@ -125,6 +125,19 @@ Folding these together made confidence unactionable, so they are reported apart.
 Every outbound request in the project goes through `Fetcher.get()`. There is no
 other path to the network, so the rules cannot be bypassed by a new caller.
 
+## Documentation
+
+| Doc | What it covers |
+|---|---|
+| [docs/DATA_DICTIONARY.md](docs/DATA_DICTIONARY.md) | Every field in the output, and which single number to use |
+| [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) | Data flow, extraction layers, design decisions |
+| [docs/COMPLIANCE.md](docs/COMPLIANCE.md) | The rules, where they're enforced, judgment calls, regulatory context |
+| [docs/OPERATIONS.md](docs/OPERATIONS.md) | Runbook: daily runs, parser changes, monitoring, known limits |
+| [reports/ASSESSMENT.md](reports/ASSESSMENT.md) | Feasibility: yield, platform concentration, what breaks first |
+| [reports/DISCLOSURE.md](reports/DISCLOSURE.md) | Fee/lease-term disclosure findings + how aggregators and the law handle it |
+| [reports/COVERAGE.md](reports/COVERAGE.md) | Candidate universe vs what's reachable |
+| [CLAUDE.md](CLAUDE.md) | Working rules for AI-assisted sessions in this repo |
+
 ## Layout
 
 ```
