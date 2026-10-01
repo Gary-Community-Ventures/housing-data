@@ -1,35 +1,35 @@
 # Yield Report
 
-_Generated 2026-08-27 18:36 UTC_
+_Generated 2026-10-01 18:33 UTC_
 
-**965 sites attempted.** 265 produced usable rent and/or availability (**27.5%**).
+**965 sites attempted.** 276 produced usable rent and/or availability (**28.6%**).
 
 ## Outcome by site
 
 | Code | Outcome | Sites | % of attempted |
 |---|---|---|---|
-| C_nothing | Nothing extracted | 325 | 33.7% |
-| A_rent_and_availability | Clean rent + availability | 221 | 22.9% |
-| D_skipped_vendor_hosted | Skipped - vendor-hosted marketing site | 116 | 12.0% |
-| F_dropped_terms_prohibit | Dropped - terms prohibit automated access | 112 | 11.6% |
-| G_unreachable | Unreachable / dead URL | 74 | 7.7% |
-| B1_rent_only | Rent only (no availability count) | 42 | 4.4% |
-| E_bot_blocked | Bot-blocked | 37 | 3.8% |
-| B3_structure_only | Floor plan structure only (no rent, no availability) | 35 | 3.6% |
-| B2_availability_only | Availability only (no rent) | 2 | 0.2% |
+| C_nothing | Nothing extracted | 324 | 33.6% |
+| A_rent_and_availability | Clean rent + availability | 224 | 23.2% |
+| F_dropped_terms_prohibit | Dropped - terms prohibit automated access | 111 | 11.5% |
+| D_skipped_vendor_hosted | Skipped - vendor-hosted marketing site | 104 | 10.8% |
+| G_unreachable | Unreachable / dead URL | 73 | 7.6% |
+| B1_rent_only | Rent only (no availability count) | 48 | 5.0% |
+| E_bot_blocked | Bot-blocked | 44 | 4.6% |
+| B3_structure_only | Floor plan structure only (no rent, no availability) | 32 | 3.3% |
+| B2_availability_only | Availability only (no rent) | 4 | 0.4% |
 | H_denylisted | Denylisted domain (never requested) | 1 | 0.1% |
 
 ## Records collected
 
 | Measure | Count |
 |---|---|
-| Listing rows | 7,896 |
-| Unit-level rows (individual apartments) | 5,786 |
-| Rows with an asking rent | 6,272 |
-| Rows with an availability count | 7,059 |
-| Rows with lat/long | 6,504 |
-| Distinct properties with data | 274 |
-| Sites where rent sits behind a denylisted leasing portal | 115 |
+| Listing rows | 8,890 |
+| Unit-level rows (individual apartments) | 6,808 |
+| Rows with an asking rent | 6,947 |
+| Rows with an availability count | 8,032 |
+| Rows with lat/long | 7,085 |
+| Distinct properties with data | 280 |
+| Sites where rent sits behind a denylisted leasing portal | 116 |
 
 ## Yield by candidate source
 
@@ -37,10 +37,10 @@ A single blended number is misleading. The OpenStreetMap sweep pulls in senior-l
 
 | Source | Attempted | Clean rent+avail | Usable (any) | Usable % | Structure only | Nothing | Blocked | Vendor-hosted | Terms-dropped | Dead URL |
 |---|---|---|---|---|---|---|---|---|---|---|
-| operator portfolios | 430 | 167 | 178 | 41.4% | 26 | 114 | 17 | 52 | 30 | 13 |
-| operator-sitemap | 226 | 24 | 35 | 15.5% | 0 | 117 | 0 | 0 | 67 | 7 |
-| OpenStreetMap | 212 | 22 | 34 | 16.0% | 7 | 72 | 15 | 20 | 13 | 50 |
-| browser-portfolio | 58 | 4 | 7 | 12.1% | 1 | 4 | 2 | 41 | 0 | 3 |
+| operator portfolios | 430 | 168 | 185 | 43.0% | 25 | 113 | 15 | 53 | 30 | 9 |
+| operator-sitemap | 226 | 25 | 35 | 15.5% | 0 | 116 | 0 | 0 | 66 | 9 |
+| OpenStreetMap | 212 | 23 | 37 | 17.5% | 5 | 71 | 17 | 17 | 13 | 51 |
+| browser-portfolio | 58 | 4 | 8 | 13.8% | 1 | 6 | 9 | 31 | 0 | 3 |
 | Boulder rental licenses (CC0) + browser search | 37 | 3 | 10 | 27.0% | 1 | 18 | 3 | 2 | 2 | 1 |
 | Boulder rental licenses (CC0) + web search | 2 | 1 | 1 | 50.0% | 0 | 0 | 0 | 1 | 0 | 0 |
 
@@ -50,9 +50,8 @@ If these medians did not resemble the Denver market, the extraction would be wro
 
 | Bedrooms | n | Min | p25 | Median | p75 | Max |
 |---|---|---|---|---|---|---|
-| Studio | 581 | $942 | $1,479 | $1,673 | $1,868 | $6,300 |
-| 1 bd | 3,035 | $1,050 | $1,708 | $1,930 | $2,242 | $9,581 |
-| 2 bd | 2,082 | $1,346 | $2,203 | $2,551 | $2,973 | $17,860 |
-| 3 bd | 384 | $1,936 | $2,653 | $2,895 | $3,187 | $14,652 |
-| 4 bd | 52 | $2,591 | $3,153 | $3,163 | $3,190 | $3,455 |
-| 6 bd | 2 | $5,556 | $5,556 | $5,556 | $5,556 | $5,556 |
+| Studio | 557 | $940 | $1,439 | $1,648 | $1,819 | $6,300 |
+| 1 bd | 3,345 | $899 | $1,698 | $1,892 | $2,216 | $15,713 |
+| 2 bd | 2,404 | $1,312 | $2,159 | $2,472 | $2,919 | $17,860 |
+| 3 bd | 463 | $1,527 | $2,603 | $2,825 | $3,238 | $14,612 |
+| 4 bd | 49 | $2,014 | $3,143 | $3,178 | $3,190 | $3,692 |

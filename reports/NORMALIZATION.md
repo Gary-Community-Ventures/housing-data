@@ -1,6 +1,6 @@
 # Rent Normalization & Confidence
 
-_Generated 2026-08-27 18:36 UTC_
+_Generated 2026-10-01 18:33 UTC_
 
 Raw asking rents from different sites are not comparable. Four independent traps appear in this data, each of which produces wrong advice to a household if ignored.
 
@@ -22,13 +22,13 @@ Nothing is assumed silently. `normalization_notes` records every derivation, and
 
 | Measure | Rows |
 |---|---|
-| Total rows | 7,896 |
-| With a comparable rent | 6,272 |
-| Lease-term price matrix published | 3,576 |
-| Mandatory monthly fees known | 3,671 |
-| Concession detected | 2,045 |
-| Per-bed rent normalized to whole unit | 132 |
-| Income-restricted (excluded from market-rate views) | 4 |
+| Total rows | 8,890 |
+| With a comparable rent | 6,947 |
+| Lease-term price matrix published | 3,966 |
+| Mandatory monthly fees known | 4,119 |
+| Concession detected | 1,899 |
+| Per-bed rent normalized to whole unit | 127 |
+| Income-restricted (excluded from market-rate views) | 3 |
 
 ## Two confidence axes, kept apart
 
@@ -39,31 +39,31 @@ Folding these together made confidence unactionable: a perfectly extracted unit-
 
 | confidence | Rows |
 |---|---|
-| high | 5575 |
-| low | 2116 |
-| medium | 205 |
+| high | 6271 |
+| low | 2425 |
+| medium | 194 |
 
 | cost_completeness | Rows |
 |---|---|
-| partial | 3540 |
-| minimal | 2429 |
-| complete | 1927 |
+| partial | 3752 |
+| minimal | 2906 |
+| complete | 2232 |
 
 ## What is holding rows below high confidence
 
 | Reason | Rows |
 |---|---|
-| no comparable rent could be derived | 1624 |
-| parsed from rendered HTML rather than a structured source | 873 |
-| whole-unit rent derived from a per-bed quote | 129 |
-| quoted for a non-standard lease term and not convertible | 81 |
-| failed plausibility validation | 11 |
+| no comparable rent could be derived | 1943 |
+| parsed from rendered HTML rather than a structured source | 795 |
+| whole-unit rent derived from a per-bed quote | 123 |
+| quoted for a non-standard lease term and not convertible | 73 |
+| failed plausibility validation | 6 |
 
 ## What cost information is missing
 
 | Gap | Rows |
 |---|---|
-| no lease-term price matrix published | 4320 |
-| mandatory monthly fees not published | 4225 |
-| no itemised fee schedule | 3956 |
-| lease term for the quoted rent not stated | 3661 |
+| no lease-term price matrix published | 4924 |
+| mandatory monthly fees not published | 4771 |
+| no itemised fee schedule | 4364 |
+| lease term for the quoted rent not stated | 4269 |

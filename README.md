@@ -53,6 +53,17 @@ pages not refreshed that day) are excluded from a day's observations rather than
 counted as stable, and their disappearance is not an "unlisted" event. The UI's
 **Trends** tab reads the result.
 
+### Housing screener weekly refresh
+
+Railway runs `run_weekly.py` every Wednesday at 07:00 UTC. It invokes the same
+locked end-to-end collector, then uploads the complete `data/listings.jsonl`
+snapshot as gzipped JSONL to the housing screener backend over Railway's private
+network. Set `RENTAL_IMPORT_HOST` to the backend's private domain and set the
+same `RENTAL_IMPORT_TOKEN` on the collector and backend; the token is not stored
+in the repository. The backend validates and atomically replaces its rental
+cache only when the new snapshot is newer and has at least half as many rows.
+The run exits with an error if collection or import fails.
+
 Run order matters: `normalize` reads the `plausible` flag that `validate` sets.
 
 ```bash

@@ -19,7 +19,7 @@ import argparse, fcntl, json, os, subprocess, sys, time
 from datetime import date, datetime, timezone
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
-PY = os.path.join(ROOT, ".venv", "bin", "python")
+PY = sys.executable
 LOCK = os.path.join(ROOT, "logs", "daily.lock")
 LOG = os.path.join(ROOT, "logs", f"daily_{date.today().isoformat()}.log")
 

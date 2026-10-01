@@ -5,56 +5,56 @@
    {
     "code": "C_nothing",
     "label": "Nothing extracted",
-    "n": 325,
-    "pct": 33.7
+    "n": 324,
+    "pct": 33.6
    },
    {
     "code": "A_rent_and_availability",
     "label": "Clean rent + availability",
-    "n": 221,
-    "pct": 22.9
-   },
-   {
-    "code": "D_skipped_vendor_hosted",
-    "label": "Skipped - vendor-hosted marketing site",
-    "n": 116,
-    "pct": 12.0
+    "n": 224,
+    "pct": 23.2
    },
    {
     "code": "F_dropped_terms_prohibit",
     "label": "Dropped - terms prohibit automated access",
-    "n": 112,
-    "pct": 11.6
+    "n": 111,
+    "pct": 11.5
+   },
+   {
+    "code": "D_skipped_vendor_hosted",
+    "label": "Skipped - vendor-hosted marketing site",
+    "n": 104,
+    "pct": 10.8
    },
    {
     "code": "G_unreachable",
     "label": "Unreachable / dead URL",
-    "n": 74,
-    "pct": 7.7
+    "n": 73,
+    "pct": 7.6
    },
    {
     "code": "B1_rent_only",
     "label": "Rent only (no availability count)",
-    "n": 42,
-    "pct": 4.4
+    "n": 48,
+    "pct": 5.0
    },
    {
     "code": "E_bot_blocked",
     "label": "Bot-blocked",
-    "n": 37,
-    "pct": 3.8
+    "n": 44,
+    "pct": 4.6
    },
    {
     "code": "B3_structure_only",
     "label": "Floor plan structure only (no rent, no availability)",
-    "n": 35,
-    "pct": 3.6
+    "n": 32,
+    "pct": 3.3
    },
    {
     "code": "B2_availability_only",
     "label": "Availability only (no rent)",
-    "n": 2,
-    "pct": 0.2
+    "n": 4,
+    "pct": 0.4
    },
    {
     "code": "H_denylisted",
@@ -69,55 +69,55 @@
     "pct": 0.0
    }
   ],
-  "usable_any_data": 265,
-  "listing_rows": 7896,
-  "unit_level_rows": 5786,
-  "rows_with_rent": 6272,
-  "rows_with_availability": 7059,
-  "rows_with_geo": 6504,
-  "distinct_properties_with_data": 274,
-  "usable_pct": 27.5,
-  "structure_only": 35,
-  "rent_behind_denylisted_portal": 115
+  "usable_any_data": 276,
+  "listing_rows": 8890,
+  "unit_level_rows": 6808,
+  "rows_with_rent": 6947,
+  "rows_with_availability": 8032,
+  "rows_with_geo": 7085,
+  "distinct_properties_with_data": 280,
+  "usable_pct": 28.6,
+  "structure_only": 32,
+  "rent_behind_denylisted_portal": 116
  },
  "normalization": {
-  "rows": 7896,
+  "rows": 8890,
   "confidence": {
-   "low": 2116,
-   "high": 5575,
-   "medium": 205
+   "low": 2425,
+   "medium": 194,
+   "high": 6271
   },
   "rent_basis": {
-   "per_unit": 7764,
-   "per_bed": 132
+   "per_unit": 8763,
+   "per_bed": 127
   },
-  "with_comparable_rent": 6272,
-  "term_matrix_published": 3576,
-  "mandatory_fees_known": 3671,
-  "with_concession": 2045,
-  "income_restricted": 4,
-  "per_bed_normalized": 132,
+  "with_comparable_rent": 6947,
+  "term_matrix_published": 3966,
+  "mandatory_fees_known": 4119,
+  "with_concession": 1899,
+  "income_restricted": 3,
+  "per_bed_normalized": 127,
   "cost_completeness": {
-   "minimal": 2429,
-   "partial": 3540,
-   "complete": 1927
+   "minimal": 2906,
+   "partial": 3752,
+   "complete": 2232
   },
   "top_cost_gaps": {
-   "no lease-term price matrix published": 4320,
-   "mandatory monthly fees not published": 4225,
-   "no itemised fee schedule": 3956,
-   "lease term for the quoted rent not stated": 3661
+   "no lease-term price matrix published": 4924,
+   "mandatory monthly fees not published": 4771,
+   "no itemised fee schedule": 4364,
+   "lease term for the quoted rent not stated": 4269
   },
   "top_confidence_blockers": {
-   "no comparable rent could be derived": 1624,
-   "parsed from rendered HTML rather than a structured source": 873,
-   "whole-unit rent derived from a per-bed quote": 129,
-   "quoted for a non-standard lease term and not convertible": 81,
-   "failed plausibility validation": 11
+   "no comparable rent could be derived": 1943,
+   "parsed from rendered HTML rather than a structured source": 795,
+   "whole-unit rent derived from a per-bed quote": 123,
+   "quoted for a non-standard lease term and not convertible": 73,
+   "failed plausibility validation": 6
   }
  },
  "browser_recovery": {
-  "bot_blocked_sites": 37,
+  "bot_blocked_sites": 44,
   "attempted_via_browser": 24,
   "captured_pages": [
    "altonjeffersonparkapts.com",
@@ -149,177 +149,114 @@
    "altonjeffersonparkapts.com",
    "liveraleighapts.com",
    "talonhill.com",
+   "www.altapineycreek.com",
+   "www.altasloanslake.com",
    "www.avanabelmar.com",
    "www.avanathorntonstation.com",
    "www.aviatorapartmentsco.com",
+   "www.emerywesthighland.com",
    "www.gardenplazaaurora.com",
+   "www.gatewayarvadaridge.com",
+   "www.legacyatfitz.com",
    "www.livegwgolden.com",
    "www.livingrw.com",
+   "www.luxeatmilehigh.com",
    "www.moderauniversitypark.com",
-   "www.newgateapthomes.com"
+   "www.mylambertsonfarmsapartments.com",
+   "www.newgateapthomes.com",
+   "www.prosperplaceapts.com",
+   "www.reflectionsatcherrycreek.com",
+   "www.ridgeatmountainview.com",
+   "www.rockvueapts.com",
+   "www.woodlineplaceapts.com",
+   "wyeflats.com"
   ],
-  "recovered_with_rows": 15,
-  "recovered_with_rent": 14,
-  "rows": 244,
-  "priced_rows": 161,
-  "per_host": {
-   "www.altonjeffersonparkapts.com": {
-    "rows": 20,
-    "priced": 18,
-    "avail": 10
-   },
-   "www.liveraleighapts.com": {
-    "rows": 41,
-    "priced": 13,
-    "avail": 28
-   },
-   "www.altapineycreek.com": {
-    "rows": 5,
-    "priced": 4,
-    "avail": 5
-   },
-   "www.altasloanslake.com": {
-    "rows": 16,
-    "priced": 10,
-    "avail": 16
-   },
-   "www.emerywesthighland.com": {
-    "rows": 35,
-    "priced": 16,
-    "avail": 35
-   },
-   "www.gatewayarvadaridge.com": {
-    "rows": 11,
-    "priced": 11,
-    "avail": 4
-   },
-   "www.legacyatfitz.com": {
-    "rows": 23,
-    "priced": 19,
-    "avail": 23
-   },
-   "www.luxeatmilehigh.com": {
-    "rows": 15,
-    "priced": 12,
-    "avail": 15
-   },
-   "www.mylambertsonfarmsapartments.com": {
-    "rows": 9,
-    "priced": 8,
-    "avail": 9
-   },
-   "www.prosperplaceapts.com": {
-    "rows": 15,
-    "priced": 15,
-    "avail": 15
-   },
-   "www.reflectionsatcherrycreek.com": {
-    "rows": 4,
-    "priced": 4,
-    "avail": 4
-   },
-   "www.ridgeatmountainview.com": {
-    "rows": 2,
-    "priced": 2,
-    "avail": 2
-   },
-   "www.rockvueapts.com": {
-    "rows": 9,
-    "priced": 8,
-    "avail": 9
-   },
-   "www.woodlineplaceapts.com": {
-    "rows": 27,
-    "priced": 21,
-    "avail": 27
-   },
-   "wyeflats.com": {
-    "rows": 12,
-    "priced": 0,
-    "avail": 0
-   }
-  },
+  "recovered_with_rows": 0,
+  "recovered_with_rent": 0,
+  "rows": 0,
+  "priced_rows": 0,
+  "per_host": {},
   "note": "robots.txt permits crawling on every one of these hosts; the 403s are CDN bot-management defaults. Reported separately so the primary yield figure stays a measure of plain HTTP collection."
  },
  "data_quality": {
-  "rows": 7896,
-  "plausible": 7885,
-  "implausible": 11,
+  "rows": 8890,
+  "plausible": 8884,
+  "implausible": 6,
   "flag_counts": {
-   "per_bed_pricing": 132,
-   "rent_per_sqft_outlier": 11,
-   "low_confidence_layer": 486,
-   "plan_name_is_unit_number": 180
+   "per_bed_pricing": 127,
+   "low_confidence_layer": 475,
+   "plan_name_is_unit_number": 207,
+   "rent_per_sqft_outlier": 6
   },
   "rows_by_layer": {
-   "L3": 387,
-   "L1": 5181,
-   "L2": 275,
-   "L4": 486,
-   "L1b": 1567
+   "L3": 320,
+   "L1": 5807,
+   "L1b": 1977,
+   "L2": 311,
+   "L4": 475
   },
   "priced_rows_by_layer": {
-   "L1": 4001,
-   "L2": 257,
-   "L4": 486,
-   "L1b": 1527,
-   "L3": 1
+   "L1": 4577,
+   "L1b": 1594,
+   "L2": 294,
+   "L4": 475,
+   "L3": 7
   },
-  "high_confidence_rows": 7405
+  "high_confidence_rows": 8415
  },
  "yield_by_source": [
   {
    "source": "operator portfolios",
    "attempted": 430,
-   "clean_rent_and_availability": 167,
-   "usable_any": 178,
-   "usable_pct": 41.4,
-   "structure_only": 26,
-   "nothing": 114,
-   "blocked": 17,
-   "vendor_hosted": 52,
+   "clean_rent_and_availability": 168,
+   "usable_any": 185,
+   "usable_pct": 43.0,
+   "structure_only": 25,
+   "nothing": 113,
+   "blocked": 15,
+   "vendor_hosted": 53,
    "terms_dropped": 30,
-   "unreachable": 13,
+   "unreachable": 9,
    "denylisted": 0
   },
   {
    "source": "operator-sitemap",
    "attempted": 226,
-   "clean_rent_and_availability": 24,
+   "clean_rent_and_availability": 25,
    "usable_any": 35,
    "usable_pct": 15.5,
    "structure_only": 0,
-   "nothing": 117,
+   "nothing": 116,
    "blocked": 0,
    "vendor_hosted": 0,
-   "terms_dropped": 67,
-   "unreachable": 7,
+   "terms_dropped": 66,
+   "unreachable": 9,
    "denylisted": 0
   },
   {
    "source": "OpenStreetMap",
    "attempted": 212,
-   "clean_rent_and_availability": 22,
-   "usable_any": 34,
-   "usable_pct": 16.0,
-   "structure_only": 7,
-   "nothing": 72,
-   "blocked": 15,
-   "vendor_hosted": 20,
+   "clean_rent_and_availability": 23,
+   "usable_any": 37,
+   "usable_pct": 17.5,
+   "structure_only": 5,
+   "nothing": 71,
+   "blocked": 17,
+   "vendor_hosted": 17,
    "terms_dropped": 13,
-   "unreachable": 50,
+   "unreachable": 51,
    "denylisted": 1
   },
   {
    "source": "browser-portfolio",
    "attempted": 58,
    "clean_rent_and_availability": 4,
-   "usable_any": 7,
-   "usable_pct": 12.1,
+   "usable_any": 8,
+   "usable_pct": 13.8,
    "structure_only": 1,
-   "nothing": 4,
-   "blocked": 2,
-   "vendor_hosted": 41,
+   "nothing": 6,
+   "blocked": 9,
+   "vendor_hosted": 31,
    "terms_dropped": 0,
    "unreachable": 3,
    "denylisted": 0
@@ -356,58 +293,58 @@
  "platforms": [
   {
    "platform": "unknown",
-   "sites": 374,
-   "with_rent": 25,
-   "with_avail": 11,
-   "rows": 526,
-   "blocked": 37,
-   "nothing": 66,
-   "structure_only": 30,
-   "portal_gated": 40,
-   "usable_rate_pct": 6.7
+   "sites": 364,
+   "with_rent": 28,
+   "with_avail": 9,
+   "rows": 536,
+   "blocked": 44,
+   "nothing": 64,
+   "structure_only": 28,
+   "portal_gated": 38,
+   "usable_rate_pct": 7.7
   },
   {
    "platform": "WordPress",
-   "sites": 197,
-   "with_rent": 50,
-   "with_avail": 32,
-   "rows": 961,
+   "sites": 199,
+   "with_rent": 51,
+   "with_avail": 33,
+   "rows": 904,
    "blocked": 0,
-   "nothing": 143,
+   "nothing": 144,
    "structure_only": 4,
-   "portal_gated": 33,
-   "usable_rate_pct": 25.4
+   "portal_gated": 34,
+   "usable_rate_pct": 25.6
   },
   {
    "platform": "Jonah Digital",
-   "sites": 121,
-   "with_rent": 116,
-   "with_avail": 118,
-   "rows": 5422,
+   "sites": 125,
+   "with_rent": 120,
+   "with_avail": 123,
+   "rows": 6026,
    "blocked": 0,
-   "nothing": 3,
+   "nothing": 2,
    "structure_only": 0,
-   "portal_gated": 1,
-   "usable_rate_pct": 95.9
+   "portal_gated": 0,
+   "usable_rate_pct": 96.0
   },
   {
    "platform": "Funnel / Nestio",
-   "sites": 104,
+   "sites": 108,
    "with_rent": 56,
-   "with_avail": 52,
-   "rows": 794,
+   "with_avail": 53,
+   "rows": 1222,
    "blocked": 0,
-   "nothing": 38,
+   "nothing": 39,
    "structure_only": 0,
-   "portal_gated": 25,
-   "usable_rate_pct": 53.8
+   "portal_gated": 27,
+   "usable_rate_pct": 51.9
   },
   {
    "platform": "Next.js",
    "sites": 38,
    "with_rent": 9,
    "with_avail": 9,
-   "rows": 75,
+   "rows": 82,
    "blocked": 0,
    "nothing": 29,
    "structure_only": 0,
@@ -417,21 +354,21 @@
   {
    "platform": "Drupal",
    "sites": 21,
-   "with_rent": 0,
+   "with_rent": 1,
    "with_avail": 0,
-   "rows": 1,
+   "rows": 7,
    "blocked": 0,
    "nothing": 20,
-   "structure_only": 1,
+   "structure_only": 0,
    "portal_gated": 0,
-   "usable_rate_pct": 0.0
+   "usable_rate_pct": 4.8
   },
   {
    "platform": "ActiveBuilding CMS",
    "sites": 13,
    "with_rent": 5,
    "with_avail": 1,
-   "rows": 27,
+   "rows": 28,
    "blocked": 0,
    "nothing": 8,
    "structure_only": 0,
@@ -440,19 +377,19 @@
   },
   {
    "platform": "Duda",
-   "sites": 10,
+   "sites": 11,
    "with_rent": 0,
    "with_avail": 0,
    "rows": 0,
    "blocked": 0,
-   "nothing": 10,
+   "nothing": 11,
    "structure_only": 0,
-   "portal_gated": 8,
+   "portal_gated": 9,
    "usable_rate_pct": 0.0
   },
   {
    "platform": "Wix",
-   "sites": 5,
+   "sites": 6,
    "with_rent": 1,
    "with_avail": 0,
    "rows": 2,
@@ -460,7 +397,7 @@
    "nothing": 4,
    "structure_only": 0,
    "portal_gated": 0,
-   "usable_rate_pct": 20.0
+   "usable_rate_pct": 16.7
   },
   {
    "platform": "Respage",
@@ -475,18 +412,6 @@
    "usable_rate_pct": 0.0
   },
   {
-   "platform": "Webflow",
-   "sites": 2,
-   "with_rent": 1,
-   "with_avail": 0,
-   "rows": 3,
-   "blocked": 0,
-   "nothing": 1,
-   "structure_only": 0,
-   "portal_gated": 0,
-   "usable_rate_pct": 50.0
-  },
-  {
    "platform": "Nuxt",
    "sites": 2,
    "with_rent": 0,
@@ -497,6 +422,18 @@
    "structure_only": 0,
    "portal_gated": 0,
    "usable_rate_pct": 0.0
+  },
+  {
+   "platform": "Webflow",
+   "sites": 1,
+   "with_rent": 1,
+   "with_avail": 0,
+   "rows": 3,
+   "blocked": 0,
+   "nothing": 0,
+   "structure_only": 0,
+   "portal_gated": 0,
+   "usable_rate_pct": 100.0
   },
   {
    "platform": "Squarespace",
@@ -512,23 +449,23 @@
   }
  ],
  "winning_layers": {
-  "L3:jsonld": 34,
-  "L1:jonah": 112,
+  "L3:jsonld": 32,
+  "L1:jonah": 118,
+  "L1b:spaces": 84,
   "L2:json-island": 14,
-  "L4:html-join": 56,
-  "L1b:spaces": 81,
+  "L4:html-join": 57,
   "L4:html-join+plan-pages(8)": 1,
   "+plan-pages(5)": 1,
   "+plan-pages(7)": 1
  },
  "terms": {
-  "sites_checked": 356,
+  "sites_checked": 363,
   "verdicts": {
-   "SILENT": 211,
+   "SILENT": 221,
    "PROHIBITS": 13,
-   "NO_TERMS_FOUND": 121,
-   "UNREADABLE": 8,
-   "PROHIBITS_PERSONAL_DATA_ONLY": 3
+   "NO_TERMS_FOUND": 123,
+   "PROHIBITS_PERSONAL_DATA_ONLY": 3,
+   "UNREADABLE": 3
   },
   "prohibiting_sites": [
    {
@@ -818,63 +755,53 @@
  "rent_stats_by_bedrooms": [
   {
    "bedrooms": 0.0,
-   "n": 581,
-   "min": 942.0,
-   "p25": 1479.0,
-   "median": 1672.95,
-   "p75": 1867.9,
+   "n": 557,
+   "min": 940.0,
+   "p25": 1438.79,
+   "median": 1647.96,
+   "p75": 1818.95,
    "max": 6300.0,
-   "mean": 1718.51
+   "mean": 1729.17
   },
   {
    "bedrooms": 1.0,
-   "n": 3035,
-   "min": 1050.0,
-   "p25": 1708.06,
-   "median": 1930.06,
-   "p75": 2242.06,
-   "max": 9581.0,
-   "mean": 2013.02
+   "n": 3345,
+   "min": 899.0,
+   "p25": 1698.0,
+   "median": 1891.95,
+   "p75": 2216.0,
+   "max": 15713.0,
+   "mean": 2048.98
   },
   {
    "bedrooms": 2.0,
-   "n": 2082,
-   "min": 1346.0,
-   "p25": 2202.66,
-   "median": 2551.0299999999997,
-   "p75": 2973.0,
+   "n": 2404,
+   "min": 1312.0,
+   "p25": 2159.0,
+   "median": 2471.9449999999997,
+   "p75": 2919.06,
    "max": 17860.0,
-   "mean": 2716.47
+   "mean": 2681.29
   },
   {
    "bedrooms": 3.0,
-   "n": 384,
-   "min": 1936.0,
-   "p25": 2652.66,
-   "median": 2894.56,
-   "p75": 3187.0,
-   "max": 14651.9,
-   "mean": 3093.16
+   "n": 463,
+   "min": 1527.44,
+   "p25": 2602.66,
+   "median": 2824.56,
+   "p75": 3238.0,
+   "max": 14611.9,
+   "mean": 3099.59
   },
   {
    "bedrooms": 4.0,
-   "n": 52,
-   "min": 2591.0,
-   "p25": 3153.25,
-   "median": 3163.25,
+   "n": 49,
+   "min": 2014.0,
+   "p25": 3143.25,
+   "median": 3178.25,
    "p75": 3190.27,
-   "max": 3455.27,
-   "mean": 3135.25
-  },
-  {
-   "bedrooms": 6.0,
-   "n": 2,
-   "min": 5555.95,
-   "p25": 5555.95,
-   "median": 5555.95,
-   "p75": 5555.95,
-   "max": 5555.95,
-   "mean": 5555.95
+   "max": 3692.0,
+   "mean": 3091.22
   }
  ],
  "attribution": [

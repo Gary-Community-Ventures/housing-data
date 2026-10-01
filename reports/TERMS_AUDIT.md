@@ -1,18 +1,18 @@
 # Terms Audit Log
 
-_Generated 2026-08-27 18:36 UTC_
+_Generated 2026-10-01 18:33 UTC_
 
-356 distinct hosts checked this run. This check runs on **every** collection pass, not once: terms can be added at any time, and a site that begins prohibiting automated access is dropped on the next run with the reason recorded.
+363 distinct hosts checked this run. This check runs on **every** collection pass, not once: terms can be added at any time, and a site that begins prohibiting automated access is dropped on the next run with the reason recorded.
 
 ## Verdicts
 
 | Verdict | Hosts |
 |---|---|
-| SILENT | 211 |
-| NO_TERMS_FOUND | 121 |
+| SILENT | 221 |
+| NO_TERMS_FOUND | 123 |
 | PROHIBITS | 13 |
-| UNREADABLE | 8 |
 | PROHIBITS_PERSONAL_DATA_ONLY | 3 |
+| UNREADABLE | 3 |
 
 **Verdict meanings**
 
