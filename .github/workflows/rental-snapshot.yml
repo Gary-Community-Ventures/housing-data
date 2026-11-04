@@ -1,0 +1,63 @@
+name: Collect rental snapshot
+
+on:
+  schedule:
+    - cron: '0 7 * * 3'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: rental-snapshot
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - name: Install collector dependencies
+        run: python -m pip install -r requirements.txt
+
+      - name: Collect and prepare snapshot
+        run: python -u run_daily.py
+
+      - name: Verify collector tests
+        run: |
+          python tests/test_reference.py
+          python tests/test_normalize.py
+
+      - name: Compress snapshot
+        run: |
+          test -s data/listings.jsonl
+          gzip -c data/listings.jsonl > rental-listings.jsonl.gz
+
+      - name: Publish snapshot
+        uses: actions/upload-artifact@v4
+        with:
+          name: rental-snapshot-${{ github.run_id }}
+          path: rental-listings.jsonl.gz
+          if-no-files-found: error
+          retention-days: 90
+
+      - name: Preserve diagnostics
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: rental-diagnostics-${{ github.run_id }}
+          path: |
+            logs/daily_*.log
+            logs/daily_status.json
+            reports/
+          if-no-files-found: warn
+          retention-days: 30
