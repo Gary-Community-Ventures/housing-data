@@ -61,3 +61,25 @@ jobs:
             reports/
           if-no-files-found: warn
           retention-days: 30
+
+  publish:
+    needs: collect
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          name: rental-snapshot-${{ github.run_id }}
+      - name: Publish downloadable snapshot
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          RUN_ID: ${{ github.run_id }}
+          COMMIT: ${{ github.sha }}
+        run: |
+          gh release create "rental-snapshot-${RUN_ID}" rental-listings.jsonl.gz \
+            --target "$COMMIT" --latest \
+            --title "Rental snapshot ${RUN_ID}" \
+            --notes "Collected and checked by GitHub Actions run ${RUN_ID}."
